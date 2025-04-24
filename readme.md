@@ -371,10 +371,30 @@ En muchos casos, los procesos actuales aún se realizan de forma manual, utiliza
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+💡`Creemos que` permitir el acceso al sistema desde múltiples dispositivos conectados (PC, tablet, celular o incluso dispositivos IoT) facilitará el monitoreo y uso continuo del sistema en cualquier momento y desde cualquier ubicación.
+
+💭`Sabremos que esto es cierto cuando` los usuarios accedan al sistema desde más de un dispositivo durante la primera semana de uso, incluyendo notificaciones o lecturas provenientes de sensores conectados.
+
+💡`Creemos que` digitalizar y automatizar la gestión de inventario mediante dispositivos IoT (como sensores de peso o tags RFID) permitirá un control más preciso del stock y reducirá drásticamente el tiempo destinado a tareas manuales.
+
+💭`Sabremos que esto es cierto cuando` los usuarios puedan registrar entradas y salidas en menos de 1 minuto gracias a sensores automatizados, y generen reportes sin usar hojas de cálculo externas.
+
+💡`Creemos que` integrar un sistema de ventas vinculado con sensores y un registro de clientes permitirá mejorar el seguimiento comercial y ofrecer un servicio más personalizado.
+
+💭`Sabremos que esto es cierto cuando` al menos el 90% de las ventas registradas estén asociadas a un cliente con información completa (nombre, contacto, historial) y estén relacionadas a datos recogidos automáticamente por sensores.
+
+💡`Creemos que` ofrecer reportes visuales y estadísticas generadas a partir de datos de sensores IoT facilitará la toma de decisiones informadas y basadas en la realidad operativa.
+
+💭`Sabremos que esto es cierto cuando` los usuarios consulten los reportes generados automáticamente al menos 3 veces por semana y ajusten su inventario o estrategia de ventas según la información mostrada.
+
+💡`Creemos que` ofrecer una interfaz intuitiva y soporte técnico desde el primer uso ayudará a que usuarios con poca familiaridad tecnológica adopten sin problemas una herramienta basada en IoT.
+
+💭`Sabremos que esto es cierto cuando` el 80% de los usuarios completen tareas básicas como registrar productos, interpretar alertas de sensores o consultar reportes sin requerir asistencia directa durante la primera semana.
+
 
 
 #### 1.2.2.4. Lean UX Canvas
-
+![Lean UX Canvas](resources/Lean_UX_Canvas.png)
 
 ## Segmentos Objetivos
 
