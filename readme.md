@@ -24,7 +24,7 @@
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
-        "👩‍💻 Apellidos, Nombres - Codigo",
+        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo"
@@ -183,7 +183,7 @@ Falta descripción
 
    <!--TODO: integrante 2 -->
 
-**> 🧑‍💻 Integrante 2**
+**> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
    <img src="url" alt="name" width="100" align='right'>
