@@ -189,15 +189,20 @@ Falta descripción
    <img src="" alt="Jose Enrique Vargas Javier" width="100" align='right'>
 
    ~~~txt
-   👾 Soy estudiante de Ingeniería de Software de la UPC, en estos momentos me encuentro cursando el 5to ciclo de la carrera.
+   👾 Soy estudiante de Ingeniería de Software 
+   de la UPC, en estos momentos me encuentro 
+   cursando el 5to ciclo de la carrera.
 
-   💻 En todo este camino he aprendido diversos lenguajes de programacion, tales como:
+   💻 En todo este camino me he formado en lenguajes de programacion, tales como:
 
     ➡️ C++
        ➡️ Python
     ➡️ SQL
 
-   🎉 Mi habilidad competitiva es comprometerme con el trabajo encargado, poder adaptarme a cualquier área con el fin de seguir adquiriendo mas conocimientos ✅.
+   🎉 Mi habilidad competitiva es comprometerme 
+   con el trabajo encargado, poder adaptarme a 
+   cualquier área con el fin de seguir 
+   adquiriendo mas conocimientos ✅.
    ~~~
 
    </div>
@@ -436,7 +441,7 @@ Falta descripción
 Para el desarrollo del logo de StockHunters, hemos elegido un diseño que encapsula la esencia de la aplicación y sus funcionalidades. El logotipo presenta una tipografía sofisticada y clara, que aporta modernidad y profesionalismo. El ícono, simboliza la eficiencia, el orden y la agilidad. La elección de colores vibrantes y dinámicos, en una combinación de tonos azules y blancos, transmite una sensación de confianza y estabilidad. La integración de estos elementos busca comunicar visualmente el compromiso de StockHunters con la innovación y la excelencia en la gestión de inventarios.
 
 <p align="center">
-<img src="images/StockHunters.png" alt="Logo de StockHunters" width="350" height="200">
+<img src="resources/Imagotipo.png" alt="Logo de StockHunters" width="350" height="200">
 </p>
 
 **Typography:**
@@ -445,7 +450,7 @@ Para el diseño tipográfico de StockHunters, se ha seleccionado una combinació
 
 A continuación, se detallan las tipografías adoptadas para StockHunters:
 <p align="center">
-<img src="images/Fonts.png" alt="Fonts de StockHunters" width="350" height="250">
+<img src="resources/fonts.png" alt="Fonts de StockHunters" width="350" height="250">
 </p>
 
 **Colors**
@@ -455,7 +460,7 @@ La paleta de colores de **StockHunters** fue seleccionada para reflejar los valo
 A continuación, se detallan los colores seleccionados para StockHunters:
 
 <p align="center">
-<img src="images/Colors.png" alt="Colors de StockHunters" width="350" height="200">
+<img src="resources/colors.png" alt="Colors de StockHunters" width="350" height="170">
 </p>
 
 **Spacing**
@@ -463,7 +468,7 @@ A continuación, se detallan los colores seleccionados para StockHunters:
 El espaciado en **StockHunters** está cuidadosamente definido para garantizar una interfaz limpia y organizada. Se emplea una separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño.
 
 <p align="center">
-<img src="images/Spacing.png" alt="Spacing de StockHunters" width="350" height="150">
+<img src="resources/spacing.png" alt="Spacing de StockHunters" width="350" height="130">
 </p>
 
   ### 4.1.2. Web Style Guidelines
@@ -482,121 +487,112 @@ El logotipo se ubica en la esquina superior izquierda, mientras que la barra de 
   ### 4.3.1. Landing Page Wireframes
   **Landing Page para Desktop Web Browser**
   <p align="center">
-<img src="images/lp1.png" alt="1" width="400" height="200">
+<img src="resources/lp1.png" alt="1" width="400" height="450">
 </p>
 
 <p align="center">
-<img src="images/lp2.png" alt="2" width="400" height="200">
+<img src="resources/lp2.png" alt="2" width="400" height="500">
 </p>
 
 <p align="center">
-<img src="images/lp3.png" alt="3" width="400" height="250">
+<img src="resources/lp3.png" alt="3" width="400" height="350">
 </p>
 
 <p align="center">
-<img src="images/lp4.png" alt="4" width="400" height="200">
+<img src="resources/mb1.png" alt="mb1" width="250" height="300">
 </p>
 
 <p align="center">
-<img src="images/lp5.png" alt="5" width="400" height="150">
+<img src="resources/mb2.png" alt="mb2" width="250" height="400">
 </p>
 
 <p align="center">
-<img src="images/lp6.png" alt="6" width="400" height="150">
+<img src="resources/mb3.png" alt="mb3" width="250" height="250">
 </p>
 
 <p align="center">
-<img src="images/lp7.png" alt="7" width="400" height="100">
-</p>
-
-<p align="center">
-<img src="images/mb1.png" alt="mb1" width="200" height="450">
-</p>
-
-<p align="center">
-<img src="images/mb2.png" alt="mb2" width="200" height="350">
-</p>
-
-<p align="center">
-<img src="images/mb3.png" alt="mb3" width="200" height="750">
-</p>
-
-<p align="center">
-<img src="images/mb4.png" alt="mb4" width="200" height="550">
-</p>
-
-<p align="center">
-<img src="images/mb5.png" alt="mb5" width="200" height="350">
-</p>
-
-<p align="center">
-<img src="images/mb6.png" alt="mb6" width="200" height="250">
-</p>
-
-<p align="center">
-<img src="images/mb7.png" alt="mb7" width="200" height="350">
+<img src="resources/mb4.png" alt="mb5" width="250" height="380">
 </p>
 
   ### 4.3.2. Landing Page Mock-Up
 
 <p align="center">
-<img src="images/lm1.png" alt="1" width="400" height="200">
+<img src="resources/lm1.png" alt="1" width="400" height="450">
 </p>
 
 <p align="center">
-<img src="images/lm2.png" alt="2" width="400" height="200">
+<img src="resources/lm2.png" alt="2" width="400" height="550">
 </p>
 
 <p align="center">
-<img src="images/lm3.png" alt="3" width="400" height="300">
+<img src="resources/lm3.png" alt="3" width="400" height="500">
 </p>
 
 <p align="center">
-<img src="images/lm4.png" alt="4" width="400" height="210">
+<img src="resources/mm1.PNG" alt="mm1" width="250" height="300">
 </p>
 
 <p align="center">
-<img src="images/lm5.png" alt="5" width="400" height="160">
+<img src="resources/mm2.png" alt="mm2" width="250" height="400">
 </p>
 
 <p align="center">
-<img src="images/lm6.png" alt="6" width="400" height="180">
+<img src="resources/mm3.png" alt="mm3" width="250" height="260">
 </p>
 
 <p align="center">
-<img src="images/lm7.png" alt="7" width="400" height="200">
-</p>
-
-<p align="center">
-<img src="images/mm1.PNG" alt="mm1" width="200" height="700">
-</p>
-
-<p align="center">
-<img src="images/mm2.png" alt="mm2" width="200" height="700">
-</p>
-
-<p align="center">
-<img src="images/mm3.png" alt="mm3" width="200" height="500">
-</p>
-
-<p align="center">
-<img src="images/mm4.png" alt="mm4" width="200" height="350">
-</p>
-
-<p align="center">
-<img src="images/mm5.png" alt="mm5" width="200" height="200">
-</p>
-
-<p align="center">
-<img src="images/mm6.png" alt="mm6" width="200" height="350">
+<img src="resources/mm4.png" alt="mm4" width="200" height="300">
 </p>
 
  ## 4.4. Web Applications UX/UI Desing
-  ### 4.4.1. Web Applications Wireframes
-  ### 4.4.2. Web Applications Wireflow Diagrams
-  ### 4.4.3. Web Applications User Flow Diagrams
 
+ El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) en aplicaciones web busca crear experiencias digitales intuitivas y satisfactorias. La UX se enfoca en comprender las necesidades del usuario y diseñar flujos de interacción eficientes, mientras que la UI se encarga del aspecto visual, como botones, menús y disposición de contenido. Un diseño UX/UI exitoso fusiona estética y funcionalidad, ofreciendo una experiencia fluida y memorable.
+  ### 4.4.1. Web Applications Wireframes
+<p align="center">
+<img src="resources/mob1.png" alt="mm2" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob2.png" alt="mm3" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob3.png" alt="mm4" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="resources/mob4.png" alt="mm2" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob5.png" alt="mm3" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob6.png" alt="mm4" width="400" height="200">
+</p>
+
+  ### 4.4.2. Web Applications Wireflow Diagrams
+<p align="center">
+<img src="resources/uf.png" alt="mm4" width="400" height="600">
+</p>
+
+  ### 4.4.3. Web Applications User Flow Diagrams
+El diagrama de flujo de usuario es una representación visual de las acciones que un usuario realiza al interactuar con una aplicación o sitio web. Se detalla la secuencia de pasos necesarios para completar una tarea, lo que permite identificar áreas de mejora y optimizar la experiencia del usuario.
+
+**Leyenda**
+<p align="center">
+<img src="resources/legend.png" alt="mm4" width="400" height="100">
+</p>
+
+**Vista general del flujo del Usuario**
+
+<p align="center">
+<img src="resources/ui.png" alt="mm4" width="600" height="600">
+</p>
  ## 4.5. Web Applications Prototyping
+ Prototipo de StockHunters en Figma
+ https://www.figma.com/proto/5IiHYIgt85kgRWLgpMnTqw/Landing-Page-UI-Desing?node-id=0-1&t=X91d0D62Wegvuk7E-1
  
  ## 4.6. Domain-Driven Software Architecture
   ### 4.6.1. Software Architecture Context Diagram
