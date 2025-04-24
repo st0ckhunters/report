@@ -24,8 +24,8 @@
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
+        "👩‍💻 Apellidos, Nombres - Codigo",        
         "👩‍💻 Tasayco Osorio, Raul Hiroshi - U202319415",
-        "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo"
     };
@@ -183,10 +183,23 @@ Falta descripción
 
    <!--TODO: integrante 2 -->
 
+**> 🧑‍💻 integrante 2**
+   <div align='center'>
+
+   <img src="url" alt="name" width="100" align='right'>
+
+   ~~~txt
+
+   ~~~
+
+   </div>
+
+   <!--TODO: integrante 3 -->
+
 **> 🧑‍💻 Raul Hiroshi Tasayco Osorio**
    <div align='center'>
 
-   <img src="url" alt="Raul Hiroshi Tasayco Osorio" width="100" align='right'>
+   <img src="resources/Image_open_source.png" alt="Raul Hiroshi Tasayco Osorio" width="100" align='right'>
 
    ~~~txt
     Soy un estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro cursando el 5to ciclo.
@@ -197,19 +210,6 @@ Falta descripción
       4️⃣ HTML  
       5️⃣ CSS   
     En lo personal considero que soy una persona que está dispuesto a adquirir la mayoría de conocimientos posibles, además ñde trabajar bien en equipo, las espectativas del curso son muy altas, puesto que siento que es un curso fundamental para nuestra formación como futuros Ingenieros de Software. 💻
-   ~~~
-
-   </div>
-
-   <!--TODO: integrante 3 -->
-
-**> 🧑‍💻 Integrante 3**
-   <div align='center'>
-
-   <img src="link-img" alt="name" width="100" align='right'>
-
-   ~~~txt
-   Descripción
    ~~~
 
    </div>
@@ -300,15 +300,74 @@ En consecuencia, esto genera retrasos de operaciones, una administración de baj
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+En la actualidad, muchas empresas enfrentan la necesidad de implementar un sistema integral de gestión de inventario y ventas que sea eficiente, automatizado y accesible desde cualquier dispositivo con conexión a internet. Este sistema debería incorporar tecnologías de Internet de las Cosas (IoT) para optimizar el monitoreo del stock mediante sensores conectados, registrar automáticamente entradas y salidas de productos, y generar alertas en tiempo real ante niveles bajos de inventario o condiciones críticas. Además, debe facilitar el seguimiento detallado de ventas y clientes, incluyendo la recopilación estructurada de información como nombres, datos de contacto e historial de compras, con el fin de mejorar la toma de decisiones estratégicas y fortalecer la relación con el cliente.
+
+En muchos casos, los procesos actuales aún se realizan de forma manual, utilizando hojas de cálculo o registros físicos, lo que conlleva múltiples desventajas: errores por duplicación o desactualización, dificultad para acceder a información específica, falta de acceso remoto al sistema y limitaciones para generar reportes útiles para la planificación o auditoría. Estas deficiencias impactan directamente en la eficiencia operativa, el control de stock y la experiencia del cliente, generando retrasos, frustración y posibles pérdidas económicas.
+
+¿Cómo se podría digitalizar y automatizar el control de inventario y ventas mediante el uso de tecnologías IoT y sistemas conectados? ¿De qué forma se puede garantizar el acceso remoto, seguro y sincronizado desde múltiples dispositivos? ¿Qué herramientas permitirían generar reportes visuales, claros y en tiempo real que respalden las decisiones estratégicas y mejoren el análisis del rendimiento?
 
 #### 1.2.2.2. Lean UX Assumptions
 
 ##### Business Outcomes:
 
+* **▶️Creemos que nuestros usuarios necesitan:**<br>
+
+    Una solución inteligente que permita la gestión automatizada de ventas e inventario desde cualquier dispositivo con acceso a internet, apoyada en tecnologías IoT como sensores de stock, dispositivos conectados y monitoreo remoto. Esto permitirá acceder a datos en tiempo real, reducir errores manuales y tomar decisiones estratégicas basadas en información precisa.<br><br>
+
+* **▶️Estas necesidades se pueden satisfacer con:**<br>
+
+  Una aplicación web interactiva integrada con dispositivos IoT que automatice el registro de entradas y salidas mediante sensores de proximidad, notifique en tiempo real sobre los niveles de inventario, gestione ventas, y genere reportes accesibles desde múltiples plataformas en diferentes dispositivos. Esto elimina la necesidad de actualizaciones manuales y garantiza datos confiables y actualizados al instante.<br><br>
+
+* **▶️Nuestros clientes iniciales son:**
+
+  Empresas medianas o pequeñas que manejan productos físicos y desean mejorar el control de inventario, como almacenes, tiendas de repuestos, ferreterías o centros de distribución, especialmente aquellas interesadas en integrar sensores o soluciones tecnológicas para optimizar sus operaciones garantizando la fiabilidad de su negocio.<br><br>
+
+* **▶️El valor más importante que un cliente quiere de nuestros servicios es:**<br>
+  Automatización del inventario a través de sensores IoT, acceso remoto y en tiempo real a la información, reducción del trabajo manual por parte de operarios y mayor precisión en la gestión de ventas y stock gracias al aplicativo.<br><br>
+
+* **▶️El cliente también va a obtener estos beneficios adicionales:**<br>
+  Alertas automaticas por niveles bajos de productos, estadísticas generadas desde los datos de sensores recaudados en la db, reducción de los errores humanos, mejora en la toma de decisiones basada en datos reales con poco margen de falla, ahorro de tiempo operativo y una experiencia mucho más moderna y tecnológica en su empresa.<br><br>
+
+* **▶️Vamos a adquirir la mayoría de nuestros clientes a través de:**<br>
+  Estrategias de marketing digital enfocadas en negocios que buscan digitalizarse y optar por un enfoque más moderno, realizando demostraciones prácticas del sistema con sensores IoT reales, contenido en redes sociales como Facebook, Instagram, X o diversas plataformas mostrando la automatización en acción, y además alianzas con distribuidores de IoT.<br><br>
+
+* **▶️Haremos dinero a través de:**<br>
+  Planes de suscripción, ya sea mensual, anual o de por vida, por el uso del software, venta o alquiler de sensores IoT compatibles con el uso que cada empresa necesite, servicios de instalación inicial, soporte tecnico especializado y personalización del sistema según el tipo del negocio.<br><br>
+
+* **▶️Nuestra competencia principal en el mercado será:**<br>
+  Sistemas tradicionales y no automatizados como Excel, software POS básicos o ERP costosos que no incluyen integración con dispositivos IoT ni automatización del inventario físico.<br><br>
+
+* **▶️Vamos a tener ventaja frente a nuestra competencia debido a:**<br>
+  Nuestro enfoque está centrado en IoT lo cual viene con: facilidad de uso, automatización real con sensores, acceso multiplataforma, reducción de personal en el area de almacen, costos accesibles y soporte personalizado para empresas que buscan transformar su operación con tecnología.<br><br>
+
+* **▶️El mayor riesgo del servicio es que:**<br>
+  Muchas pequeñas empresas todavía se resisten a optar por soluciones IoT por desconocimiento o miedo al cambio, prefiriendo métodos manuales y poco antiguos aunque sean menos eficientes.<br><br>
+
+* **▶️Eliminaremos los riesgos:**<br>
+  Brindando capacitación gratuita sobre el uso de sensores IoT, dando soporte técnico frecuentemente, haciendo demostraciones prácticas con casos reales y realizando comparativas claras que evidencien el ahorro de tiempo y dinero frente a los métodos tradicionales.<br><br>
+
+
 
 
 ##### User Outcomes
 
+* **🔴¿Quién es nuestro usuario?** <br>
+  Nuestro usuario es el administrador, personal de ventas o logística de una empresa que gestiona productos físicos, responsable del control de inventario, ventas y atención al cliente. Son personas que necesitan soluciones tecnológicas prácticas, rápidas y confiables, especialmente si manejan volúmenes altos de productos.
+
+* **🔴¿Qué problema tiene nuestro producto y cómo se puede resolver?**<br>
+  El problema es la falta de eficiencia operativa, errores manuales y la ausencia de visibilidad en tiempo real del inventario. Esto se puede resolver mediante un sistema automatizado basado en IoT, que use sensores conectados para actualizar automáticamente el estado del stock, registrar movimientos y brindar acceso remoto a información precisa desde cualquier dispositivo.
+
+* **🔴¿Dónde encaja nuestro producto en su vida?**<br>
+  Encaja directamente en sus actividades diarias, ya que facilita tareas críticas como el control de inventario, monitoreo de ventas, análisis de datos y atención al cliente, todo desde una sola plataforma conectada a dispositivos IoT.
+
+* **🔴¿Cómo y cuándo es usado nuestro producto?**<br>
+  Se utiliza varias veces al día durante las horas de trabajo. Los usuarios interactúan con la plataforma para registrar ventas, verificar niveles de stock a través de sensores, consultar reportes automáticos, recibir alertas y acceder al historial de clientes y productos.
+* **🔴¿Qué problemas puede enfrentar nuestro producto?**<br>
+  Podría enfrentar resistencia al cambio por parte de usuarios poco familiarizados con IoT, depender de una buena conexión a internet para operar en tiempo real, y posibles desafíos al integrarse con sistemas tradicionales o plataformas heredadas.
+
+* **🔴¿Qué características son importantes?**<br>
+  Una interfaz sencilla e intuitiva, integración con sensores IoT para el monitoreo automático del stock, reportes instantáneos fáciles de entender, acceso remoto desde múltiples dispositivos, registros rápidos y seguros, respaldo automático de datos y escalabilidad para distintos tipos de negocio.
+  
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
