@@ -196,7 +196,7 @@ Falta descripción
       3️⃣ SQL   
       4️⃣ HTML  
       5️⃣ CSS   
-    En lo personal considero que soy una persona que está dispuesto a adquirir la mayoría de conocimientos posibles, además de trabajar bien en equipo, las espectativas del curso son muy altas, puesto que siento que es un curso fundamental para nuestra formación como futuros Ingenieros de Software. 💻
+    En lo personal considero que soy una persona que está dispuesto a adquirir la mayoría de conocimientos posibles, además ñde trabajar bien en equipo, las espectativas del curso son muy altas, puesto que siento que es un curso fundamental para nuestra formación como futuros Ingenieros de Software. 💻
    ~~~
 
    </div>
@@ -245,30 +245,56 @@ Falta descripción
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
-
+Actualmente, un gran porcentaje de las empresas, no solo en el Perú, sino también a nivel mundial, requieren de un sistema eficiente de gestión, manejo y control de stock. Este tipo de herramienta les permite monitorear de manera continua y precisa todos los datos estadísticos, los cuales son muy importantes para realizar análisis estadisticos y tomar decisiones estratégicas que generen un impacto positivo. Sin embargo, hoy en día, muchas empresas todavía utilizan metodos obsoletos o a lo mejor poco eficientes, lo que dificulta el buen manejo de la información que tiene cada empresa. 
+En consecuencia, esto genera retrasos de operaciones, una administración de baja calidad de los datos, mala toma de decisiones, poco profesionalismo y en general una mala gestión empresarial. Por ello, ante esta situación, se vuelve imprescindible que las empresas se interesen por la implementación de sistemas modernos y automatizados mediante IoT que les permitan optimizar los procesos, mejorar la certeza sus decisiones ,y sobre todo, mantenerse competitivas en un mercado cada vez mucho más exigente.
 
 #### ⁉️5“W”s + 2"H"'s
 
 ##### 🟡 WHAT (QUÉ)
-
-
+* ¿Cuál es el problema?
+  
+  El problema es que las empresas actuales no cuentan con un buen sistema de gestión de stocks, lo cual trae consigo varias deficiencias como por ejemplo, datos estadisticos erroneos, mala toma de decisiones de negocio, demoras en los procesos logísticos y administrativos, así como una falta de control sobre los niveles reales del inventario.
+  Además, estas no realizan el uso de tecnologías IoT las cuales son capaces de  automatizar tareas como la del monitoreo de inventario en tiempo real dando así una mejor precisión acerca de los datos.
 
 ##### 🟡 WHEN (CUANDO)
+* ¿Cuándo sucede el problema?
 
+  El problema sucede cada que el administrador o dueño una empresa, mayormente medianas o pequeñas, intenta realizar una consulta de datos del inventario. También cuando los analistas de la empresa se ponen a estudiar los datos para poder realizar decisiones en cuanto a las compras, ventas y estrategias comerciales. En consecuencia, al no tener un buen administrador de datos provoca inconvenientes y fallas con la obtención de esos datos erroneos y poco precisos, generando fallas en la planificación y toma de decisiones erroneas.  
 
 ##### 🟡 WHERE (DONDE)
 
-##### 🟡 WHO (QUIEN)
+* ¿Dónde se presenta el problema?
 
+  El problema se presenta en las empresas que no cuentan con un sistema adecuado para el control de los datos y que además dependan solamente de archivos físicos, hojas de excel o programas que solamente funcionan localmente.
+
+* ¿Dónde se usa el producto?
+
+  El producto que además está fuertemente ligado con IoT permite que desde cualquier dispositivo con internet, los usuarios puedan realizar consultas de datos, recibir notificaciones automáticas sobre el inventario o stock y visualizar los reportes desde donde se encuentren gracias a sensores que controlan la información de forma continua.
+
+##### 🟡 WHO (QUIEN)
+* ¿Quién tiene el problema?
+
+  El problema lo tienen las empresas tanto mediana como pequeña que no cuenten con un software especializado para el manejo y control de stock en tiempo real mediante la implementación de componentes IoT
+
+* ¿Quién se beneficia del producto?
+
+  Los principales beneficiarios son los dueños de empresas y los desarrolladores del software, puesto que por un lado las empresas al tener un software especializado en la gestión de stocks, podrán realizar mejor las decisiones de negocio lo que conlleva a tomar decisiones más precisas a futuro, por el otro lado tenemos a los dsarrolladores los cuales monetizan este producto generando de esta forma una ganancia.
 
 ##### 🟡 WHY (POR QUE)
+* ¿Por qué ocurre el problema?
 
+  El problema ocurre principalmente porque muchas empresas aún dependen de herramientas tradicionales o limitadas, puesto que no han adoptado tecnologías como IoT, que automatizan el intercambio de datos entre sensores físicos y plataformas digitales o aplicativos. 
+  Además, por desconocimiento o resistencia al cambio de varias empresas, los usuarios siguen optando por métodos ineficientes que aunque "funcionan", no permiten un crecimiento real, sino un atasco.
 
 ##### 🟡 HOW (COMO)
+* ¿Cómo soluciona nuestro producto el problema?
 
+  La solución propuesta es una aplicación web integrada con dispositivos IoT por ejemplo, sensores de peso, sensores de proximidad y lectores de codigos de barra automáticos que monitorean en tiempo real el estado del inventario y actualizan automáticamente la base de datos del sistema.
 
 ##### 🟡 HOW MUCH (CUANTO)
+* ¿Cuánto mejora el producto la situacón actual de las empresas?
 
+  La implementación de nuestro producto en las empresas mejora significativamente la eficiencia operativa en general. Reduce el tiempo dedicado a la gestión manual del inventario, disminuye drasticamente los errores por registros o productos duplicados y mejora significativamente la toma de decisiones gracias a los datos precisos y en tiempo real. Esto en pocas palabras es una mayor productividad, una reducción de pérdidas por mal manejo de stock y una planificación empresarial más efectiva, generando un impacto positivo tanto en el desempeño del negocio como en la experiencia del cliente.
 
 ### 1.2.2 Lean Ux Process
 
