@@ -186,10 +186,18 @@ Falta descripción
 **> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="url" alt="name" width="100" align='right'>
+   <img src="" alt="Jose Enrique Vargas Javier" width="100" align='right'>
 
    ~~~txt
-   Description
+   👾 Soy estudiante de Ingeniería de Software de la UPC, en estos momentos me encuentro cursando el 5to ciclo de la carrera.
+
+   💻 En todo este camino he aprendido diversos lenguajes de programacion, tales como:
+
+    ➡️ C++
+       ➡️ Python
+    ➡️ SQL
+
+   🎉 Mi habilidad competitiva es comprometerme con el trabajo encargado, poder adaptarme a cualquier área con el fin de seguir adquiriendo mas conocimientos ✅.
    ~~~
 
    </div>
@@ -421,9 +429,46 @@ Falta descripción
 
 # Capítulo IV: Product Desing
  ## 4.1. Style Guidelines
+**Un "Style Guideline"** es un conjunto de directrices y normas que establecen los estándares y criterios a seguir en la redacción, diseño y presentación de documentos, contenido web, software y otros productos creativos. A continuación, se presentan las especificaciones detalladas de los parámetros implementados en la estructura del proyecto.
   ### 4.1.1. General Style Guidelines
-  ### 4.1.2. Web Style Guidelines
+**Branding**
 
+Para el desarrollo del logo de StockHunters, hemos elegido un diseño que encapsula la esencia de la aplicación y sus funcionalidades. El logotipo presenta una tipografía sofisticada y clara, que aporta modernidad y profesionalismo. El ícono, simboliza la eficiencia, el orden y la agilidad. La elección de colores vibrantes y dinámicos, en una combinación de tonos azules y blancos, transmite una sensación de confianza y estabilidad. La integración de estos elementos busca comunicar visualmente el compromiso de StockHunters con la innovación y la excelencia en la gestión de inventarios.
+
+<p align="center">
+<img src="images/StockHunters.png" alt="Logo de StockHunters" width="350" height="200">
+</p>
+
+**Typography:**
+
+Para el diseño tipográfico de StockHunters, se ha seleccionado una combinación de fuentes que refleja modernidad y funcionalidad. La tipografía principal, **SpaceGrotesk**, fue elegida por su claridad y legibilidad en pantallas digitales, otorgando al diseño un aire sofisticado en nuestros encabezados. Para los párrafos, hemos optado por **Poppins**, una fuente destacada por su capacidad para resaltar la información clave, favoreciendo una experiencia visual atractiva y dinámica para el usuario. 
+
+A continuación, se detallan las tipografías adoptadas para StockHunters:
+<p align="center">
+<img src="images/Fonts.png" alt="Fonts de StockHunters" width="350" height="250">
+</p>
+
+**Colors**
+
+La paleta de colores de **StockHunters** fue seleccionada para reflejar los valores de confianza, eficiencia y modernidad que definen a nuestro sistema. Los tonos predominantes, **azul** y **gris**, evocan sensaciones de profesionalismo, claridad y orden, elementos esenciales para una herramienta orientada al control y optimización de recursos. Esta combinación de colores refuerza la identidad visual del producto como una solución tecnológica y amigable para el usuario.
+
+A continuación, se detallan los colores seleccionados para StockHunters:
+
+<p align="center">
+<img src="images/Colors.png" alt="Colors de StockHunters" width="350" height="200">
+</p>
+
+**Spacing**
+
+El espaciado en **StockHunters** está cuidadosamente definido para garantizar una interfaz limpia y organizada. Se emplea una separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño.
+
+<p align="center">
+<img src="images/Spacing.png" alt="Spacing de StockHunters" width="350" height="150">
+</p>
+
+  ### 4.1.2. Web Style Guidelines
+**StockHunters** cuenta con un diseño web adaptable para garantizar una experiencia fluida en cualquier dispositivo. Utilizamos el patrón de diseño en forma de **Z**, ideal para destacar funciones clave como la gestión de inventarios y ventas.
+El logotipo se ubica en la esquina superior izquierda, mientras que la barra de navegación y el llamado a la acción a probrar nuestra aplicación se sitúan a la derecha, guiando al usuario de forma intuitiva.
  ## 4.2. Information Architecture
   ### 4.2.1. Organization Systems
   ### 4.2.2. Labeling Systems
@@ -432,8 +477,119 @@ Falta descripción
   ### 4.2.5. Navigation Systems
 
  ## 4.3. Landing Page UI Desing
+ El diseño de la interfaz de usuario en la landing page de **StockHunters** será clave para causar una primera impresión positiva. Buscamos ofrecer una experiencia visual atractiva y funcional que invite a los usuarios a explorar el sistema.
+
   ### 4.3.1. Landing Page Wireframes
+  **Landing Page para Desktop Web Browser**
+  <p align="center">
+<img src="images/lp1.png" alt="1" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="images/lp2.png" alt="2" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="images/lp3.png" alt="3" width="400" height="250">
+</p>
+
+<p align="center">
+<img src="images/lp4.png" alt="4" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="images/lp5.png" alt="5" width="400" height="150">
+</p>
+
+<p align="center">
+<img src="images/lp6.png" alt="6" width="400" height="150">
+</p>
+
+<p align="center">
+<img src="images/lp7.png" alt="7" width="400" height="100">
+</p>
+
+<p align="center">
+<img src="images/mb1.png" alt="mb1" width="200" height="450">
+</p>
+
+<p align="center">
+<img src="images/mb2.png" alt="mb2" width="200" height="350">
+</p>
+
+<p align="center">
+<img src="images/mb3.png" alt="mb3" width="200" height="750">
+</p>
+
+<p align="center">
+<img src="images/mb4.png" alt="mb4" width="200" height="550">
+</p>
+
+<p align="center">
+<img src="images/mb5.png" alt="mb5" width="200" height="350">
+</p>
+
+<p align="center">
+<img src="images/mb6.png" alt="mb6" width="200" height="250">
+</p>
+
+<p align="center">
+<img src="images/mb7.png" alt="mb7" width="200" height="350">
+</p>
+
   ### 4.3.2. Landing Page Mock-Up
+
+<p align="center">
+<img src="images/lm1.png" alt="1" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="images/lm2.png" alt="2" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="images/lm3.png" alt="3" width="400" height="300">
+</p>
+
+<p align="center">
+<img src="images/lm4.png" alt="4" width="400" height="210">
+</p>
+
+<p align="center">
+<img src="images/lm5.png" alt="5" width="400" height="160">
+</p>
+
+<p align="center">
+<img src="images/lm6.png" alt="6" width="400" height="180">
+</p>
+
+<p align="center">
+<img src="images/lm7.png" alt="7" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="images/mm1.PNG" alt="mm1" width="200" height="700">
+</p>
+
+<p align="center">
+<img src="images/mm2.png" alt="mm2" width="200" height="700">
+</p>
+
+<p align="center">
+<img src="images/mm3.png" alt="mm3" width="200" height="500">
+</p>
+
+<p align="center">
+<img src="images/mm4.png" alt="mm4" width="200" height="350">
+</p>
+
+<p align="center">
+<img src="images/mm5.png" alt="mm5" width="200" height="200">
+</p>
+
+<p align="center">
+<img src="images/mm6.png" alt="mm6" width="200" height="350">
+</p>
 
  ## 4.4. Web Applications UX/UI Desing
   ### 4.4.1. Web Applications Wireframes
@@ -693,4 +849,4 @@ Falta descripción
 
 # Conclusiones
  ## Conclusiones y recomendaciones
- ## Video About-the-Team
+**## Video About-the-Team**
