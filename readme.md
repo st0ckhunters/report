@@ -449,100 +449,63 @@ Falta descripción
  
  ## 4.6. Domain-Driven Software Architecture
   ### 4.6.1. Software Architecture Context Diagram
-  
-  >[!CAUTION]
-  > Reemplazar esto es un ejemplo 
-  
-  ~~~mermaid
-      C4Context
-      title System Context diagram for EXAMPLE
-      Enterprise_Boundary(b0, "BankBoundary0") {
-        Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
-        Person(customerB, "Banking Customer B")
-        Person_Ext(customerC, "Banking Customer C", "desc")
+   ~~~mermaid
+  C4Context
+  title System Context diagram
+  Enterprise_Boundary(b0, "Boundary"){
+    Person(Administrator, "Administrator", "Manages products, views statistics<br> and handles orders/invoices.")
+    Person(Customer, "Customer", $descr="Places orders, tracks orders,<br> and downloads invoices.")
+    System(AutomotiveProductSalesManagementSystem, "Automotive Product<br> Sales Management System", $descr="A web application for managing automotive product<br> sales, built with Angular, Java, Typescript, and microservices.")
+  }
+  Rel(Administrator, AutomotiveProductSalesManagementSystem, "Logs in, manages products,<br> views sales/stock statistics,<br> manages orders/invoices")
+  Rel(Customer, AutomotiveProductSalesManagementSystem, "Logs in, places orders,<br> tracks orders with code,<br> downloads invoices")
 
-        Person(customerD, "Banking Customer D", "A customer of the bank, <br/> with personal bank accounts.")
-
-        System(SystemAA, "Internet Banking System", "Allows customers to view information about their bank accounts, and make payments.")
-
-        Enterprise_Boundary(b1, "BankBoundary") {
-
-          SystemDb_Ext(SystemE, "Mainframe Banking System", "Stores all of the core banking information about customers, accounts, transactions, etc.")
-
-          System_Boundary(b2, "BankBoundary2") {
-            System(SystemA, "Banking System A")
-            System(SystemB, "Banking System B", "A system of the bank, with personal bank accounts. next line.")
-          }
-
-          System_Ext(SystemC, "E-mail system", "The internal Microsoft Exchange e-mail system.")
-          SystemDb(SystemD, "Banking System D Database", "A system of the bank, with personal bank accounts.")
-
-          Boundary(b3, "BankBoundary3", "boundary") {
-            SystemQueue(SystemF, "Banking System F Queue", "A system of the bank.")
-            SystemQueue_Ext(SystemG, "Banking System G Queue", "A system of the bank, with personal bank accounts.")
-          }
-        }
-      }
-
-      BiRel(customerA, SystemAA, "Uses")
-      BiRel(SystemAA, SystemE, "Uses")
-      Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
-      Rel(SystemC, customerA, "Sends e-mails to")
-
-      UpdateElementStyle(customerA, $fontColor="red", $bgColor="grey", $borderColor="red")
-      UpdateRelStyle(customerA, SystemAA, $textColor="blue", $lineColor="blue", $offsetX="5")
-      UpdateRelStyle(SystemAA, SystemE, $textColor="blue", $lineColor="blue", $offsetY="-10")
-      UpdateRelStyle(SystemAA, SystemC, $textColor="blue", $lineColor="blue", $offsetY="-40", $offsetX="-50")
-      UpdateRelStyle(SystemC, customerA, $textColor="red", $lineColor="red", $offsetX="-50", $offsetY="20")
-
-      UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
-
-
+  UpdateLayoutConfig($c4ShapeInRow="2", $c4BoundaryInRow="1")
   ~~~
  
   ### 4.6.2. Software Architecture Container Diagram
+ ~~~mermaid
+C4Container
 
-  >[!CAUTION]
-  > Reemplazar esto es un ejemplo 
+title Automotive Product Sales Management System - Containers
+
+Person(Administrator, "Administrator", $descr="Manages products,<br> views statistics, and handles<br> orders/invoices.", $tags="v1.0", $link="v1.0")
+Person(Customer, "Customer", $descr="Places orders, tracks orders,<br> and downloads invoices.", $tags="v1.0", $link="v1.0")
+
+System_Boundary("AutomotiveProductSalesManagementSystem_boundary", "Automotive Product Sales Management System", $tags="v1.0") {
+
+  Container(AutomotiveProductSalesManagementSystem.OrderService, "Order Service", $techn="TS/ANGULAR", $descr="Handles order creation<br> and tracking.", $tags="v1.0", $link="v1.0")
+
+  Container(AutomotiveProductSalesManagementSystem.APIGateway, "API Gateway", $techn="TS/ANGULAR", $descr="Routes requests and <br>handles authentication.", $tags="v1.0", $link="v1.0")
+
+  Container(AutomotiveProductSalesManagementSystem.WebApplication, "Web Application", $techn="Angular", $descr="Provides user interface<br> for admins and customers.", $tags="v1.0", $link="v1.0")
   
-  ~~~mermaid
-      C4Container
-    title Container diagram for EXAMPLE
+  Container(AutomotiveProductSalesManagementSystem.ProductService, "Product Service", $techn="TS/ANGULAR", $descr="Manages product details <br>and stock.", $tags="v1.0", $link="v1.0")
 
-    System_Ext(email_system, "E-Mail System", "The internal Microsoft Exchange system", $tags="v1.0")
-    Person(customer, Customer, "A customer of the bank, with personal bank accounts", $tags="v1.0")
+  Container(AutomotiveProductSalesManagementSystem.UserService, "User Service", $techn="TS/ANGULAR", $descr="Manages user authentication<br> and access levels.", $tags="v1.0", $link="v1.0")
 
-    Container_Boundary(c1, "Internet Banking") {
-        Container(spa, "Single-Page App", "JavaScript, Angular", "Provides all the Internet banking functionality to customers via their web browser")
-        Container_Ext(mobile_app, "Mobile App", "C#, Xamarin", "Provides a limited subset of the Internet banking functionality to customers via their mobile device")
-        Container(web_app, "Web Application", "Java, Spring MVC", "Delivers the static content and the Internet banking SPA")
-        ContainerDb(database, "Database", "SQL Database", "Stores user registration information, hashed auth credentials, access logs, etc.")
-        ContainerDb_Ext(backend_api, "API Application", "Java, Docker Container", "Provides Internet banking functionality via API")
+  Container(AutomotiveProductSalesManagementSystem.InvoiceService, "Invoice Service", $techn="TS/ANGULAR", $descr="Manages invoice generation<br> and downloads.", $tags="v1.0", $link="v1.0")
+  
+  Container(AutomotiveProductSalesManagementSystem.Database, "Database", $techn="SQL Server", $descr="Stores products, customers,<br> orders, invoices, and stock.", $tags="v1.0", $link="v1.0")
+}
 
-    }
+Rel(Administrator, AutomotiveProductSalesManagementSystem.WebApplication, "Uses", $techn="HTTPS", $tags="v1.0", $link="v1.0")
+Rel(Customer, AutomotiveProductSalesManagementSystem.WebApplication, "Uses", $techn="HTTPS", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.WebApplication, AutomotiveProductSalesManagementSystem.APIGateway, "Makes RESTful API calls", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.APIGateway, AutomotiveProductSalesManagementSystem.ProductService, "Routes requests", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.APIGateway, AutomotiveProductSalesManagementSystem.OrderService, "Routes requests", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.APIGateway, AutomotiveProductSalesManagementSystem.InvoiceService, "Routes requests", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.APIGateway, AutomotiveProductSalesManagementSystem.UserService, "Routes requests", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.ProductService, AutomotiveProductSalesManagementSystem.Database, "Reads/writes data", $techn="SQL", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.OrderService, AutomotiveProductSalesManagementSystem.Database, "Reads/writes data", $techn="SQL", $tags="v1.0", $link="v1.0")
 
-    System_Ext(banking_system, "Mainframe Banking System", "Stores all of the core banking information about customers, accounts, transactions, etc.")
 
-    Rel(customer, web_app, "Uses", "HTTPS")
-    UpdateRelStyle(customer, web_app, $offsetY="60", $offsetX="90")
-    Rel(customer, spa, "Uses", "HTTPS")
-    UpdateRelStyle(customer, spa, $offsetY="-40")
-    Rel(customer, mobile_app, "Uses")
-    UpdateRelStyle(customer, mobile_app, $offsetY="-30")
+Rel(AutomotiveProductSalesManagementSystem.InvoiceService, AutomotiveProductSalesManagementSystem.Database, "Reads/writes data", $techn="SQL", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.UserService, AutomotiveProductSalesManagementSystem.Database, "Reads/writes data", $techn="SQL", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.OrderService, AutomotiveProductSalesManagementSystem.ProductService, "Checks stock availability", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
+Rel(AutomotiveProductSalesManagementSystem.InvoiceService, AutomotiveProductSalesManagementSystem.OrderService, "Retrieves order data", $techn="HTTPS/JSON", $tags="v1.0", $link="v1.0")
 
-    Rel(web_app, spa, "Delivers")
-    UpdateRelStyle(web_app, spa, $offsetX="130")
-    Rel(spa, backend_api, "Uses", "async, JSON/HTTPS")
-    Rel(mobile_app, backend_api, "Uses", "async, JSON/HTTPS")
-    Rel_Back(database, backend_api, "Reads from and writes to", "sync, JDBC")
-
-    Rel(email_system, customer, "Sends e-mails to")
-    UpdateRelStyle(email_system, customer, $offsetX="-45")
-    Rel(backend_api, email_system, "Sends e-mails using", "sync, SMTP")
-    UpdateRelStyle(backend_api, email_system, $offsetY="-60")
-    Rel(backend_api, banking_system, "Uses", "sync/async, XML/HTTPS")
-    UpdateRelStyle(backend_api, banking_system, $offsetY="-50", $offsetX="-140")
-
+UpdateLayoutConfig($c4ShapeInRow="3")
 
   ~~~
   ### 4.6.3. Software Architecture Components Diagram
