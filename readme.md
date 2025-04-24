@@ -487,45 +487,45 @@ El logotipo se ubica en la esquina superior izquierda, mientras que la barra de 
   ### 4.3.1. Landing Page Wireframes
   **Landing Page para Desktop Web Browser**
   <p align="center">
-<img src="resources/lp1.png" alt="1" width="400" height="450">
+<img src="resources/lp1.PNG" alt="1" width="400" height="450">
 </p>
 
 <p align="center">
-<img src="resources/lp2.png" alt="2" width="400" height="500">
+<img src="resources/lp2.PNG" alt="2" width="400" height="500">
 </p>
 
 <p align="center">
-<img src="resources/lp3.png" alt="3" width="400" height="350">
+<img src="resources/lp3.PNG" alt="3" width="400" height="350">
 </p>
 
 <p align="center">
-<img src="resources/mb1.png" alt="mb1" width="250" height="300">
+<img src="resources/mb1.PNG" alt="mb1" width="250" height="300">
 </p>
 
 <p align="center">
-<img src="resources/mb2.png" alt="mb2" width="250" height="400">
+<img src="resources/mb2.PNG" alt="mb2" width="250" height="400">
 </p>
 
 <p align="center">
-<img src="resources/mb3.png" alt="mb3" width="250" height="250">
+<img src="resources/mb3.PNG" alt="mb3" width="250" height="250">
 </p>
 
 <p align="center">
-<img src="resources/mb4.png" alt="mb5" width="250" height="380">
+<img src="resources/mb4.PNG" alt="mb5" width="250" height="380">
 </p>
 
   ### 4.3.2. Landing Page Mock-Up
 
 <p align="center">
-<img src="resources/lm1.png" alt="1" width="400" height="450">
+<img src="resources/lm1.PNG" alt="1" width="400" height="450">
 </p>
 
 <p align="center">
-<img src="resources/lm2.png" alt="2" width="400" height="550">
+<img src="resources/lm2.PNG" alt="2" width="400" height="550">
 </p>
 
 <p align="center">
-<img src="resources/lm3.png" alt="3" width="400" height="500">
+<img src="resources/lm3.PNG" alt="3" width="400" height="500">
 </p>
 
 <p align="center">
@@ -533,15 +533,15 @@ El logotipo se ubica en la esquina superior izquierda, mientras que la barra de 
 </p>
 
 <p align="center">
-<img src="resources/mm2.png" alt="mm2" width="250" height="400">
+<img src="resources/mm2.PNG" alt="mm2" width="250" height="400">
 </p>
 
 <p align="center">
-<img src="resources/mm3.png" alt="mm3" width="250" height="260">
+<img src="resources/mm3.PNG" alt="mm3" width="250" height="260">
 </p>
 
 <p align="center">
-<img src="resources/mm4.png" alt="mm4" width="200" height="300">
+<img src="resources/mm4.PNG" alt="mm4" width="200" height="300">
 </p>
 
  ## 4.4. Web Applications UX/UI Desing
@@ -549,32 +549,32 @@ El logotipo se ubica en la esquina superior izquierda, mientras que la barra de 
  El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) en aplicaciones web busca crear experiencias digitales intuitivas y satisfactorias. La UX se enfoca en comprender las necesidades del usuario y diseñar flujos de interacción eficientes, mientras que la UI se encarga del aspecto visual, como botones, menús y disposición de contenido. Un diseño UX/UI exitoso fusiona estética y funcionalidad, ofreciendo una experiencia fluida y memorable.
   ### 4.4.1. Web Applications Wireframes
 <p align="center">
-<img src="resources/mob1.png" alt="mm2" width="300" height="220">
+<img src="resources/mob1.PNG" alt="mm2" width="300" height="220">
 </p>
 
 <p align="center">
-<img src="resources/mob2.png" alt="mm3" width="300" height="220">
+<img src="resources/mob2.PNG" alt="mm3" width="300" height="220">
 </p>
 
 <p align="center">
-<img src="resources/mob3.png" alt="mm4" width="400" height="200">
+<img src="resources/mob3.PNG" alt="mm4" width="400" height="200">
 </p>
 
 <p align="center">
-<img src="resources/mob4.png" alt="mm2" width="300" height="220">
+<img src="resources/mob4.PNG" alt="mm2" width="300" height="220">
 </p>
 
 <p align="center">
-<img src="resources/mob5.png" alt="mm3" width="300" height="220">
+<img src="resources/mob5.PNG" alt="mm3" width="300" height="220">
 </p>
 
 <p align="center">
-<img src="resources/mob6.png" alt="mm4" width="400" height="200">
+<img src="resources/mob6.PNG" alt="mm4" width="400" height="200">
 </p>
 
   ### 4.4.2. Web Applications Wireflow Diagrams
 <p align="center">
-<img src="resources/uf.png" alt="mm4" width="400" height="600">
+<img src="resources/uf.PNG" alt="mm4" width="400" height="600">
 </p>
 
   ### 4.4.3. Web Applications User Flow Diagrams
@@ -582,13 +582,13 @@ El diagrama de flujo de usuario es una representación visual de las acciones qu
 
 **Leyenda**
 <p align="center">
-<img src="resources/legend.png" alt="mm4" width="400" height="100">
+<img src="resources/legend.PNG" alt="mm4" width="400" height="100">
 </p>
 
 **Vista general del flujo del Usuario**
 
 <p align="center">
-<img src="resources/ui.png" alt="mm4" width="600" height="600">
+<img src="resources/ui.PNG" alt="mm4" width="600" height="600">
 </p>
  ## 4.5. Web Applications Prototyping
  Prototipo de StockHunters en Figma
