@@ -450,7 +450,7 @@ Para el diseño tipográfico de StockHunters, se ha seleccionado una combinació
 
 A continuación, se detallan las tipografías adoptadas para StockHunters:
 <p align="center">
-<img src="resources/fonts.png" alt="Fonts de StockHunters" width="350" height="250">
+<img src="resources/fonts.PNG" alt="Fonts de StockHunters" width="350" height="250">
 </p>
 
 **Colors**
@@ -460,7 +460,7 @@ La paleta de colores de **StockHunters** fue seleccionada para reflejar los valo
 A continuación, se detallan los colores seleccionados para StockHunters:
 
 <p align="center">
-<img src="resources/colors.png" alt="Colors de StockHunters" width="350" height="170">
+<img src="resources/colors.PNG" alt="Colors de StockHunters" width="350" height="170">
 </p>
 
 **Spacing**
@@ -468,7 +468,7 @@ A continuación, se detallan los colores seleccionados para StockHunters:
 El espaciado en **StockHunters** está cuidadosamente definido para garantizar una interfaz limpia y organizada. Se emplea una separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño.
 
 <p align="center">
-<img src="resources/spacing.png" alt="Spacing de StockHunters" width="350" height="130">
+<img src="resources/spacing.PNG" alt="Spacing de StockHunters" width="350" height="130">
 </p>
 
   ### 4.1.2. Web Style Guidelines
