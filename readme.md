@@ -27,7 +27,7 @@ string[] Integrantes() {
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
-        "👩‍💻 Apellidos, Nombres - Codigo"
+        "👩‍💻 Alva Abanto, Luis Andres - u202310877"
     };
 }
 ~~~
@@ -186,10 +186,15 @@ Falta descripción
 **> 🧑‍💻 Integrante 2**
    <div align='center'>
 
-   <img src="url" alt="name" width="100" align='right'>
+  <img src="https://files.catbox.moe/dnmt63.png" alt="Luis Andres Alva Abanto" width="100" align='right'>
 
    ~~~txt
-   Description
+  ✅ Estudiante de Ingeniería de Software en UPC
+   💻 Me gusta el desarrollo ágil aplicando patrones de diseño
+   y arquitectura escalable. Actualmente estoy aprendiendo 
+   Java y C#. 
+   😊 Me destaco por mi capacidad para trabajar en equipo
+    y el compromiso con el proyecto. 
    ~~~
 
    </div>
