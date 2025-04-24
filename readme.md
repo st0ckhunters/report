@@ -24,7 +24,7 @@
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
-        "👩‍💻 Apellidos, Nombres - Codigo",
+        "👩‍💻 Tasayco Osorio, Raul Hiroshi - U202319415",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo"
@@ -183,13 +183,20 @@ Falta descripción
 
    <!--TODO: integrante 2 -->
 
-**> 🧑‍💻 Integrante 2**
+**> 🧑‍💻 Raul Hiroshi Tasayco Osorio**
    <div align='center'>
 
-   <img src="url" alt="name" width="100" align='right'>
+   <img src="url" alt="Raul Hiroshi Tasayco Osorio" width="100" align='right'>
 
    ~~~txt
-   Description
+    Soy un estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro cursando el 5to ciclo.
+      A lo largo de la carrera tanto adentro y afuera de la universidad tuve la oportunidad de adquirir conocimientos en:
+      1️⃣ C++   
+      2️⃣ Python
+      3️⃣ SQL   
+      4️⃣ HTML  
+      5️⃣ CSS   
+    En lo personal considero que soy una persona que está dispuesto a adquirir la mayoría de conocimientos posibles, además de trabajar bien en equipo, las espectativas del curso son muy altas, puesto que siento que es un curso fundamental para nuestra formación como futuros Ingenieros de Software. 💻
    ~~~
 
    </div>
