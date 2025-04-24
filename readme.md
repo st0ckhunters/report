@@ -272,7 +272,7 @@ En consecuencia, esto genera retrasos de operaciones, una administración de baj
   El producto que además está fuertemente ligado con IoT permite que desde cualquier dispositivo con internet, los usuarios puedan realizar consultas de datos, recibir notificaciones automáticas sobre el inventario o stock y visualizar los reportes desde donde se encuentren gracias a sensores que controlan la información de forma continua.
 
 ##### 🟡 WHO (QUIEN)
-* ¿Quién tiene el problema?
+* ¿Quién tiene el problema? 
 
   El problema lo tienen las empresas tanto mediana como pequeña que no cuenten con un software especializado para el manejo y control de stock en tiempo real mediante la implementación de componentes IoT
 
@@ -292,7 +292,7 @@ En consecuencia, esto genera retrasos de operaciones, una administración de baj
   La solución propuesta es una aplicación web integrada con dispositivos IoT por ejemplo, sensores de peso, sensores de proximidad y lectores de codigos de barra automáticos que monitorean en tiempo real el estado del inventario y actualizan automáticamente la base de datos del sistema.
 
 ##### 🟡 HOW MUCH (CUANTO)
-* ¿Cuánto mejora el producto la situacón actual de las empresas?
+* ¿Cuánto mejora el producto la situacón actual de las empresas? 
 
   La implementación de nuestro producto en las empresas mejora significativamente la eficiencia operativa en general. Reduce el tiempo dedicado a la gestión manual del inventario, disminuye drasticamente los errores por registros o productos duplicados y mejora significativamente la toma de decisiones gracias a los datos precisos y en tiempo real. Esto en pocas palabras es una mayor productividad, una reducción de pérdidas por mal manejo de stock y una planificación empresarial más efectiva, generando un impacto positivo tanto en el desempeño del negocio como en la experiencia del cliente.
 
