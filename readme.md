@@ -24,10 +24,10 @@
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
-        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
-        "👩‍💻 Apellidos, Nombres - Codigo"
+        "👩‍💻 Apellidos, Nombres - Codigo",
+        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693"
     };
 }
 ~~~
@@ -186,23 +186,10 @@ Falta descripción
 **> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="" alt="Jose Enrique Vargas Javier" width="100" align='right'>
+   <img src="link-img" alt="name" width="100" align='right'>
 
    ~~~txt
-   👾 Soy estudiante de Ingeniería de Software 
-   de la UPC, en estos momentos me encuentro 
-   cursando el 5to ciclo de la carrera.
-
-   💻 En todo este camino me he formado en lenguajes de programacion, tales como:
-
-    ➡️ C++
-       ➡️ Python
-    ➡️ SQL
-
-   🎉 Mi habilidad competitiva es comprometerme 
-   con el trabajo encargado, poder adaptarme a 
-   cualquier área con el fin de seguir 
-   adquiriendo mas conocimientos ✅.
+   Descripción
    ~~~
 
    </div>
@@ -237,13 +224,26 @@ Falta descripción
 
    <!--TODO: integrante 5 -->
 
-**> 🧑‍💻 Integrante 5**
+**> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="link-img" alt="name" width="100" align='right'>
+   <img src="link-img" alt="Jose Enrique Vargas Javier" width="100" align='right'>
 
    ~~~txt
-   Descripción
+   👾 Soy estudiante de Ingeniería de Software 
+   de la UPC, en estos momentos me encuentro 
+   cursando el 5to ciclo de la carrera.
+
+   💻 En todo este camino me he formado en lenguajes de programacion, tales como:
+
+    ➡️ C++
+       ➡️ Python
+    ➡️ SQL
+
+   🎉 Mi habilidad competitiva es comprometerme 
+   con el trabajo encargado, poder adaptarme a 
+   cualquier área con el fin de seguir 
+   adquiriendo mas conocimientos ✅.
    ~~~
 
    </div>
