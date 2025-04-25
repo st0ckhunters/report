@@ -446,7 +446,7 @@ ___
    **Segmento Objetivo 2️⃣: Compradores o clientes registrados**
 
    > [!NOTE] 
-   > <a href="https://forms.gle/PNxnomycpCKBD1rw5" target='_blank'>Cuestionario 🔗</a>
+   > <a href="https://forms.gle/PNxnomycpCKBD1rw5" target='_blank'>Cuestionario 🔗</a> 
 
   ~~~txt
 
