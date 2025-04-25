@@ -395,14 +395,41 @@ En muchos casos, los procesos actuales aún se realizan de forma manual, utiliza
 
 #### 1.2.2.4. Lean UX Canvas
 ![Lean UX Canvas](resources/Lean_UX_Canvas.png)
+<div align="Center">
 
-## Segmentos Objetivos
+[View Lean UX Canvas](https://www.figma.com/design/oZHivrqwatrnUj0fjsdtin/Lean-UX-Canvas?node-id=0-1&t=5W4mTixQL36H5Bf5-1 "Link del Figma del Lean UX Canvas")
+</div>
+
+## 🎯Segmentos Objetivos
+1. **Administradores de negocios con inventario físico:**
+
+        Este segmento está compuesto por propietarios, encargados o personal administrativo de negocios que gestionan inventario de productos tangibles, como ferreterías, tiendas de repuestos, almacenes, distribuidoras o minimarkets. Son responsables del control del stock, la supervisión de ventas y la toma de decisiones operativas. Su principal necesidad es contar con una herramienta que les permita tener control en tiempo real del inventario, reducir errores humanos, automatizar tareas rutinarias y acceder a reportes estratégicos desde cualquier lugar y dispositivo. Valoran soluciones accesibles, intuitivas y que puedan integrarse sin complicaciones a sus flujos de trabajo actuales.
+
+2. **Compradores o clientes registrados:**
+
+        Este segmento incluye a los clientes finales que compran productos en los negocios que usan la plataforma. Son personas que valoran una atención rápida, personalizada y organizada. Al estar registrados en el sistema, pueden recibir atención más eficiente, seguimiento de sus compras anteriores, beneficios por fidelización y una mejor experiencia general. Además, sus interacciones dentro del sistema (consultas, compras, historial) generan datos que contribuyen a una gestión comercial más precisa y enfocada por parte del negocio.
 
 # Capítulo II: Requeriments Elicitation & Analysis
    ## 2.1. Competidores
+   En el mercado existen diversas soluciones que buscan optimizar la gestión de inventario y ventas, como hojas de cálculo tradicionales, sistemas POS y plataformas ERP. Sin embargo, muchas de estas opciones resultan costosas, complejas o poco adaptadas a las necesidades de pequeñas empresas. Además, pocas integran tecnologías IoT para automatizar procesos en tiempo real, lo que representa una ventaja competitiva clave para St0ckHunters.
    ### 2.1.1. Análisis competitivo
+   ![Analisis Competitivo](resources/Competitive_Analysis.png "Imagen Analisis Competitivo")
 
+   
+___
 ### 2.1.2. Estrategias y tácticas frente a competidores
+#### Para destacar frente a herramientas genéricas como Excel o plataformas complejas como Odoo ERP, St0ckHunters implementará una estrategia de diferenciación basada en:
+
+1. Simplicidad con tecnología avanzada: Ofrecer una interfaz intuitiva, fácil de usar, respaldada por integración con IoT para monitoreo en tiempo real de inventario físico. Esto permite que negocios pequeños adopten tecnología sin barreras técnicas.
+
+2. Accesibilidad multiplataforma: A diferencia de ERP tradicionales que requieren instalación o infraestructura costosa, St0ckHunters será accesible desde navegador, móvil y tablet, sin necesidad de configuraciones técnicas complejas.
+
+3. Soporte y capacitación personalizada: Incluiremos asistencia en tiempo real y capacitaciones breves para clientes nuevos, facilitando la adopción y fidelización.
+
+4. Precios accesibles y escalables: Nuestro modelo de suscripción será flexible y más económico que un ERP completo, ideal para negocios medianos y en crecimiento.
+
+5. Marketing educativo: Usaremos redes sociales y demostraciones prácticas para mostrar casos reales de mejora en control de stock y ventas usando St0ckHunters, enfocándonos en negocios que aún usan métodos manuales.
+
 
 
    ## 2.2. Entrevistas 📝
