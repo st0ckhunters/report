@@ -86,10 +86,18 @@ Abril del 2025 🗓️
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
+      - [Administradores:](#administradores)
+      - [Clientes:](#clientes)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [Administradores:](#administradores-1)
+      - [Clientes:](#clientes-1)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+      - [Administradores:](#administradores-2)
+      - [Clientes:](#clientes-2)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+      - [Administradores:](#administradores-3)
+    - [Clientes:](#clientes-3)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requeriments Specification](#capítulo-iii-requeriments-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
@@ -138,7 +146,6 @@ Abril del 2025 🗓️
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
 
 
 ## Student Outcome
@@ -315,6 +322,37 @@ Falta descripción
    > <a href="https://forms.gle/XV26rSaBf8PUVVsL7" target='_blank'>Cuestionario 🔗</a>
 
    ~~~txt    
+    1. ¿Qué tipo de productos vendes o distribuyes en tu negocio?
+    
+    2 ¿Actualmente cómo gestionas tu inventario y tus ventas?
+    
+    3. ¿Cómo haces seguimiento a los pedidos de tus clientes?
+    
+    4. ¿Llevas un historial de compras de tus clientes para darles seguimiento o promociones?
+    
+    5. ¿Qué tan importante sería para ti tener un sistema que te alerte de productos por agotarse?
+
+    6. ¿Con qué frecuencia necesitas generar reportes de ventas o inventario?
+
+    7.¿Cuánto tiempo estimas que dedicas cada semana a controlar tu inventario o ventas manualmente?
+    
+    8. ¿Qué dificultades enfrentas al llevar tu control de stock o ventas?
+    
+    9. ¿Te gustaría que tus clientes puedan ver tu catálogo de productos en línea?
+    
+    10.  ¿Qué temores tienes al momento de cambiar tu sistema de control actual?
+    
+    11.  ¿Qué funcionalidades crees que son imprescindibles en un sistema de inventario y ventas?
+    
+    12. ¿Te gustaría poder acceder al sistema desde tu celular u otros dispositivos?
+    
+    13. ¿Estarías dispuesto a pagar por una solución que te ahorre tiempo y errores?
+
+    14. ¿Qué opina de una aplicación que le permita gestionar su inventario desde la web, y mantener un registro de ventas con la información de los clientes y automatizar la atención a sus clientes mediante WhatsApp o un catálogo en línea?
+    
+    15. ¿Qué tan importante es para ti poder analizar tus ventas e inventario a través de reportes o gráficos que te ayuden a tomar mejores decisiones para tu negocio?
+
+    16. ¿Qué otras características le gustaría que tuviera esta aplicación?
   ~~~
 
    **Segmento Objetivo 2️⃣: Compradores o clientes registrados**
@@ -323,9 +361,26 @@ Falta descripción
    > <a href="https://forms.gle/PNxnomycpCKBD1rw5" target='_blank'>Cuestionario 🔗</a>
 
   ~~~txt
+    1. ¿Sueles revisar catálogos o productos en línea antes de comprar?
 
-   ~~~
+    2. ¿Qué valoras más al revisar un catálogo en línea? (ej. precios claros, disponibilidad, promociones, etc.)
    
+    3. ¿Prefieres comprar en negocios que tienen una presentación más ordenada en línea?
+   
+    4. ¿Te gustaría poder ver si un producto está disponible en tiempo real?
+   
+    5. ¿Qué tan útil sería para ti ver promociones o combos destacados fácilmente?
+   
+    6. ¿Te sentirías más cómodo si puedes hacer un pedido sin tener que llamar directamente?
+   
+    7. ¿Cuáles son los problemas más comunes que enfrentas al pedir por WhatsApp o redes sociales?
+   
+    8. ¿Te gustaría tener una sección para dejar reseñas o leer experiencias de otros?
+   
+    9. ¿Qué tan probable sería que compartas el catálogo de una tienda si te gusta lo que ves?
+   
+    10. ¿Preferirías ver los productos organizados por categorías, marcas o ambos?
+   ~~~
    ### 2.2.2. Registro de entrevistas
 
    **1️⃣ Primer Segmento Objetivo**
