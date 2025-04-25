@@ -378,7 +378,7 @@ Falta descripción
    </a>
    </td>
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/2Nb_TZGTgGc" target='_blank'>
     <img src="resources/Interview-3.png" alt="Tercera entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -394,8 +394,11 @@ Falta descripción
     <b>🗣️Entrevistado:</b> name
    </td>
       <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
+    <b>🗣️Entrevistado:</b> Juan Josemaria Costa Morales<br>
+      <p>
+        Juan es un estudiante de Ingenieria de Software, el cual suele recurrir y revisar catalogos para comprar productos de comida o de esa área y valora mucho que sean claros y que esten actualizado en tiempo real. Considera que un catalogo que muestre en tiempo real qué productos hay es uno muy importante. Le interesa tambien la parte de la automatización de los pagos y de la atención en cuestiones sencillas cómo algún inconveniente con el producto o fallos. Además, si le gustaria mucho que las ofertas de las tiendas se puedan dirigir a los productos que les gustan
+      <p>
    </td>
    </tr>
    </table>
@@ -412,9 +415,13 @@ Falta descripción
    ![alt text](<resources/Maria Molero.png>)
 
 
-   ### 2.3.2. User Task Matrix
+   ### 2.3.2. User Task Matrix 
 
+   En este cuadro tendremos a nuestros segmentos objetivos: Administradores de empresas y Clientes. Consideraremos tareas que haran para obtener un producto o hallar ofertas para planificar futuras compras.
 
+   ![alt text](<resources/User Task Matrix.jpg>)
+
+   En estos casos vemos que ambas parte dan importancia a consultar el inventario o Stock, pero los administradores son los más interesados en esta tarea, ya que es crucial mantener un inventario actualizado para su negocio. Además, vemos cómo ambas partes dan una gran importancia a los pagos en yape o con tarjeta, ya que estos son cruciales para que la compra o venta de un producto se logre. Finalmente, ambos dan importancia a las consultas y planeación de compras que se hicieron o haran en un futuro. El primero, para saber si los pedidos seran entregados de la mejor manera en el tiempo adecuado. El segundo, para saber que se tendra que vender el día siguiente, en el caso de los administradores, o comprar para la proxima semana, en el caso de los clientes.
 
    ### 2.3.3. User Journey Mapping
 
