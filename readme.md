@@ -27,7 +27,7 @@ string[] Integrantes() {
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Apellidos, Nombres - Codigo",
-        "👩‍💻 Apellidos, Nombres - Codigo"
+        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693"
     };
 }
 ~~~
@@ -183,13 +183,13 @@ Falta descripción
 
    <!--TODO: integrante 2 -->
 
-**> 🧑‍💻 Integrante 2**
+**> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="url" alt="name" width="100" align='right'>
+   <img src="link-img" alt="name" width="100" align='right'>
 
    ~~~txt
-   Description
+   Descripción
    ~~~
 
    </div>
@@ -224,13 +224,26 @@ Falta descripción
 
    <!--TODO: integrante 5 -->
 
-**> 🧑‍💻 Integrante 5**
+**> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="link-img" alt="name" width="100" align='right'>
+   <img src="link-img" alt="Jose Enrique Vargas Javier" width="100" align='right'>
 
    ~~~txt
-   Descripción
+   👾 Soy estudiante de Ingeniería de Software 
+   de la UPC, en estos momentos me encuentro 
+   cursando el 5to ciclo de la carrera.
+
+   💻 En todo este camino me he formado en lenguajes de programacion, tales como:
+
+    ➡️ C++
+       ➡️ Python
+    ➡️ SQL
+
+   🎉 Mi habilidad competitiva es comprometerme 
+   con el trabajo encargado, poder adaptarme a 
+   cualquier área con el fin de seguir 
+   adquiriendo mas conocimientos ✅.
    ~~~
 
    </div>
@@ -477,9 +490,46 @@ Falta descripción
 
 # Capítulo IV: Product Desing
  ## 4.1. Style Guidelines
+**Un "Style Guideline"** es un conjunto de directrices y normas que establecen los estándares y criterios a seguir en la redacción, diseño y presentación de documentos, contenido web, software y otros productos creativos. A continuación, se presentan las especificaciones detalladas de los parámetros implementados en la estructura del proyecto.
   ### 4.1.1. General Style Guidelines
-  ### 4.1.2. Web Style Guidelines
+**Branding**
 
+Para el desarrollo del logo de StockHunters, hemos elegido un diseño que encapsula la esencia de la aplicación y sus funcionalidades. El logotipo presenta una tipografía sofisticada y clara, que aporta modernidad y profesionalismo. El ícono, simboliza la eficiencia, el orden y la agilidad. La elección de colores vibrantes y dinámicos, en una combinación de tonos azules y blancos, transmite una sensación de confianza y estabilidad. La integración de estos elementos busca comunicar visualmente el compromiso de StockHunters con la innovación y la excelencia en la gestión de inventarios.
+
+<p align="center">
+<img src="resources/Imagotipo.png" alt="Logo de StockHunters" width="350" height="200">
+</p>
+
+**Typography:**
+
+Para el diseño tipográfico de StockHunters, se ha seleccionado una combinación de fuentes que refleja modernidad y funcionalidad. La tipografía principal, **SpaceGrotesk**, fue elegida por su claridad y legibilidad en pantallas digitales, otorgando al diseño un aire sofisticado en nuestros encabezados. Para los párrafos, hemos optado por **Poppins**, una fuente destacada por su capacidad para resaltar la información clave, favoreciendo una experiencia visual atractiva y dinámica para el usuario. 
+
+A continuación, se detallan las tipografías adoptadas para StockHunters:
+<p align="center">
+<img src="resources/fonts.PNG" alt="Fonts de StockHunters" width="350" height="250">
+</p>
+
+**Colors**
+
+La paleta de colores de **StockHunters** fue seleccionada para reflejar los valores de confianza, eficiencia y modernidad que definen a nuestro sistema. Los tonos predominantes, **azul** y **gris**, evocan sensaciones de profesionalismo, claridad y orden, elementos esenciales para una herramienta orientada al control y optimización de recursos. Esta combinación de colores refuerza la identidad visual del producto como una solución tecnológica y amigable para el usuario.
+
+A continuación, se detallan los colores seleccionados para StockHunters:
+
+<p align="center">
+<img src="resources/colors.PNG" alt="Colors de StockHunters" width="350" height="170">
+</p>
+
+**Spacing**
+
+El espaciado en **StockHunters** está cuidadosamente definido para garantizar una interfaz limpia y organizada. Se emplea una separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño.
+
+<p align="center">
+<img src="resources/spacing.PNG" alt="Spacing de StockHunters" width="350" height="130">
+</p>
+
+  ### 4.1.2. Web Style Guidelines
+**StockHunters** cuenta con un diseño web adaptable para garantizar una experiencia fluida en cualquier dispositivo. Utilizamos el patrón de diseño en forma de **Z**, ideal para destacar funciones clave como la gestión de inventarios y ventas.
+El logotipo se ubica en la esquina superior izquierda, mientras que la barra de navegación y el llamado a la acción a probrar nuestra aplicación se sitúan a la derecha, guiando al usuario de forma intuitiva.
  ## 4.2. Information Architecture
   ### 4.2.1. Organization Systems
   ### 4.2.2. Labeling Systems
@@ -488,15 +538,117 @@ Falta descripción
   ### 4.2.5. Navigation Systems
 
  ## 4.3. Landing Page UI Desing
+ El diseño de la interfaz de usuario en la landing page de **StockHunters** será clave para causar una primera impresión positiva. Buscamos ofrecer una experiencia visual atractiva y funcional que invite a los usuarios a explorar el sistema.
+
   ### 4.3.1. Landing Page Wireframes
+  **Landing Page para Desktop Web Browser**
+  <p align="center">
+<img src="resources/lp1.PNG" alt="1" width="400" height="450">
+</p>
+
+<p align="center">
+<img src="resources/lp2.PNG" alt="2" width="400" height="500">
+</p>
+
+<p align="center">
+<img src="resources/lp3.PNG" alt="3" width="400" height="350">
+</p>
+
+<p align="center">
+<img src="resources/mb1.PNG" alt="mb1" width="250" height="300">
+</p>
+
+<p align="center">
+<img src="resources/mb2.PNG" alt="mb2" width="250" height="400">
+</p>
+
+<p align="center">
+<img src="resources/mb3.PNG" alt="mb3" width="250" height="250">
+</p>
+
+<p align="center">
+<img src="resources/mb4.PNG" alt="mb5" width="250" height="380">
+</p>
+
   ### 4.3.2. Landing Page Mock-Up
 
- ## 4.4. Web Applications UX/UI Desing
-  ### 4.4.1. Web Applications Wireframes
-  ### 4.4.2. Web Applications Wireflow Diagrams
-  ### 4.4.3. Web Applications User Flow Diagrams
+<p align="center">
+<img src="resources/lm1.PNG" alt="1" width="400" height="450">
+</p>
 
+<p align="center">
+<img src="resources/lm2.PNG" alt="2" width="400" height="550">
+</p>
+
+<p align="center">
+<img src="resources/lm3.PNG" alt="3" width="400" height="500">
+</p>
+
+<p align="center">
+<img src="resources/mm1.PNG" alt="mm1" width="250" height="300">
+</p>
+
+<p align="center">
+<img src="resources/mm2.PNG" alt="mm2" width="250" height="400">
+</p>
+
+<p align="center">
+<img src="resources/mm3.PNG" alt="mm3" width="250" height="260">
+</p>
+
+<p align="center">
+<img src="resources/mm4.PNG" alt="mm4" width="200" height="300">
+</p>
+
+ ## 4.4. Web Applications UX/UI Desing
+
+ El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) en aplicaciones web busca crear experiencias digitales intuitivas y satisfactorias. La UX se enfoca en comprender las necesidades del usuario y diseñar flujos de interacción eficientes, mientras que la UI se encarga del aspecto visual, como botones, menús y disposición de contenido. Un diseño UX/UI exitoso fusiona estética y funcionalidad, ofreciendo una experiencia fluida y memorable.
+  ### 4.4.1. Web Applications Wireframes
+<p align="center">
+<img src="resources/mob1.PNG" alt="mm2" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob2.PNG" alt="mm3" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob3.PNG" alt="mm4" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="resources/mob4.PNG" alt="mm2" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob5.PNG" alt="mm3" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob6.PNG" alt="mm4" width="400" height="200">
+</p>
+
+  ### 4.4.2. Web Applications Wireflow Diagrams
+<p align="center">
+<img src="resources/uf.PNG" alt="mm4" width="400" height="600">
+</p>
+
+  ### 4.4.3. Web Applications User Flow Diagrams
+El diagrama de flujo de usuario es una representación visual de las acciones que un usuario realiza al interactuar con una aplicación o sitio web. Se detalla la secuencia de pasos necesarios para completar una tarea, lo que permite identificar áreas de mejora y optimizar la experiencia del usuario.
+
+**Leyenda**
+<p align="center">
+<img src="resources/legend.PNG" alt="mm4" width="400" height="100">
+</p>
+
+**Vista general del flujo del Usuario**
+
+<p align="center">
+<img src="resources/ui.PNG" alt="mm4" width="600" height="600">
+</p>
  ## 4.5. Web Applications Prototyping
+ Prototipo de StockHunters en Figma
+ https://www.figma.com/proto/5IiHYIgt85kgRWLgpMnTqw/Landing-Page-UI-Desing?node-id=0-1&t=X91d0D62Wegvuk7E-1
  
  ## 4.6. Domain-Driven Software Architecture
   ### 4.6.1. Software Architecture Context Diagram
@@ -749,4 +901,4 @@ Falta descripción
 
 # Conclusiones
  ## Conclusiones y recomendaciones
- ## Video About-the-Team
+**## Video About-the-Team**
