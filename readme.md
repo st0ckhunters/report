@@ -26,8 +26,8 @@ string[] Integrantes() {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
         "👩‍💻 Apellidos, Nombres - Codigo",        
         "👩‍💻 Tasayco Osorio, Raul Hiroshi - U202319415",
-        "👩‍💻 Apellidos, Nombres - Codigo",
         "👩‍💻 Alva Abanto, Luis Andres - u202310877"
+        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693"
     };
 }
 ~~~
@@ -86,10 +86,18 @@ Abril del 2025 🗓️
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
+      - [Administradores:](#administradores)
+      - [Clientes:](#clientes)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [Administradores:](#administradores-1)
+      - [Clientes:](#clientes-1)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+      - [Administradores:](#administradores-2)
+      - [Clientes:](#clientes-2)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+      - [Administradores:](#administradores-3)
+    - [Clientes:](#clientes-3)
   - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requeriments Specification](#capítulo-iii-requeriments-specification)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
@@ -138,7 +146,6 @@ Abril del 2025 🗓️
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
 
 
 ## Student Outcome
@@ -183,7 +190,8 @@ Falta descripción
 
    <!--TODO: integrante 2 -->
 
-**> 🧑‍💻 integrante 2**
+
+**> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
   <img src="https://files.catbox.moe/dnmt63.png" alt="Luis Andres Alva Abanto" width="100" align='right'>
@@ -236,13 +244,26 @@ Falta descripción
 
    <!--TODO: integrante 5 -->
 
-**> 🧑‍💻 Integrante 5**
+**> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="link-img" alt="name" width="100" align='right'>
+   <img src="link-img" alt="Jose Enrique Vargas Javier" width="100" align='right'>
 
    ~~~txt
-   Descripción
+   👾 Soy estudiante de Ingeniería de Software 
+   de la UPC, en estos momentos me encuentro 
+   cursando el 5to ciclo de la carrera.
+
+   💻 En todo este camino me he formado en lenguajes de programacion, tales como:
+
+    ➡️ C++
+       ➡️ Python
+    ➡️ SQL
+
+   🎉 Mi habilidad competitiva es comprometerme 
+   con el trabajo encargado, poder adaptarme a 
+   cualquier área con el fin de seguir 
+   adquiriendo mas conocimientos ✅.
    ~~~
 
    </div>
@@ -446,6 +467,37 @@ ___
    > <a href="https://forms.gle/XV26rSaBf8PUVVsL7" target='_blank'>Cuestionario 🔗</a>
 
    ~~~txt    
+    1. ¿Qué tipo de productos vendes o distribuyes en tu negocio?
+    
+    2 ¿Actualmente cómo gestionas tu inventario y tus ventas?
+    
+    3. ¿Cómo haces seguimiento a los pedidos de tus clientes?
+    
+    4. ¿Llevas un historial de compras de tus clientes para darles seguimiento o promociones?
+    
+    5. ¿Qué tan importante sería para ti tener un sistema que te alerte de productos por agotarse?
+
+    6. ¿Con qué frecuencia necesitas generar reportes de ventas o inventario?
+
+    7.¿Cuánto tiempo estimas que dedicas cada semana a controlar tu inventario o ventas manualmente?
+    
+    8. ¿Qué dificultades enfrentas al llevar tu control de stock o ventas?
+    
+    9. ¿Te gustaría que tus clientes puedan ver tu catálogo de productos en línea?
+    
+    10.  ¿Qué temores tienes al momento de cambiar tu sistema de control actual?
+    
+    11.  ¿Qué funcionalidades crees que son imprescindibles en un sistema de inventario y ventas?
+    
+    12. ¿Te gustaría poder acceder al sistema desde tu celular u otros dispositivos?
+    
+    13. ¿Estarías dispuesto a pagar por una solución que te ahorre tiempo y errores?
+
+    14. ¿Qué opina de una aplicación que le permita gestionar su inventario desde la web, y mantener un registro de ventas con la información de los clientes y automatizar la atención a sus clientes mediante WhatsApp o un catálogo en línea?
+    
+    15. ¿Qué tan importante es para ti poder analizar tus ventas e inventario a través de reportes o gráficos que te ayuden a tomar mejores decisiones para tu negocio?
+
+    16. ¿Qué otras características le gustaría que tuviera esta aplicación?
   ~~~
 
    **Segmento Objetivo 2️⃣: Compradores o clientes registrados**
@@ -454,9 +506,26 @@ ___
    > <a href="https://forms.gle/PNxnomycpCKBD1rw5" target='_blank'>Cuestionario 🔗</a> 
 
   ~~~txt
+    1. ¿Sueles revisar catálogos o productos en línea antes de comprar?
 
-   ~~~
+    2. ¿Qué valoras más al revisar un catálogo en línea? (ej. precios claros, disponibilidad, promociones, etc.)
    
+    3. ¿Prefieres comprar en negocios que tienen una presentación más ordenada en línea?
+   
+    4. ¿Te gustaría poder ver si un producto está disponible en tiempo real?
+   
+    5. ¿Qué tan útil sería para ti ver promociones o combos destacados fácilmente?
+   
+    6. ¿Te sentirías más cómodo si puedes hacer un pedido sin tener que llamar directamente?
+   
+    7. ¿Cuáles son los problemas más comunes que enfrentas al pedir por WhatsApp o redes sociales?
+   
+    8. ¿Te gustaría tener una sección para dejar reseñas o leer experiencias de otros?
+   
+    9. ¿Qué tan probable sería que compartas el catálogo de una tienda si te gusta lo que ves?
+   
+    10. ¿Preferirías ver los productos organizados por categorías, marcas o ambos?
+   ~~~
    ### 2.2.2. Registro de entrevistas
 
    **1️⃣ Primer Segmento Objetivo**
@@ -522,7 +591,7 @@ ___
    </a>
    </td>
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/2Nb_TZGTgGc" target='_blank'>
     <img src="resources/Interview-3.png" alt="Tercera entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -544,8 +613,11 @@ ___
     <b>🗣️Entrevistado:</b> name
    </td>
       <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
+    <b>🗣️Entrevistado:</b> Juan Josemaria Costa Morales<br>
+      <p>
+        Juan es un estudiante de Ingenieria de Software, el cual suele recurrir y revisar catalogos para comprar productos de comida o de esa área y valora mucho que sean claros y que esten actualizado en tiempo real. Considera que un catalogo que muestre en tiempo real qué productos hay es uno muy importante. Le interesa tambien la parte de la automatización de los pagos y de la atención en cuestiones sencillas cómo algún inconveniente con el producto o fallos. Además, si le gustaria mucho que las ofertas de las tiendas se puedan dirigir a los productos que les gustan
+      <p>
    </td>
    </tr>
    </table>
@@ -558,21 +630,61 @@ ___
    #### Administradores:
    ![alt text](<resources/José Mendez.png>)
 
-   ### 2.3.2. User Task Matrix
+   #### Clientes:
+   ![alt text](<resources/Maria Molero.png>)
+
+
+   ### 2.3.2. User Task Matrix 
+
+   En este cuadro tendremos a nuestros segmentos objetivos: Administradores de empresas y Clientes. Consideraremos tareas que haran para obtener un producto o hallar ofertas para planificar futuras compras.
+
+   ![alt text](<resources/User Task Matrix.jpg>)
+
+   En estos casos vemos que ambas parte dan importancia a consultar el inventario o Stock, pero los administradores son los más interesados en esta tarea, ya que es crucial mantener un inventario actualizado para su negocio. Además, vemos cómo ambas partes dan una gran importancia a los pagos en yape o con tarjeta, ya que estos son cruciales para que la compra o venta de un producto se logre. Finalmente, ambos dan importancia a las consultas y planeación de compras que se hicieron o haran en un futuro. El primero, para saber si los pedidos seran entregados de la mejor manera en el tiempo adecuado. El segundo, para saber que se tendra que vender el día siguiente, en el caso de los administradores, o comprar para la proxima semana, en el caso de los clientes.
 
    ### 2.3.3. User Journey Mapping
 
-   #### Administradores
+   #### Administradores:
    ![alt text](<resources/Journey mapping Administradores.png>)
+
+   #### Clientes:
+   ![alt text](<resources/journey maping clientes.png>)
+
+
 
    ### 2.3.4. Empathy Mapping
    #### Administradores:
    ![alt text](<resources/Empathy map Administradores.png>)
-
+   #### Clientes:
+   ![alt text](<resources/Empathy maps Clientes.png>)
    ### 2.3.5. As-is Scenario Mapping
-   #### Administradores
-
+   #### Administradores:
+   ![alternate text](<resources/As is scenario mapping Administradores.jpg>)
+   ### Clientes:
+   ![alt text](<resources/As is scenario mapping Clientes.jpg>)
    ## 2.4. Ubiquitous Language
+   Para esta sección determinaremos palabras que debemos saber su significado para el contexto de la problemática que intentamos resolver:
+
+    Stock: Referencia al inventario o a los productos que hay actualmente en la tienda o en los almacenes del negocio
+
+    Regular: En nuestro contexto, se refiere a los productos, clientes o ventas que son frecuentes en la tienda.
+
+    Precio real: Precio que el cliente pagará al final de la transacción, incluye las ofertas o promociones que la tienda ofrece.
+
+    Disponibilidad: Hace referencia a los estados de un producto en la tienda: En stock, agotado, próximo a reabastecer .
+
+    Oferta Personalizada: Es a las ofertas que los clientes obtienen, tomando en cuenta sus compras y los tipos de productos que suelen seleccionar
+
+    Catálogo Digital: Referencia al catálogo o revistas que las tiendas poseen para mostrar su inventario, pero de manera online y lo pueden ver desde el celular o laptop.
+
+    Alertas: nos referimos a las notificaciones de whatsapp o de email para los cambios u ofertas en las tiendas.
+
+    Yape/QR: con esto nos referimos a los métodos de pagos favoritos, en el Perú, donde se usa el celular para hacer transacciones, sin necesidad de tarjetas.
+
+    Delivery Tracking: Con esto nos referimos a el monitoreo que hay de los pedidos que se hacen a domicilio y en qué condiciones se pueden encontrar al llegar.
+
+    Lista de Deseos: Referencia a la lista de productos preferidos o que son comprados con mayor frecuencia por el cliente.
+
 
 
 # Capítulo III: Requeriments Specification
@@ -584,9 +696,46 @@ ___
 
 # Capítulo IV: Product Desing
  ## 4.1. Style Guidelines
+**Un "Style Guideline"** es un conjunto de directrices y normas que establecen los estándares y criterios a seguir en la redacción, diseño y presentación de documentos, contenido web, software y otros productos creativos. A continuación, se presentan las especificaciones detalladas de los parámetros implementados en la estructura del proyecto.
   ### 4.1.1. General Style Guidelines
-  ### 4.1.2. Web Style Guidelines
+**Branding**
 
+Para el desarrollo del logo de StockHunters, hemos elegido un diseño que encapsula la esencia de la aplicación y sus funcionalidades. El logotipo presenta una tipografía sofisticada y clara, que aporta modernidad y profesionalismo. El ícono, simboliza la eficiencia, el orden y la agilidad. La elección de colores vibrantes y dinámicos, en una combinación de tonos azules y blancos, transmite una sensación de confianza y estabilidad. La integración de estos elementos busca comunicar visualmente el compromiso de StockHunters con la innovación y la excelencia en la gestión de inventarios.
+
+<p align="center">
+<img src="resources/Imagotipo.png" alt="Logo de StockHunters" width="350" height="200">
+</p>
+
+**Typography:**
+
+Para el diseño tipográfico de StockHunters, se ha seleccionado una combinación de fuentes que refleja modernidad y funcionalidad. La tipografía principal, **SpaceGrotesk**, fue elegida por su claridad y legibilidad en pantallas digitales, otorgando al diseño un aire sofisticado en nuestros encabezados. Para los párrafos, hemos optado por **Poppins**, una fuente destacada por su capacidad para resaltar la información clave, favoreciendo una experiencia visual atractiva y dinámica para el usuario. 
+
+A continuación, se detallan las tipografías adoptadas para StockHunters:
+<p align="center">
+<img src="resources/fonts.PNG" alt="Fonts de StockHunters" width="350" height="250">
+</p>
+
+**Colors**
+
+La paleta de colores de **StockHunters** fue seleccionada para reflejar los valores de confianza, eficiencia y modernidad que definen a nuestro sistema. Los tonos predominantes, **azul** y **gris**, evocan sensaciones de profesionalismo, claridad y orden, elementos esenciales para una herramienta orientada al control y optimización de recursos. Esta combinación de colores refuerza la identidad visual del producto como una solución tecnológica y amigable para el usuario.
+
+A continuación, se detallan los colores seleccionados para StockHunters:
+
+<p align="center">
+<img src="resources/colors.PNG" alt="Colors de StockHunters" width="350" height="170">
+</p>
+
+**Spacing**
+
+El espaciado en **StockHunters** está cuidadosamente definido para garantizar una interfaz limpia y organizada. Se emplea una separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño.
+
+<p align="center">
+<img src="resources/spacing.PNG" alt="Spacing de StockHunters" width="350" height="130">
+</p>
+
+  ### 4.1.2. Web Style Guidelines
+**StockHunters** cuenta con un diseño web adaptable para garantizar una experiencia fluida en cualquier dispositivo. Utilizamos el patrón de diseño en forma de **Z**, ideal para destacar funciones clave como la gestión de inventarios y ventas.
+El logotipo se ubica en la esquina superior izquierda, mientras que la barra de navegación y el llamado a la acción a probrar nuestra aplicación se sitúan a la derecha, guiando al usuario de forma intuitiva.
  ## 4.2. Information Architecture
   ### 4.2.1. Organization Systems
   ### 4.2.2. Labeling Systems
@@ -595,15 +744,117 @@ ___
   ### 4.2.5. Navigation Systems
 
  ## 4.3. Landing Page UI Desing
+ El diseño de la interfaz de usuario en la landing page de **StockHunters** será clave para causar una primera impresión positiva. Buscamos ofrecer una experiencia visual atractiva y funcional que invite a los usuarios a explorar el sistema.
+
   ### 4.3.1. Landing Page Wireframes
+  **Landing Page para Desktop Web Browser**
+  <p align="center">
+<img src="resources/lp1.PNG" alt="1" width="400" height="450">
+</p>
+
+<p align="center">
+<img src="resources/lp2.PNG" alt="2" width="400" height="500">
+</p>
+
+<p align="center">
+<img src="resources/lp3.PNG" alt="3" width="400" height="350">
+</p>
+
+<p align="center">
+<img src="resources/mb1.PNG" alt="mb1" width="250" height="300">
+</p>
+
+<p align="center">
+<img src="resources/mb2.PNG" alt="mb2" width="250" height="400">
+</p>
+
+<p align="center">
+<img src="resources/mb3.PNG" alt="mb3" width="250" height="250">
+</p>
+
+<p align="center">
+<img src="resources/mb4.PNG" alt="mb5" width="250" height="380">
+</p>
+
   ### 4.3.2. Landing Page Mock-Up
 
- ## 4.4. Web Applications UX/UI Desing
-  ### 4.4.1. Web Applications Wireframes
-  ### 4.4.2. Web Applications Wireflow Diagrams
-  ### 4.4.3. Web Applications User Flow Diagrams
+<p align="center">
+<img src="resources/lm1.PNG" alt="1" width="400" height="450">
+</p>
 
+<p align="center">
+<img src="resources/lm2.PNG" alt="2" width="400" height="550">
+</p>
+
+<p align="center">
+<img src="resources/lm3.PNG" alt="3" width="400" height="500">
+</p>
+
+<p align="center">
+<img src="resources/mm1.PNG" alt="mm1" width="250" height="300">
+</p>
+
+<p align="center">
+<img src="resources/mm2.PNG" alt="mm2" width="250" height="400">
+</p>
+
+<p align="center">
+<img src="resources/mm3.PNG" alt="mm3" width="250" height="260">
+</p>
+
+<p align="center">
+<img src="resources/mm4.PNG" alt="mm4" width="200" height="300">
+</p>
+
+ ## 4.4. Web Applications UX/UI Desing
+
+ El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) en aplicaciones web busca crear experiencias digitales intuitivas y satisfactorias. La UX se enfoca en comprender las necesidades del usuario y diseñar flujos de interacción eficientes, mientras que la UI se encarga del aspecto visual, como botones, menús y disposición de contenido. Un diseño UX/UI exitoso fusiona estética y funcionalidad, ofreciendo una experiencia fluida y memorable.
+  ### 4.4.1. Web Applications Wireframes
+<p align="center">
+<img src="resources/mob1.PNG" alt="mm2" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob2.PNG" alt="mm3" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob3.PNG" alt="mm4" width="400" height="200">
+</p>
+
+<p align="center">
+<img src="resources/mob4.PNG" alt="mm2" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob5.PNG" alt="mm3" width="300" height="220">
+</p>
+
+<p align="center">
+<img src="resources/mob6.PNG" alt="mm4" width="400" height="200">
+</p>
+
+  ### 4.4.2. Web Applications Wireflow Diagrams
+<p align="center">
+<img src="resources/uf.PNG" alt="mm4" width="400" height="600">
+</p>
+
+  ### 4.4.3. Web Applications User Flow Diagrams
+El diagrama de flujo de usuario es una representación visual de las acciones que un usuario realiza al interactuar con una aplicación o sitio web. Se detalla la secuencia de pasos necesarios para completar una tarea, lo que permite identificar áreas de mejora y optimizar la experiencia del usuario.
+
+**Leyenda**
+<p align="center">
+<img src="resources/legend.PNG" alt="mm4" width="400" height="100">
+</p>
+
+**Vista general del flujo del Usuario**
+
+<p align="center">
+<img src="resources/ui.PNG" alt="mm4" width="600" height="600">
+</p>
  ## 4.5. Web Applications Prototyping
+ Prototipo de StockHunters en Figma
+ https://www.figma.com/proto/5IiHYIgt85kgRWLgpMnTqw/Landing-Page-UI-Desing?node-id=0-1&t=X91d0D62Wegvuk7E-1
  
  ## 4.6. Domain-Driven Software Architecture
   ### 4.6.1. Software Architecture Context Diagram
@@ -870,21 +1121,7 @@ Rel(AutomotiveProductSalesManagementSystem.WebApplication.StatisticsComponent, A
 
  ## 4.7. Software Object-Oriented Desing
   ### 4.7.1. Class Diagram
-
-  >[!CAUTION]
-  > Reemplazar esto es un ejemplo 
-  
-  ~~~mermaid
-  ---
-  title: Bank example
-  ---
-  classDiagram
-      class Example
-      Example : +String owner
-      Example : +Bigdecimal balance
-      Example : +deposit(amount)
-      Example : +withdrawal(amount)
-  ~~~
+  ![diagrama](resources/ClassDiagram.drawio.svg)
 
   ### 4.7.2. Class Dictionary
 
@@ -1039,4 +1276,4 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
 
 # Conclusiones
  ## Conclusiones y recomendaciones
- ## Video About-the-Team
+**## Video About-the-Team**
