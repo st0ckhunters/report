@@ -851,21 +851,7 @@ El diagrama de flujo de usuario es una representación visual de las acciones qu
 
  ## 4.7. Software Object-Oriented Desing
   ### 4.7.1. Class Diagram
-
-  >[!CAUTION]
-  > Reemplazar esto es un ejemplo 
-  
-  ~~~mermaid
-  ---
-  title: Bank example
-  ---
-  classDiagram
-      class Example
-      Example : +String owner
-      Example : +Bigdecimal balance
-      Example : +deposit(amount)
-      Example : +withdrawal(amount)
-  ~~~
+  ![diagrama](resources/ClassDiagram.drawio.svg)
 
   ### 4.7.2. Class Dictionary
 
