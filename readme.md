@@ -780,10 +780,87 @@ ___
 
 # Capítulo V: Product Implementation, Validation & Deployment
  ## 5.1. Software Configuration Management
+
+
+
   ### 5.1.1. Software Development Environment Configuration
   ### 5.1.2. Source Code Management
+
+El proyecto adoptará el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma principal.<br> A continuación, se explicará cómo se implementará GitFlow como flujo de trabajo de versiones, junto con los enlaces a los repositorios de GitHub correspondientes para cada producto: Landing Page, Web Services y Frontend Web Applications.<br>
+Repositorio de GitHub: Enlace para [acceder a la organización en GitHub](https://github.com/st0ckhunters "Organización de GitHub"), Enlace para acceder al repositorio de la [Landing Page](), Enlace para acceder al repositorio del [Frontend Web Application]().<br>
+Flujo de trabajo GitFlow: El flujo de trabajo que se utilizará para el desarrollo del proyecto es el propuesto por Vincent Driessen en "A successful Git branching model".<br>
+
+![GitFlow](resources/GitFlow.png "Git Flow Image")
+
+## Estructura de ramas:
+* **Rama principal (Master)**: 
+
+  Esta rama será la principal de la aplicación y almacenará las versiones estables y finales del desarrollo. Solo se aceptarán cambios que hayan sido previamente probados y validados en otras ramas de prueba.
+
+* **Rama de desarrollo (Develop):** 
+
+  Su función es agrupar los avances del proyecto realizados por el equipo y mantener los archivos esenciales para el desarrollo continuo.
+
+* **Ramas de funcionalidad (Feature):** 
+
+  Cada nueva funcionalidad creada por el equipo, o aquella que se desvíe del enfoque principal del desarrollo, tendrá su propia rama. Una vez que la funcionalidad esté terminada, se fusionará con la rama de desarrollo. Las ramas de funcionalidad seguirán una convención de nombres descriptiva y única, como por ejemplo "feature/nombre-de-la-funcionalidad".
+
+* **Ramas de lanzamiento (Release):** 
+
+  Estas ramas se usarán para preparar la versión de la rama de desarrollo que está a punto de ser integrada en la rama principal. Se aplicará el sistema de versionado semántico (Semantic Versioning) para nombrar las versiones de lanzamiento.
+
+* **Ramas de corrección (Hotfix):** 
+
+  Se crearán para realizar correcciones rápidas y específicas a errores encontrados en la rama principal que afecten de manera significativa la experiencia del usuario.
+
+## Versionado Semántico:
+
+ Se utilizará el sistema de versionado semántico (Semantic Versioning 2.0.0) para nombrar las versiones de lanzamiento.
+
+### Convenciones para Commits:
+Para los mensajes de los commits, se adoptará la especificación Conventional Commits, basada en las Angular Commit Guidelines. La estructura será la siguiente:
+
+```python
+git commit -m "<type>[optional scope]: <title>" -m "<description>"
+
+```
+
   ### 5.1.3. Source Code Style Guide & Conventions
   ### 5.1.4. Software Deployment Configuration
+
+#### Despliegue de la Landing Page:
+Para desplegar la landing page, es necesario cumplir con ciertos requisitos, tales como tener una cuenta personal, una organización y un repositorio en el cual cargar los archivos. Una vez cumplidos estos requisitos, se puede iniciar el proceso de despliegue. Los pasos a seguir son los siguientes:
+
+  1. Crear una carpeta llamada "docs" para alojar la landing page.
+
+  2. Asegurarse de que los archivos tengan las siguientes nomenclaturas: "index.html" para la landing page, "style.css" para los estilos, y una carpeta "img" para las imágenes.
+
+  3. Subir los archivos al repositorio mediante un commit.
+
+  4. Ir a Settings > Pages y seleccionar la rama correspondiente donde se encuentra el proyecto, normalmente es "main" o "master".
+
+  5. Definir la carpeta "docs" como la fuente para la página.
+
+  6. Esperar a que GitHub realice las verificaciones necesarias. Una vez completado el proceso, se proporcionará un enlace que llevará a la landing page desplegada.
+
+  * Enlace para acceder a la [landing page]()
+
+### Despliegue de la aplicación web Front End:
+
+Para desplegar la aplicación web Front End, es necesario cumplir con ciertos requisitos, como tener una cuenta personal, una organización y un repositorio donde cargar los archivos. Una vez que se cumplen estos requisitos, se puede iniciar el proceso de despliegue. Los pasos a seguir son los siguientes:
+
+1. Ingresar a la plataforma.
+
+2. Acceder con tu cuenta de Github utilizando la opción Sign Up with Github.
+
+3. Cargar los archivos correspondientes al repositorio mediante un commit.
+
+4. Dirigirse a Settings > Pages y seleccionar la rama correspondiente dentro de la cual se encuentra el proyecto, generalmente "main" o "master".
+
+5. Especificar la carpeta que contiene los archivos como la fuente de la página.
+
+6. Esperar a que la plataforma realice las verificaciones necesarias. Una vez completado el proceso, se proporcionará un enlace para acceder a la landing page desplegada.
+
 
  ## 5.2. Landing Page, Service & Applications Implementation
  
