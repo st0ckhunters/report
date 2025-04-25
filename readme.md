@@ -378,7 +378,7 @@ Falta descripción
    </a>
    </td>
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/2Nb_TZGTgGc" target='_blank'>
     <img src="resources/Interview-3.png" alt="Tercera entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -394,8 +394,11 @@ Falta descripción
     <b>🗣️Entrevistado:</b> name
    </td>
       <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
+    <b>🗣️Entrevistado:</b> Juan Josemaria Costa Morales<br>
+      <p>
+        Juan es un estudiante de Ingenieria de Software, el cual suele recurrir y revisar catalogos para comprar productos de comida o de esa área y valora mucho que sean claros y que esten actualizado en tiempo real. Considera que un catalogo que muestre en tiempo real qué productos hay es uno muy importante. Le interesa tambien la parte de la automatización de los pagos y de la atención en cuestiones sencillas cómo algún inconveniente con el producto o fallos. Además, si le gustaria mucho que las ofertas de las tiendas se puedan dirigir a los productos que les gustan
+      <p>
    </td>
    </tr>
    </table>
@@ -408,21 +411,61 @@ Falta descripción
    #### Administradores:
    ![alt text](<resources/José Mendez.png>)
 
-   ### 2.3.2. User Task Matrix
+   #### Clientes:
+   ![alt text](<resources/Maria Molero.png>)
+
+
+   ### 2.3.2. User Task Matrix 
+
+   En este cuadro tendremos a nuestros segmentos objetivos: Administradores de empresas y Clientes. Consideraremos tareas que haran para obtener un producto o hallar ofertas para planificar futuras compras.
+
+   ![alt text](<resources/User Task Matrix.jpg>)
+
+   En estos casos vemos que ambas parte dan importancia a consultar el inventario o Stock, pero los administradores son los más interesados en esta tarea, ya que es crucial mantener un inventario actualizado para su negocio. Además, vemos cómo ambas partes dan una gran importancia a los pagos en yape o con tarjeta, ya que estos son cruciales para que la compra o venta de un producto se logre. Finalmente, ambos dan importancia a las consultas y planeación de compras que se hicieron o haran en un futuro. El primero, para saber si los pedidos seran entregados de la mejor manera en el tiempo adecuado. El segundo, para saber que se tendra que vender el día siguiente, en el caso de los administradores, o comprar para la proxima semana, en el caso de los clientes.
 
    ### 2.3.3. User Journey Mapping
 
-   #### Administradores
+   #### Administradores:
    ![alt text](<resources/Journey mapping Administradores.png>)
+
+   #### Clientes:
+   ![alt text](<resources/journey maping clientes.png>)
+
+
 
    ### 2.3.4. Empathy Mapping
    #### Administradores:
    ![alt text](<resources/Empathy map Administradores.png>)
-
+   #### Clientes:
+   ![alt text](<resources/Empathy maps Clientes.png>)
    ### 2.3.5. As-is Scenario Mapping
-   #### Administradores
-
+   #### Administradores:
+   ![alternate text](<resources/As is scenario mapping Administradores.jpg>)
+   ### Clientes:
+   ![alt text](<resources/As is scenario mapping Clientes.jpg>)
    ## 2.4. Ubiquitous Language
+   Para esta sección determinaremos palabras que debemos saber su significado para el contexto de la problemática que intentamos resolver:
+
+    Stock: Referencia al inventario o a los productos que hay actualmente en la tienda o en los almacenes del negocio
+
+    Regular: En nuestro contexto, se refiere a los productos, clientes o ventas que son frecuentes en la tienda.
+
+    Precio real: Precio que el cliente pagará al final de la transacción, incluye las ofertas o promociones que la tienda ofrece.
+
+    Disponibilidad: Hace referencia a los estados de un producto en la tienda: En stock, agotado, próximo a reabastecer .
+
+    Oferta Personalizada: Es a las ofertas que los clientes obtienen, tomando en cuenta sus compras y los tipos de productos que suelen seleccionar
+
+    Catálogo Digital: Referencia al catálogo o revistas que las tiendas poseen para mostrar su inventario, pero de manera online y lo pueden ver desde el celular o laptop.
+
+    Alertas: nos referimos a las notificaciones de whatsapp o de email para los cambios u ofertas en las tiendas.
+
+    Yape/QR: con esto nos referimos a los métodos de pagos favoritos, en el Perú, donde se usa el celular para hacer transacciones, sin necesidad de tarjetas.
+
+    Delivery Tracking: Con esto nos referimos a el monitoreo que hay de los pedidos que se hacen a domicilio y en qué condiciones se pueden encontrar al llegar.
+
+    Lista de Deseos: Referencia a la lista de productos preferidos o que son comprados con mayor frecuencia por el cliente.
+
 
 
 # Capítulo III: Requeriments Specification
