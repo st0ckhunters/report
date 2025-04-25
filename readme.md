@@ -422,7 +422,7 @@ Falta descripción
    ![alt text](<resources/Journey mapping Administradores.png>)
 
    #### Clientes:
-   
+   ![alt text](<resources/journey maping clientes.png>)
 
 
 
@@ -433,8 +433,9 @@ Falta descripción
    ![alt text](<resources/Empathy maps Clientes.png>)
    ### 2.3.5. As-is Scenario Mapping
    #### Administradores:
-   
-
+   ![alternate text](<resources/As is scenario mapping Administradores.jpg>)
+   ### Clientes:
+   ![alt text](<resources/As is scenario mapping Clientes.jpg>)
    ## 2.4. Ubiquitous Language
    Para esta sección determinaremos palabras que debemos saber su significado para el contexto de la problemática que intentamos resolver:
 
