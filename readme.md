@@ -411,8 +411,10 @@ Falta descripción
    #### Clientes:
    ![alt text](<resources/Maria Molero.png>)
 
-   
+
    ### 2.3.2. User Task Matrix
+
+
 
    ### 2.3.3. User Journey Mapping
 
@@ -427,11 +429,35 @@ Falta descripción
    ### 2.3.4. Empathy Mapping
    #### Administradores:
    ![alt text](<resources/Empathy map Administradores.png>)
-
+   #### Clientes:
+   ![alt text](<resources/Empathy maps Clientes.png>)
    ### 2.3.5. As-is Scenario Mapping
    #### Administradores:
+   
 
    ## 2.4. Ubiquitous Language
+   Para esta sección determinaremos palabras que debemos saber su significado para el contexto de la problemática que intentamos resolver:
+
+    Stock: Referencia al inventario o a los productos que hay actualmente en la tienda o en los almacenes del negocio
+
+    Regular: En nuestro contexto, se refiere a los productos, clientes o ventas que son frecuentes en la tienda.
+
+    Precio real: Precio que el cliente pagará al final de la transacción, incluye las ofertas o promociones que la tienda ofrece.
+
+    Disponibilidad: Hace referencia a los estados de un producto en la tienda: En stock, agotado, próximo a reabastecer .
+
+    Oferta Personalizada: Es a las ofertas que los clientes obtienen, tomando en cuenta sus compras y los tipos de productos que suelen seleccionar
+
+    Catálogo Digital: Referencia al catálogo o revistas que las tiendas poseen para mostrar su inventario, pero de manera online y lo pueden ver desde el celular o laptop.
+
+    Alertas: nos referimos a las notificaciones de whatsapp o de email para los cambios u ofertas en las tiendas.
+
+    Yape/QR: con esto nos referimos a los métodos de pagos favoritos, en el Perú, donde se usa el celular para hacer transacciones, sin necesidad de tarjetas.
+
+    Delivery Tracking: Con esto nos referimos a el monitoreo que hay de los pedidos que se hacen a domicilio y en qué condiciones se pueden encontrar al llegar.
+
+    Lista de Deseos: Referencia a la lista de productos preferidos o que son comprados con mayor frecuencia por el cliente.
+
 
 
 # Capítulo III: Requeriments Specification
