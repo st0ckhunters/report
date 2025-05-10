@@ -230,13 +230,19 @@ Falta descripción
 
    <!--TODO: integrante 4 -->
 
-**> 🧑‍💻 Integrante 4**
+**> 🧑‍💻 Christofer William Costa Morales**
    <div align='center'>
 
-   <img src="link-img" alt="name" width="100" align='right'>
+   <img src="resources/image_cristofer.jpg" alt="name" width="100" align='right'>
 
-   ~~~txt
-   Descripción
+   ~~~
+   Soy estudiante de la carrera de ingenieria de software de la UPC.
+Poseo experiencia con los lenguajes de progamación siguientes:
+➡️ C++
+➡️ Python
+➡️ JavaScript
+➡️ HTML & CSS
+En lo personal siento que estoy en la capacidad de ayudar y contribuir de la mejor manera con este equipo
    ~~~
 
    </div>
@@ -247,7 +253,7 @@ Falta descripción
 **> 🧑‍💻 Jose Enrique Vargas Javier**
    <div align='center'>
 
-   <img src="link-img" alt="Jose Enrique Vargas Javier" width="100" align='right'>
+   <img src="resources/image_enrique.png" alt="Jose Enrique Vargas Javier" width="100" align='right'>
 
    ~~~txt
    👾 Soy estudiante de Ingeniería de Software 
