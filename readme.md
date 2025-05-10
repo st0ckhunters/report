@@ -222,7 +222,8 @@ Falta descripción
       3️⃣ SQL   
       4️⃣ HTML  
       5️⃣ CSS   
-    En lo personal considero que soy una persona que está dispuesto a adquirir la mayoría de conocimientos posibles, además ñde trabajar bien en equipo, las espectativas del curso son muy altas, puesto que siento que es un curso fundamental para nuestra formación como futuros Ingenieros de Software. 💻
+    Me considero una persona proactiva, con habilidades para trabajar en equipo y un fuerte compromiso con el aprendizaje continuo. 
+    Mis expectativas para el curso de [especificar curso] son altas, ya que lo considero clave para mi formación como futuro Ingeniero de Software. Aspiro a desarrollar soluciones tecnológicas innovadoras que generen un impacto positivo. 💻
    ~~~
 
    </div>
