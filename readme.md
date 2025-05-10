@@ -230,13 +230,19 @@ Falta descripción
 
    <!--TODO: integrante 4 -->
 
-**> 🧑‍💻 Integrante 4**
+**> 🧑‍💻 Christofer William Costa Morales**
    <div align='center'>
 
    <img src="link-img" alt="name" width="100" align='right'>
 
    ~~~txt
-   Descripción
+   Soy estudiante de la carrera de ingenieria de software de la UPC.
+   Poseo experiencia con los lenguajes de progamación siguientes:
+   ➡️ C++
+   ➡️ Python
+   ➡️ JavaScript
+   ➡️ HTML & CSS
+   En lo personal siento que estoy en la capacidad de ayudar y contribuir de la mejor manera con este equipo
    ~~~
 
    </div>
@@ -727,6 +733,8 @@ ___
 
 
 
+=======
+
  ## 3.3. Impact Mapping
 
  ## 3.4. Product Backlog
@@ -797,11 +805,68 @@ El espaciado en **StockHunters** está cuidadosamente definido para garantizar u
 **StockHunters** cuenta con un diseño web adaptable para garantizar una experiencia fluida en cualquier dispositivo. Utilizamos el patrón de diseño en forma de **Z**, ideal para destacar funciones clave como la gestión de inventarios y ventas.
 El logotipo se ubica en la esquina superior izquierda, mientras que la barra de navegación y el llamado a la acción a probrar nuestra aplicación se sitúan a la derecha, guiando al usuario de forma intuitiva.
  ## 4.2. Information Architecture
+
   ### 4.2.1. Organization Systems
+
+  ### 4.2.1.1. Visual Herarchy
+   1. Encabezado principal: En este tendremos el tendremos las principales funciones que nuestro aplicativo ofrece y ayuda a los usuarios a navegar por sus funcionalidades.
+   2. Selección de productos: ocupa un lugar en donde el usuario tendra que decidir que hacer con el producto que escoja, ya sea comprarlo, en el caso de los cliente, o venderlo, en caso de los administradores.
+  ### 4.2.1.2. Step by Step to acomplish
+
+  Este enfoque lo implementaremos, ya que nuestro apicativo necesita una secuencia clara y sencilla de comprender para que no haya errores en las compras o ventas de nuestro usuarios.
+  #### User Goal
+  Quiero manejar mis productos o comprarlos
+
+  #### User Flow
+
+  1. Selecciona el producto
+  2. Verifica el precio y la marca del producto
+  3. Agrega el producto a su compra o venta
+  4. Visualiza un reporte de lo que compro o vendió
+
+  #### Wireflow
+
+  1.  Selecciona el producto
+  El usuario filtra de todos los productos que se encuentran disponibles para hallar el correcto
+  2. Verifica el precio y la marca del producto
+  Al producto ser uno que posee variaciones se le muestra las opciones disponibles y el precio de cada una
+  3. Agrega el producto a su compra o venta
+  El usuario, si es un cliente, realiza el pago con algún metodo de pago aceptado por la emprea, si es un administrador, registra la venta del producto con su descripción y la fecha de venta.
+  4. Visualiza un reporte de lo que compro o vendió
+  El usuario, en caso del cliente, revisa su correo o whatsapp para ver la boleto u otro comprobante de pago, en el caso del administrador, se dirijira a una pantalla en donde le mostrara un registro del producto que vendio y una grafica de las ventas de dicho producto
+
   ### 4.2.2. Labeling Systems
+
+  La aplicación utiliza un sistema de etiquetas y botones que ofrecen al usuario, dependiendo de si es un administrador o cliente, una manera de regitrar y monitorear sus o los productos en los que estan interesados y se mostraran la información pertinente de ellos.
+
+  El cliente selecciona con un boton qué productos quiere agregar a su lista de compras, puede verificar el precio y aumentar o disminuir la cantidad. Además, puede ingresar datos para filtrar los productos que desea (marca, rango de precio, peso, etc). 
+
+  Para los administradores se tendra una sección de producto en Stock, que sera actualizado en tiempo real y mostrara en un cuadro la cantidad exacta del producto que hay disponible ese dia. Además, hay una sección de registro de compras, en donde, se ingresara la información (Producto, cantidad vendida, cliente, fecha y una verificación de seguridad) para realizar un historial de ventas, que mostrara todas las ventas realizadas al mes. Finalmente, se mostraran alertas de productos que se agoten y una sección de reportes donde se informara, con graficas, de qué tan popular es un producto y cuanto se vendio del mismo.
+
   ### 4.2.3. SEO Tags and Meta Tags
+
+
   ### 4.2.4. Searching Systems
+
+  Para encontrar ciertas funcionalidades de nuestra aplicación, usamos varios botones y empleamos varios indicadores visuales para que el usuario sepa donde encontrar lo que necesita. A continuación se muestra los ejemplos de los tipos de busqueda que usaremos:
+
+  1. Busqueda de productos: para facilitar la busqueda de los producto que nuestros usuarios desean usamos una serie de filtros para que puedan hallar exactamente lo que quieren.
+
+  2. Busqueda por frecuencia: usamos los datos que obtenemos de los usuarios y sugerimos qué producto o sección de nuestra aplicación desea ir, después de varias repeticiones del usuario escogiendo la misma opción.
+
+  3. Busqueda de ventas: para los administradores se les da una forma de ir rapidamente a la sección de ventas o reporte de ventas para que puedan verificar esa información crucial para su negocio.
+
+
+
   ### 4.2.5. Navigation Systems
+  1. Registro: para poder entrar el usuario ingresara su cuenta y se registrara que tipo de usuario es: cliente que solo quiere registrar y getionar sus pedidos y recibir ofertas personalizadas o administrador que quiere el monitoreo, registro y seguimiento de las ventas: productos y clientes que frecuentan su tienda.
+
+  2. Productos: permite a los usuarios, dependiendo del tipo, manejar todo con respecto a los productos, desde su venta y compra, a las ofertas que se pueden ofrecer de estos.
+
+  3. Mi perfil: permite a los usuarios configurar sus preferencias, verificar sus credenciales, cambiar contraseña y cambiar, ya sea el caso, qué tipo de usuarios son.
+
+  4. Ayuda: esto permite a los usuarios reportar a nuestro equipo de soporte tecnico de algún inconveniente que ha tenido con el aplicativo. 
+
 
  ## 4.3. Landing Page UI Desing
  El diseño de la interfaz de usuario en la landing page de **StockHunters** será clave para causar una primera impresión positiva. Buscamos ofrecer una experiencia visual atractiva y funcional que invite a los usuarios a explorar el sistema.
