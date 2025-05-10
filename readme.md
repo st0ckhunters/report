@@ -168,7 +168,7 @@ Falta descripción
 **> 🧑‍💻 Rogger Faryd Miranda Ayasta**
    <div align='center'>
 
-   <img src="" alt="Rogger Faryd Miranda Ayasta" width="100" align='right'>
+   <img src="https://files.catbox.moe/uo7qnb.webp" alt="Rogger Faryd Miranda Ayasta" width="100" align='right'>
 
    ~~~txt
    🎓 Soy estudiante de Ingeniería de Software, 
