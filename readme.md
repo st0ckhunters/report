@@ -732,6 +732,9 @@ ___
 | EP06    | Página web y captación de usuarios       | Como visitante, quiero entender los beneficios, leer experiencias reales y contactar fácilmente para decidir si la plataforma es adecuada para mí. |
 
 
+
+=======
+
  ## 3.3. Impact Mapping
 
  ## 3.4. Product Backlog
