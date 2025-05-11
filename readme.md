@@ -41,8 +41,59 @@ Abril del 2025 🗓️
 <!--* informacion sobre el proyecto -->
 
 ## Registro de versiones del Informe
+<table>
+  <tr>
+    <th>Version</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación </th>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>2025-04-20</td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li><li>Jose Enrique Vargas Javier</li></ul></td>
+    <td> Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td>TP</td>
+    <td>2025-05-13</td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li></ul></td>
+    <td> Se han incluído los siguientes capítulos y secciones:
+        <ul>
+          <li>Capitulo V: Product Implementation, Validation & Deployment, desde el punto 5.2.2. hasta 5.2.2.8.</li>
+          <li>5.2.2. Sprint 2</li>
+          <li>5.2.2.1.Sprint Planning 2.</li>
+          <li>5.2.2.2. Aspect Leaders and Collaborators.</li>
+          <li>5.2.2.3.Sprint Backlog 2.</li>
+          <li>5.2.2.4.Development Evidence for Sprint Review</li>
+          <li>5.2.2.5.Execution Evidence for Sprint Review.</li>
+          <li>5.2.2.6.Services Documentation Evidence for Sprint Review.</li>
+          <li>5.2.2.7.Software Deployment Evidence for Sprint Review</li>
+          <li>5.2.2.8.Team Collaboration Insights during Sprint.</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos.</li>
+        </ul></td>
+  </tr>
+  
+</table>
 
 ## Project Report Collaboration Insights
+Enlace al trabajo de github: https://github.com/st0ckhunters/report.git
+
+A continuación se presentaran los commit realizados por los contribuidores para el avance del TB1:
+
+![alt text](resources/Insights.png)
+
+Cabe recalcar que no toma en cuenta los merge commits y algunos de los commits de nuestro integrante, Christofer Costa, no se guardaron con su cuenta de github y aparecen con otro nombre, por lo que no se registran en los insights:
+
+![alt text](resources/Commit_Christofer.png)
 
 <div>
 
@@ -222,7 +273,8 @@ Falta descripción
       3️⃣ SQL   
       4️⃣ HTML  
       5️⃣ CSS   
-    En lo personal considero que soy una persona que está dispuesto a adquirir la mayoría de conocimientos posibles, además ñde trabajar bien en equipo, las espectativas del curso son muy altas, puesto que siento que es un curso fundamental para nuestra formación como futuros Ingenieros de Software. 💻
+    Me considero una persona proactiva, con habilidades para trabajar en equipo y un fuerte compromiso con el aprendizaje continuo. 
+    Mis expectativas para el curso de [especificar curso] son altas, ya que lo considero clave para mi formación como futuro Ingeniero de Software. Aspiro a desarrollar soluciones tecnológicas innovadoras que generen un impacto positivo. 💻
    ~~~
 
    </div>
@@ -504,6 +556,8 @@ ___
     15. ¿Qué tan importante es para ti poder analizar tus ventas e inventario a través de reportes o gráficos que te ayuden a tomar mejores decisiones para tu negocio?
 
     16. ¿Qué otras características le gustaría que tuviera esta aplicación?
+
+    17. ¿Qué le suena que los dispositivos de su negocio esten conectados al aplicativo?
   ~~~
 
    **Segmento Objetivo 2️⃣: Compradores o clientes registrados**
@@ -538,8 +592,8 @@ ___
    <table style="width:100%" align='center'>
    <tr>
    <th>📌Tituko</th>
-   <th>📌Tituko</th>
-   <th>📌Titulo</th>
+   <th>📌Gerente de compañia de productos agroquimicos</th>
+   <th>📌Gerente de compañia de productos saludables</th>
    </tr>
 
    <tr>
@@ -549,12 +603,12 @@ ___
    </a>
    </td> 
    <td align='center'>
-   <a href="" target='_blank'>
+    <a href="https://youtu.be/9L7HESPibVA" target='_blank'>
     <img src="resources/Interview-2.png" alt="Segunda entrevista del primer segmento objetivo">
    </a>
    </td>
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/nJlLy_sWxCM" target='_blank'>
     <img src="resources/Interview-3.png" alt="Tercera entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -566,12 +620,16 @@ ___
     <b>🗣️Entrevistado:</b> name
    </td>
    <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Jose Enrique Vargas Javier <br>
+    <b>🗣️Entrevistado:</b> Isabel Valenzuela 
+   <p>Isabel Valenzuela es gerente de una empresa que vende productos agroquímicos. Usa Excel para gestionar inventario, ventas y seguimiento de clientes. Con esta información envía promociones y hace seguimiento personalizado. Dedica unas 5 horas semanales a generar reportes manualmente. Entre sus principales dificultades está contar el inventario real uno por uno y las diferencias con el registro digital. Resalta la importancia de detectar productos que están por agotarse, ya que deben pedirse con anticipación. También considera esencial poder clasificar a sus clientes por tipo de trato, diferenciando entre minoristas y mayoristas.
+   Cree que una aplicación web para consultar inventario desde cualquier dispositivo le ahorraría tiempo. Está dispuesta a pagar por una solución así, aunque le preocupa la curva de aprendizaje al cambiar de sistema.</p>
    </td>
       <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
+    <b>🗣️Entrevistado:</b> Maria Morales Mendez
+     <p>Maria Morales es dueña de una empresa que vende productos naturales o bajo en químicos. Usa Excel y un sistema llamado Bsale para gestionar inventario, ventas y seguimiento de clientes. Con esta información mapean de manera manual a los clientes más frecuentes y les envian ofertas o promociones. Dedica unas 2 horas diarias a generar un registro del inventario manualmente y otras 2 para el registro de sus ventas. Sus principales dificultades está en tener que mantener el control de inventario de manera manual e ingresar esos datos indivualmente en un excel, de manera diaria y, luego, debe de actualizar esos datos en sus redes sociales y sitio web. Ella le resulta importante el monitoreo del inventario en tiempo real, ya que este le ayudaria a ahorrarse tiempo y le permitiria estar más libre para hacer otras actividades. Tambien, le interesa mucho la automatización de los reportes y que estos los muestren en gráficos para poder saber qué productos deberia invertir más o dejar de lado para evitar costos innecesarios.
+     </p>
    </td>
    </tr>
    </table>
@@ -581,8 +639,8 @@ ___
    <table style="width:100%" align='center'>
    <tr>
    <th>📌Estudiante</th>
-   <th>📌Titulo</th>
-   <th>📌Titulo</th>
+   <th>📌Cliente</th>
+   <th>📌Cliente</th>
    </tr>
 
    <tr>
@@ -592,7 +650,7 @@ ___
    </a>
    </td> 
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/3iKexM4Z7i8" target='_blank'>
     <img src="resources/Interview-2.png" alt="Segunda entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -607,7 +665,7 @@ ___
    <td>
     <b>📝Entrevistador:</b> Luis Alva <br>
     <b>🗣️Entrevistado:</b> Angie Yalan
-        <p>
+       <p>
            Angie es una consumidora concurrente que suele revisar los catalogos en linea antes de comprar, valorando principalmente la claridad y el valor de la informacion proporcionada. Considera importante
            ver el stock disponible antes de realizar la compra para evitar problemas. Valora la digitalizacion del proceso de compra, ya que prefiere hacerlo de manera remota y sin la necesidad de
            una llamada o enlace telefonico. Normalmente los problemas mas comunes que enfrenta son no saber el precio de los productos de su interes y la falta de respuesta rapida por parte del negocio
@@ -615,8 +673,11 @@ ___
        </p>
    </td>
    <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Rogger Faryd <br>
+    <b>🗣️Entrevistado:</b> Jahaziel
+    <p>
+    Jahaziel revisa catálogos en línea antes de comprar, valorando precios claros, disponibilidad actualizada y buenas fotos. Prefiere un proceso de compra digital sin necesidad de llamadas y le parece útil ver stock en tiempo real. Mencionó que los problemas comunes son las respuestas lentas en redes sociales. Le gustaría leer reseñas y estaría dispuesto a compartir catálogos que le gusten, prefiriendo productos organizados por categorías y marcas.
+    </p>
    </td>
       <td>
     <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
@@ -629,6 +690,38 @@ ___
    </table>
    
    ### 2.2.3. Análisis de entrevistas
+   **1️⃣ Primer Segmento Objetivo: Administradores de negocios con inventario físico**
+   En las entrevistas, la mayoría de los negocios (alrededor del 70%) usa hojas de cálculo como Excel para gestionar su inventario y ventas, lo que genera problemas de errores y omisiones, dedicando entre 3 a 5 horas a la semana en este proceso.
+   ![alt text](resources/question7.png)
+   ![alt text](resources/question8.png)
+  
+  El 75% de los encuestados considera importante tener un sistema que alerte sobre productos por agotarse, mientras que un 100% estaría interesado en que sus clientes pudieran ver el catálogo en línea.
+  ![alt text](resources/question9.png)
+  ![alt text](resources/question10.png)
+
+  Además, el 100% de los entrevistados valora la posibilidad de acceder al sistema desde dispositivos móviles y considera esencial que el sistema sea fácil de usar para gestionar ventas, inventario y clientes de manera más eficiente.
+  ![alt text](resources/question11.png)
+
+  Este resumen muestra las necesidades comunes de los negocios en cuanto a optimización de la gestión de inventario y ventas.
+
+   **2️⃣ Segundo Segmento Objetivo: Compradores o clientes registrados**
+   En las entrevistas realizadas, se observó que la mayoría de los participantes (alrededor del 69%) revisan catálogos en línea antes de hacer una compra. La mayoría valora especialmente que los catálogos tengan fotos y descripciones detalladas de los productos, así como precios claros y disponibilidad actualizada. Además, todos los entrevistados prefieren comprar en tiendas que tienen una presentación ordenada en línea, lo que facilita la navegación.
+   ![resumen pregunta 1](resources/question1.png)
+   ![alt text](resources/question2.png)
+  
+  La posibilidad de ver si un producto está disponible en tiempo real es algo que muchos consideran muy útil (aproximadamente el 92%). También se destacó que el 30% de los participantes encuentran útil ver promociones o combos destacados de manera visible y fácil de encontrar.
+  ![alt text](resources/question3.png)
+  ![alt text](resources/question4.png)
+
+  En cuanto al proceso de compra, la mayoría prefiere hacer pedidos sin tener que llamar directamente, con un 46,2% indicando que prefieren una experiencia completamente digital. Sin embargo, uno de los problemas más comunes que enfrentan al comprar por redes sociales es la respuesta lenta, y muchos también mencionaron la falta de precios claros y información sobre disponibilidad.
+  ![alt text](resources/question5.png)
+
+  Un punto importante es que el 84% de los encuestados expresó interés en poder leer o dejar reseñas de otros compradores, lo cual muestra la importancia de la confianza en las experiencias compartidas. En relación a compartir catálogos, el 60% estaría dispuesto a hacerlo si les gusta lo que ven, lo que destaca un buen nivel de recomendación entre consumidores.
+  ![alt text](resources/question6.png)
+
+  Finalmente, la mayoría prefiere que los productos estén organizados por categorías y marcas, lo que facilita la búsqueda dentro del catálogo.
+
+  En resumen, los consumidores valoran una experiencia de compra en línea clara, ordenada y accesible, con buena información sobre precios y stock. También aprecian la opción de hacer pedidos sin llamadas, y la facilidad de acceder a promociones y reseñas de otros usuarios.
 
    ## 2.3. Needfinding
    ### 2.3.1. User Personas
@@ -650,11 +743,14 @@ ___
 
    ### 2.3.3. User Journey Mapping
 
-   #### Administradores:
-   ![alt text](<resources/Journey mapping Administradores.png>)
+   ##### 📝 Administradores:
 
-   #### Clientes:
-   ![alt text](<resources/journey maping clientes.png>)
+   ![alt text](<resources/User journey maping administradores.png>)
+   
+   #### 📝 Clientes:
+
+   ![alt text](<resources/User journey mapping Clientes.png>)
+
 
 
 
@@ -844,7 +940,37 @@ El logotipo se ubica en la esquina superior izquierda, mientras que la barra de 
   Para los administradores se tendra una sección de producto en Stock, que sera actualizado en tiempo real y mostrara en un cuadro la cantidad exacta del producto que hay disponible ese dia. Además, hay una sección de registro de compras, en donde, se ingresara la información (Producto, cantidad vendida, cliente, fecha y una verificación de seguridad) para realizar un historial de ventas, que mostrara todas las ventas realizadas al mes. Finalmente, se mostraran alertas de productos que se agoten y una sección de reportes donde se informara, con graficas, de qué tan popular es un producto y cuanto se vendio del mismo.
 
   ### 4.2.3. SEO Tags and Meta Tags
-
+  
+  Los SEO tags son etiquetas HTML que ayudan a los motores de búsqueda a entender y posicionar en los resultados. Los meta tags son etiquetas que proporcionan información sobre la página, como su descripción, palabras clave y autor lo cual ayuda al ser buscado en el navegador.
+A continuacion se presentan los SEO tags y meta tags que se utilizarán en la plataforma:
+Title Tag: Este tag define el título de la página y es uno de los factores más importantes para el SEO. Debe ser único y contener palabras clave relevantes.
+```html
+<title>Lubrimax - Servicio de gestion de inventario y venta</title>
+```
+Meta Description: Este tag proporciona una breve descripción del contenido de la página. Permite a los usuarios entender de qué trata la página antes de hacer clic en el enlace. Debe ser conciso y atractivo.
+```html
+<meta name="description" content="Lubrimax es una plataforma de gestión de inventario y ventas que permite a los negocios físicos digitalizar su operación y automatizar la atención al cliente mediante WhatsApp y un catálogo web.">
+```
+Language tag: Este tag indica el idioma principal del contenido de la página. Es importante para la accesibilidad y el SEO.
+```html
+<meta http-equiv="Content-Language" content="es-ES">
+```
+Robots tag: Este tag indica a los motores de búsqueda cómo deben indexar la página. Puede ser utilizado para evitar que ciertas páginas sean indexadas.
+```html
+<meta name="robots" content="index, follow">
+```
+Author tag: Este tag indica el autor del contenido de la página. Es útil para dar crédito a los creadores de contenido.
+```html
+<meta name="author" content="uTime Team">
+```
+Meta Viewport: Este tag es esencial para que la página sea responsiva en dispositivos móviles. Mejora la experiencia del usuario y es un factor importante para el SEO técnico.
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+Canonical Tag: Este tag especifica la URL canónica de la página para evitar problemas de contenido duplicado en motores de búsqueda. Ayuda a consolidar el posicionamiento de una sola versión de la página.
+```html
+<link rel="canonical" href="https://www.lubrimax.com/">
+```
 
   ### 4.2.4. Searching Systems
 
