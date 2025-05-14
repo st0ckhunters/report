@@ -211,7 +211,7 @@ Cabe recalcar que no toma en cuenta los merge commits y algunos de los commits d
 
 ### 1.1.1. Descripción de la Startup
 
-Falta descripción
+Stockhunters es una startup que transforma la gestión de inventarios mediante soluciones IoT innovadoras. Capacitamos a empresas en el Perú y el mundo con tecnología que optimiza el control de stock, mejora la precisión de datos y agiliza decisiones estratégicas. Nuestra plataforma, con sensores IoT y análisis en tiempo real, reemplaza métodos obsoletos, reduciendo costos y potenciando la competitividad. Dirigida a empresas que buscan eficiencia y profesionalismo, ofrecemos soluciones escalables y personalizadas.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
