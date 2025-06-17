@@ -148,9 +148,151 @@ Abril del 2025 🗓️
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
 
-## Student Outcome
-
 </div>
+
+## Student Outcome
+ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<div>
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Nombre</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Criterio 1 -->
+    <tr>
+      <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>Raul Tasayco</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Determiné con claridad la problemática de nuestra startup, identifiqué los segmentos objetivo y llevé a cabo la investigación necesaria para establecer los requisitos de la aplicación web. Además, realicé una entrevista con un usuario perteneciente al segmento objetivo.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Ajusté los technical stories y las evidencias según los comentarios recibidos. Progresé en el desarrollo del FrontEnd y establecí los bounded contexts para las áreas de ventas, clientes y pagos. Colaboré en la discusión y la planificación del sprint 2.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+      <td rowspan="5">Me comunico oralmente de manera clara y estructurada, aportando al análisis técnico y estratégico del proyecto.</td>
+    </tr>
+    <tr>
+      <td>Luis Alva</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Realicé entrevistas para recolectar información clave y diseñé la arquitectura de software basada en Domain Driven Design, elaborando diagramas de contexto, contenedores y componentes.<br>
+        <strong>ℹ️ TP:</strong><br>       
+        Ayudé en la planificación detallada del Sprint 2 y colaboré en los insights de colaboración del equipo durante el sprint, aportando valor al progreso del proyecto.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Rogger Faryd</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Mantuve comunicación constante con el equipo, avancé en el diseño en Figma, participé en la elaboración de la landing page, y preparé preguntas para entrevistas y diagramas de clases.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Distribuí tareas y roles, avancé en el desarrollo de endpoints, parte visual de la web y detalles de la landing page.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Christofer William</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Realicé needfinding, escenarios to-be, impact mapping e Information Architecture, y recolecté información gracias a la comunicación con los posibles clientes.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Enrique Vargas</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Participé activamente en el diseño de la página web mediante Figma y mantuve comunicación constante para coordinar avances y coherencia del proyecto.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Me encargué de completar la parte visual del proyecto y de su despliegue en la web.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <!-- Criterio 2 -->
+    <tr>
+      <td rowspan="6">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+      <td>Jorge Yum</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Describí la startup, el contexto y los antecedentes, apliqué Lean UX para definir hipótesis y validarlas, realicé un análisis competitivo y definí segmentos objetivos con sustento estadístico.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Documenté el desarrollo del sprint 2, corregí el informe basado en comentarios y definí los features necesarios para la aplicación web.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+      <td rowspan="6">Redacto con claridad, adaptando mi comunicación escrita a públicos técnicos y no técnicos.</td>
+    </tr>
+    <tr>
+      <td>Luis Alva</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Diseñé preguntas para entrevistas que sustentan decisiones de diseño y expresé ideas técnicas para el desarrollo basado en la investigación.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Rogger Faryd</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Redacté contenido para la landing page y documentación técnica, adaptando el estilo según el público (usuarios o equipo técnico).<br>
+        <strong>ℹ️ TP:</strong><br>
+        Desarrollé páginas de login, registro y reportes para la web.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Christofer William</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Documenté procesos con accesibilidad y claridad para que cualquier persona pueda entender el proyecto.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Enrique Vargas</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Elaboré guías de estilo visual y web, wireframes, diagramas de flujo y prototipos interactivos en Figma.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Desarrollé user stories y componentes para la página principal.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 <!--* contenido -->
 
