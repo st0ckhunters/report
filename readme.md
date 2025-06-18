@@ -24,10 +24,10 @@
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
-        "👩‍💻 Apellidos, Nombres - Codigo",        
+        "👩‍💻 Costa Morales, Christofer William -U202315968",        
         "👩‍💻 Tasayco Osorio, Raul Hiroshi - U202319415",
-        "👩‍💻 Alva Abanto, Luis Andres - u202310877"
-        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693"
+        "👩‍💻 Alva Abanto, Luis Andres - u202310877",
+        "👩‍💻 Vargas Javier, Jose Enrique - U20221F693",
     };
 }
 ~~~
@@ -224,6 +224,8 @@ Cabe recalcar que no toma en cuenta los merge commits y algunos de los commits d
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
 
+</div>
+
 ## Student Outcome
 ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 <div>
@@ -364,6 +366,7 @@ ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamen
 
 </div>
 
+
 <!--* contenido -->
 
 # Capítulo I: Introducción
@@ -372,6 +375,7 @@ ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamen
 
 ### 1.1.1. Descripción de la Startup
 
+Stockhunters es una startup que transforma la gestión de inventarios mediante soluciones IoT innovadoras. Capacitamos a empresas en el Perú y el mundo con tecnología que optimiza el control de stock, mejora la precisión de datos y agiliza decisiones estratégicas. Nuestra plataforma, con sensores IoT y análisis en tiempo real, reemplaza métodos obsoletos, reduciendo costos y potenciando la competitividad. Dirigida a empresas que buscan eficiencia y profesionalismo, ofrecemos soluciones escalables y personalizadas.
 Stockhunters es una startup que transforma la gestión de inventarios mediante soluciones IoT innovadoras. Capacitamos a empresas en el Perú y el mundo con tecnología que optimiza el control de stock, mejora la precisión de datos y agiliza decisiones estratégicas. Nuestra plataforma, con sensores IoT y análisis en tiempo real, reemplaza métodos obsoletos, reduciendo costos y potenciando la competitividad. Dirigida a empresas que buscan eficiencia y profesionalismo, ofrecemos soluciones escalables y personalizadas.
 
 ### 1.1.2 Perfiles de integrantes del equipo
@@ -387,8 +391,8 @@ Stockhunters es una startup que transforma la gestión de inventarios mediante s
    actualmente curso el 5.º ciclo de la carrera.
 
    💻 A lo largo de mi formación he aprendido diversos lenguajes de programación, como:
-   ➡️ C++
-   ➡️ Python
+   ➡️ C++       
+   ➡️ Python    
    ➡️ JavaScript
    ➡️ HTML & CSS
 
@@ -403,7 +407,7 @@ Stockhunters es una startup que transforma la gestión de inventarios mediante s
    <!--TODO: integrante 2 -->
 
 
-**> 🧑‍💻 Jose Enrique Vargas Javier**
+**> 🧑‍💻 **
    <div align='center'>
 
   <img src="https://files.catbox.moe/dnmt63.png" alt="Luis Andres Alva Abanto" width="100" align='right'>
@@ -415,6 +419,12 @@ Stockhunters es una startup que transforma la gestión de inventarios mediante s
    Java y C#. 
    😊 Me destaco por mi capacidad para trabajar en equipo
     y el compromiso con el proyecto. 
+
+   ➡️ C++       
+   ➡️ C#        
+   ➡️ Python    
+   ➡️ JavaScript
+   ➡️ HTML & CSS
    ~~~
 
    </div>
@@ -427,15 +437,19 @@ Stockhunters es una startup que transforma la gestión de inventarios mediante s
    <img src="resources/Image_open_source.png" alt="Raul Hiroshi Tasayco Osorio" width="100" align='right'>
 
    ~~~txt
-    Soy un estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro cursando el 5to ciclo.
-      A lo largo de la carrera tanto adentro y afuera de la universidad tuve la oportunidad de adquirir conocimientos en:
-      1️⃣ C++   
-      2️⃣ Python
-      3️⃣ SQL   
-      4️⃣ HTML  
-      5️⃣ CSS   
+    Soy un estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas,
+    actualmente me encuentro cursando el 5to ciclo.
+    
+    A lo largo de la carrera tanto adentro y afuera de la universidad tuve la oportunidad de adquirir conocimientos en:
+      1️⃣ C++     
+      2️⃣ Python  
+      3️⃣ SQL     
+      4️⃣ HTML    
+      5️⃣ CSS     
     Me considero una persona proactiva, con habilidades para trabajar en equipo y un fuerte compromiso con el aprendizaje continuo. 
-    Mis expectativas para el curso de [especificar curso] son altas, ya que lo considero clave para mi formación como futuro Ingeniero de Software. Aspiro a desarrollar soluciones tecnológicas innovadoras que generen un impacto positivo. 💻
+    
+    Mis expectativas para el curso de [especificar curso] son altas, ya que lo considero clave para mi formación como futuro Ingeniero de Software. 
+    Aspiro a desarrollar soluciones tecnológicas innovadoras que generen un impacto positivo. 💻
    ~~~
 
    </div>
@@ -451,8 +465,8 @@ Stockhunters es una startup que transforma la gestión de inventarios mediante s
    ~~~
       Soy estudiante de la carrera de ingenieria de software de la UPC.
 Poseo experiencia con los lenguajes de progamación siguientes:
-➡️ C++
-➡️ Python
+➡️ C++       
+➡️ Python    
 ➡️ JavaScript
 ➡️ HTML & CSS
 En lo personal siento que estoy en la capacidad de ayudar y contribuir de la mejor manera con este equipo
@@ -475,14 +489,17 @@ En lo personal siento que estoy en la capacidad de ayudar y contribuir de la mej
 
    💻 En todo este camino me he formado en lenguajes de programacion, tales como:
 
-    ➡️ C++
-    ➡️ Python
-    ➡️ SQL
+      ➡️ C++    
+      ➡️ Python 
+      ➡️ SQL    
+      ➡️ Angular
+      ➡️ Vue    
+      ➡️ Python 
 
    🎉 Mi habilidad competitiva es comprometerme 
    con el trabajo encargado, poder adaptarme a 
    cualquier área con el fin de seguir 
-   adquiriendo mas conocimientos ✅.
+   adquiriendo nuevos conocimientos ✅.
    ~~~
 
    </div>
@@ -498,43 +515,40 @@ En consecuencia, esto genera retrasos de operaciones, una administración de baj
 ##### 🟡 WHAT (QUÉ)
 * ¿Cuál es el problema?
   
-  El problema es que las empresas actuales no cuentan con un buen sistema de gestión de stocks, lo cual trae consigo varias deficiencias como por ejemplo, datos estadisticos erroneos, mala toma de decisiones de negocio, demoras en los procesos logísticos y administrativos, así como una falta de control sobre los niveles reales del inventario.
-  Además, estas no realizan el uso de tecnologías IoT las cuales son capaces de  automatizar tareas como la del monitoreo de inventario en tiempo real dando así una mejor precisión acerca de los datos.
+  Las empresas actuales enfrentan un desafío crítico al carecer de sistemas eficientes para la gestión de stocks, lo que desencadena una serie de problemas operativos y estratégicos que afectan su competitividad. La ausencia de herramientas modernas genera datos estadísticos imprecisos, lo que lleva a decisiones de negocio mal fundamentadas, retrasos significativos en los procesos logísticos y administrativos, y una falta de control sobre los niveles reales de inventario, resultando en pérdidas económicas y una percepción de falta de profesionalismo. Además, muchas organizaciones no aprovechan el potencial de tecnologías avanzadas como el Internet de las Cosas (IoT), las cuales permiten automatizar el monitoreo en tiempo real, optimizar la recopilación de datos con alta precisión y agilizar la toma de decisiones. Esta carencia de adopción tecnológica limita la capacidad de las empresas para adaptarse a un mercado cada vez más exigente, donde la eficiencia y la información confiable son clave para mantenerse relevantes y alcanzar un crecimiento sostenible.
 
 ##### 🟡 WHEN (CUANDO)
 * ¿Cuándo sucede el problema?
 
-  El problema sucede cada que el administrador o dueño una empresa, mayormente medianas o pequeñas, intenta realizar una consulta de datos del inventario. También cuando los analistas de la empresa se ponen a estudiar los datos para poder realizar decisiones en cuanto a las compras, ventas y estrategias comerciales. En consecuencia, al no tener un buen administrador de datos provoca inconvenientes y fallas con la obtención de esos datos erroneos y poco precisos, generando fallas en la planificación y toma de decisiones erroneas.  
+  El problema surge de manera recurrente cuando los administradores o dueños de empresas, principalmente pequeñas y medianas, intentan consultar los datos de inventario, o cuando los analistas buscan estudiar esta información para tomar decisiones clave sobre compras, ventas y estrategias comerciales. La falta de un sistema eficiente de gestión de datos ocasiona serios inconvenientes, como la obtención de información imprecisa, incompleta o directamente errónea, lo que compromete la calidad de los análisis y deriva en una planificación deficiente. Esto, a su vez, genera decisiones estratégicas equivocadas que pueden traducirse en pérdidas económicas, ineficiencias operativas y una menor competitividad en el mercado. La ausencia de herramientas modernas, como sistemas automatizados basados en tecnologías como el IoT, agrava esta situación, ya que impide el monitoreo en tiempo real y la generación de datos fiables, dificultando la capacidad de las empresas para responder ágilmente a las demandas del entorno y optimizar sus procesos de toma de decisiones.
 
 ##### 🟡 WHERE (DONDE)
 
 * ¿Dónde se presenta el problema?
 
-  El problema se presenta en las empresas que no cuentan con un sistema adecuado para el control de los datos y que además dependan solamente de archivos físicos, hojas de excel o programas que solamente funcionan localmente.
-
+  El problema se manifiesta de manera crítica en empresas que carecen de un sistema eficiente para la gestión y control de datos, dependiendo exclusivamente de métodos obsoletos como archivos físicos, hojas de cálculo en Excel o programas que operan únicamente de forma local. Esta situación genera múltiples inconvenientes, como la dificultad para acceder a información actualizada en tiempo real, errores frecuentes en el registro de datos debido a la entrada manual, y una falta de integración entre los diferentes procesos de la empresa. Además, estos métodos limitados impiden un análisis preciso y ágil de los datos, lo que resulta en una planificación deficiente, retrasos en la toma de decisiones y una menor capacidad para responder a las demandas del mercado.
 * ¿Dónde se usa el producto?
 
-  El producto que además está fuertemente ligado con IoT permite que desde cualquier dispositivo con internet, los usuarios puedan realizar consultas de datos, recibir notificaciones automáticas sobre el inventario o stock y visualizar los reportes desde donde se encuentren gracias a sensores que controlan la información de forma continua.
+  Nuestra solución, profundamente integrada con tecnologías IoT, permite a los usuarios acceder a un sistema de gestión de inventario avanzado desde cualquier dispositivo conectado a internet, brindando una experiencia fluida y eficiente. Mediante sensores inteligentes que monitorean el stock de manera continua y en tiempo real, los usuarios pueden realizar consultas de datos al instante, recibir notificaciones automáticas sobre niveles críticos de inventario o anomalías, y visualizar reportes detallados desde cualquier ubicación, ya sea en la oficina, en tránsito o en una reunión estratégica. Esta conectividad global, combinada con la automatización de procesos, garantiza una precisión sin precedentes en la información, reduce errores humanos y agiliza la toma de decisiones, permitiendo a las empresas optimizar sus operaciones, anticiparse a las necesidades del mercado y mantenerse competitivas en un entorno empresarial dinámico y exigente.
 
 ##### 🟡 WHO (QUIEN)
 * ¿Quién tiene el problema? 
 
-  El problema lo tienen las empresas tanto mediana como pequeña que no cuenten con un software especializado para el manejo y control de stock en tiempo real mediante la implementación de componentes IoT
+  El problema afecta principalmente a empresas pequeñas y medianas que carecen de un software especializado para la gestión y control de stock en tiempo real, respaldado por componentes de IoT. Esta carencia genera serias limitaciones operativas, como la incapacidad de monitorear el inventario de forma precisa y actualizada, lo que resulta en datos desfasados o erróneos que dificultan la planificación estratégica. Además, la falta de automatización lleva a procesos manuales propensos a errores, retrasos en la cadena de suministro y una toma de decisiones poco informada, lo que puede traducirse en pérdidas económicas, ineficiencias logísticas y una menor competitividad en el mercado.
 
 * ¿Quién se beneficia del producto?
 
-  Los principales beneficiarios son los dueños de empresas y los desarrolladores del software, puesto que por un lado las empresas al tener un software especializado en la gestión de stocks, podrán realizar mejor las decisiones de negocio lo que conlleva a tomar decisiones más precisas a futuro, por el otro lado tenemos a los dsarrolladores los cuales monetizan este producto generando de esta forma una ganancia.
+  Los principales beneficiarios de nuestra solución son los dueños de empresas pequeñas y medianas, así como los desarrolladores del software, quienes obtienen ventajas significativas desde perspectivas complementarias. Por un lado, los empresarios se benefician al implementar un software especializado en la gestión de stocks, basado en tecnologías IoT, que les permite monitorear el inventario en tiempo real, acceder a datos precisos y generar reportes dinámicos desde cualquier dispositivo conectado a internet. Esto optimiza la toma de decisiones estratégicas, mejora la planificación de compras y ventas, reduce errores operativos y aumenta la competitividad, posicionando a sus empresas para un crecimiento sostenible en un mercado exigente.
 
 ##### 🟡 WHY (POR QUE)
 * ¿Por qué ocurre el problema?
 
-  El problema ocurre principalmente porque muchas empresas aún dependen de herramientas tradicionales o limitadas, puesto que no han adoptado tecnologías como IoT, que automatizan el intercambio de datos entre sensores físicos y plataformas digitales o aplicativos. 
-  Además, por desconocimiento o resistencia al cambio de varias empresas, los usuarios siguen optando por métodos ineficientes que aunque "funcionan", no permiten un crecimiento real, sino un atasco.
+  El problema radica en que muchas empresas, especialmente pequeñas y medianas, continúan dependiendo de herramientas tradicionales o limitadas, como registros manuales, hojas de cálculo o software local obsoleto, sin adoptar tecnologías avanzadas como el Internet de las Cosas (IoT), que automatizan el intercambio de datos entre sensores físicos y plataformas digitales o aplicaciones especializadas. Esta falta de modernización, impulsada frecuentemente por desconocimiento, resistencia al cambio o percepción de costos elevados, lleva a las empresas a aferrarse a métodos ineficientes que, aunque “funcionan” de manera básica, generan un estancamiento operativo y estratégico. Estos enfoques obsoletos provocan errores en la gestión de inventario, datos imprecisos, retrasos en los procesos logísticos y una incapacidad para realizar análisis en tiempo real, lo que limita el crecimiento, reduce la competitividad y perpetúa un “atasco” que impide a las organizaciones adaptarse a las demandas de un mercado dinámico y tecnológicamente exigente.
 
 ##### 🟡 HOW (COMO)
 * ¿Cómo soluciona nuestro producto el problema?
 
-  La solución propuesta es una aplicación web integrada con dispositivos IoT por ejemplo, sensores de peso, sensores de proximidad y lectores de codigos de barra automáticos que monitorean en tiempo real el estado del inventario y actualizan automáticamente la base de datos del sistema.
+  La solución propuesta consiste en una aplicación web robusta e intuitiva, diseñada para integrarse con dispositivos IoT, como sensores de peso, sensores de proximidad y lectores automáticos de códigos de barras, que monitorean el estado del inventario en tiempo real y actualizan de forma automática la base de datos del sistema. Esta plataforma permite a las empresas, especialmente pequeñas y medianas, acceder a información precisa y actualizada desde cualquier dispositivo conectado a internet, eliminando la dependencia de métodos manuales o herramientas obsoletas. Los sensores IoT recopilan datos continuos sobre el peso, la ubicación y el movimiento de los productos, mientras que los lectores de códigos de barras agilizan el registro y seguimiento de los ítems, reduciendo errores humanos y optimizando los procesos logísticos.
 
 ##### 🟡 HOW MUCH (CUANTO)
 * ¿Cuánto mejora el producto la situacón actual de las empresas? 
@@ -597,10 +611,10 @@ En muchos casos, los procesos actuales aún se realizan de forma manual, utiliza
 ##### User Outcomes
 
 * **🔴¿Quién es nuestro usuario?** <br>
-  Nuestro usuario es el administrador, personal de ventas o logística de una empresa que gestiona productos físicos, responsable del control de inventario, ventas y atención al cliente. Son personas que necesitan soluciones tecnológicas prácticas, rápidas y confiables, especialmente si manejan volúmenes altos de productos.
+  Nuestra solución está diseñada para usuarios clave en empresas que gestionan productos físicos, como administradores, personal de ventas y logística, quienes desempeñan un rol crítico en el control de inventario, las ventas y la atención al cliente. Estos usuarios, responsables de garantizar la operatividad y eficiencia en entornos con altos volúmenes de productos, requieren herramientas tecnológicas prácticas, rápidas y confiables que simplifiquen sus tareas diarias. La aplicación web propuesta, integrada con dispositivos IoT como sensores de peso, sensores de proximidad y lectores automáticos de códigos de barras, permite a estos profesionales monitorear el inventario en tiempo real, acceder a datos precisos desde cualquier dispositivo conectado a internet y recibir notificaciones automáticas sobre niveles críticos de stock o anomalías
 
 * **🔴¿Qué problema tiene nuestro producto y cómo se puede resolver?**<br>
-  El problema es la falta de eficiencia operativa, errores manuales y la ausencia de visibilidad en tiempo real del inventario. Esto se puede resolver mediante un sistema automatizado basado en IoT, que use sensores conectados para actualizar automáticamente el estado del stock, registrar movimientos y brindar acceso remoto a información precisa desde cualquier dispositivo.
+  El problema radica en la falta de eficiencia operativa, los frecuentes errores derivados de procesos manuales y la ausencia de visibilidad en tiempo real del inventario, lo que genera retrasos, decisiones mal informadas y pérdidas económicas en empresas, especialmente pequeñas y medianas. Estos desafíos pueden superarse mediante la implementación de un sistema automatizado basado en IoT, que integre sensores conectados, como los de peso, proximidad y lectores automáticos de códigos de barras, para monitorear y actualizar continuamente el estado del stock, registrar movimientos de productos con precisión y notificar anomalías en tiempo real. 
 
 * **🔴¿Dónde encaja nuestro producto en su vida?**<br>
   Encaja directamente en sus actividades diarias, ya que facilita tareas críticas como el control de inventario, monitoreo de ventas, análisis de datos y atención al cliente, todo desde una sola plataforma conectada a dispositivos IoT.
