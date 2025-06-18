@@ -42,7 +42,83 @@ Abril del 2025 🗓️
 
 ## Registro de versiones del Informe
 
+<table>
+  <tr>
+    <th>Version</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación </th>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>2025-04-20</td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li><li>Jose Enrique Vargas Javier</li></ul></td>
+    <td> Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td>TP</td>
+    <td>2025-05-13</td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li></ul></td>
+    <td> Se han incluído los siguientes capítulos y secciones:
+        <ul>
+          <li>Capitulo V: Product Implementation, Validation & Deployment, desde el punto 5.2.2. hasta 5.2.2.8.</li>
+          <li>5.2.2. Sprint 2</li>
+          <li>5.2.2.1.Sprint Planning 2.</li>
+          <li>5.2.2.2. Aspect Leaders and Collaborators.</li>
+          <li>5.2.2.3.Sprint Backlog 2.</li>
+          <li>5.2.2.4.Development Evidence for Sprint Review</li>
+          <li>5.2.2.5.Execution Evidence for Sprint Review.</li>
+          <li>5.2.2.6.Services Documentation Evidence for Sprint Review.</li>
+          <li>5.2.2.7.Software Deployment Evidence for Sprint Review</li>
+          <li>5.2.2.8.Team Collaboration Insights during Sprint.</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos.</li>
+        </ul></td>
+  </tr>
+   <tr>
+    <td>TB2</td>
+    <td>2025-06-18</td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li></ul></td>
+    <td> Se han incluído los siguientes capítulos y secciones:
+        <ul>
+          <li>Capitulo V: Product Implementation, Validation & Deployment, desde el punto 5.2.3. hasta 5.4.</li>
+          <li>5.2.3. Sprint 3</li>
+          <li>5.2.3.1.Sprint Planning 3.</li>
+          <li>5.2.3.2. Aspect Leaders and Collaborators.</li>
+          <li>5.2.3.3.Sprint Backlog 3.</li>
+          <li>5.2.3.4.Development Evidence for Sprint Review</li>
+          <li>5.2.3.5.Execution Evidence for Sprint Review.</li>
+          <li>5.2.3.6.Services Documentation Evidence for Sprint Review.</li>
+          <li>5.2.3.7.Software Deployment Evidence for Sprint Review</li>
+          <li>5.2.3.8.Team Collaboration Insights during Sprint.</li>
+          <li>5.3. Validation Interviews</li>
+          <li>5.3.1. Diseño de Entrevistas.</li>
+          <li>5.3.2. Registro de Entrevistas.</li>
+          <li>5.3.3. Evaluaciones según heurísticas.</li>
+          <li>5.4. Video About-the-Product</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos.</li>
+        </ul></td>
+  </tr>
+  
+</table>
+
 ## Project Report Collaboration Insights
+Enlace al trabajo de github: https://github.com/st0ckhunters/report.git
+
+A continuación se presentaran los commit realizados por los contribuidores para el avance del TB1:
+
+![alt text](resources/Insights.png)
+
+Cabe recalcar que no toma en cuenta los merge commits y algunos de los commits de nuestro integrante, Christofer Costa, no se guardaron con su cuenta de github y aparecen con otro nombre, por lo que no se registran en los insights:
+
+![alt text](resources/Commit_Christofer.png)
 
 <div>
 
@@ -149,6 +225,142 @@ Abril del 2025 🗓️
 
 
 ## Student Outcome
+ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Nombre</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Criterio 1 -->
+    <tr>
+      <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>Raúl Tasayco</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br><br>
+        <strong>ℹ️ TP:</strong><br><br>
+        <strong>ℹ️ TB2:</strong><br><br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+      <td rowspan="5">Me comunico oralmente de manera clara y estructurada, aportando al análisis técnico y estratégico del proyecto.</td>
+    </tr>
+    <tr>
+      <td>Luis Alva</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Realicé entrevistas para recolectar información clave y diseñé la arquitectura de software basada en Domain Driven Design, elaborando diagramas de contexto, contenedores y componentes.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Rogger Faryd</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Mantuve comunicación constante con el equipo, avancé en el diseño en Figma, participé en la elaboración de la landing page, y preparé preguntas para entrevistas y diagramas de clases.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Distribuí tareas y roles, avancé en el desarrollo de endpoints, parte visual de la web y detalles de la landing page.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Christofer William</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Realicé needfinding, escenarios to-be, impact mapping e Information Architecture, y recolecté información gracias a la comunicación con los posibles clientes.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Enrique Vargas</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Participé activamente en el diseño de la página web mediante Figma y mantuve comunicación constante para coordinar avances y coherencia del proyecto.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Me encargué de completar la parte visual del proyecto y de su despliegue en la web.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <!-- Criterio 2 -->
+    <tr>
+      <td rowspan="6">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+      <td>Raúl Tasayco</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br><br>
+        <strong>ℹ️ TP:</strong><br><br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+      <td rowspan="6">Redacto con claridad, adaptando mi comunicación escrita a públicos técnicos y no técnicos.</td>
+    </tr>
+    <tr>
+      <td>Luis Alva</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Diseñé preguntas para entrevistas que sustentan decisiones de diseño y expresé ideas técnicas para el desarrollo basado en la investigación.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Rogger Faryd</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Redacté contenido para la landing page y documentación técnica, adaptando el estilo según el público (usuarios o equipo técnico).<br>
+        <strong>ℹ️ TP:</strong><br>
+        Desarrollé páginas de login, registro y reportes para la web.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Christofer William</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Documenté procesos con accesibilidad y claridad para que cualquier persona pueda entender el proyecto.<br>
+        <strong>ℹ️ TP:</strong><br>
+        <br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+    <tr>
+      <td>Enrique Vargas</td>
+      <td>
+        <strong>ℹ️ TB1:</strong><br>
+        Elaboré guías de estilo visual y web, wireframes, diagramas de flujo y prototipos interactivos en Figma.<br>
+        <strong>ℹ️ TP:</strong><br>
+        Desarrollé user stories y componentes para la página principal.<br>
+        <strong>ℹ️ TB2:</strong><br>
+        <br>
+        <strong>ℹ️ TF:</strong><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -160,7 +372,7 @@ Abril del 2025 🗓️
 
 ### 1.1.1. Descripción de la Startup
 
-Falta descripción
+Stockhunters es una startup que transforma la gestión de inventarios mediante soluciones IoT innovadoras. Capacitamos a empresas en el Perú y el mundo con tecnología que optimiza el control de stock, mejora la precisión de datos y agiliza decisiones estratégicas. Nuestra plataforma, con sensores IoT y análisis en tiempo real, reemplaza métodos obsoletos, reduciendo costos y potenciando la competitividad. Dirigida a empresas que buscan eficiencia y profesionalismo, ofrecemos soluciones escalables y personalizadas.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -506,13 +718,13 @@ ___
 
     16. ¿Qué otras características le gustaría que tuviera esta aplicación?
   ~~~
-
-   **Segmento Objetivo 2️⃣: Compradores o clientes registrados**
+  
+    **Segmento Objetivo 2️⃣: Compradores o clientes registrados**
 
    > [!NOTE] 
    > <a href="https://forms.gle/PNxnomycpCKBD1rw5" target='_blank'>Cuestionario 🔗</a> 
 
-  ~~~txt
+   ~~~txt   
     1. ¿Sueles revisar catálogos o productos en línea antes de comprar?
 
     2. ¿Qué valoras más al revisar un catálogo en línea? (ej. precios claros, disponibilidad, promociones, etc.)
@@ -539,8 +751,8 @@ ___
    <table style="width:100%" align='center'>
    <tr>
    <th>📌Tituko</th>
-   <th>📌Tituko</th>
-   <th>📌Titulo</th>
+   <th>📌Gerente de compañia de productos agroquimicos</th>
+   <th>📌Gerente de compañia de productos saludables</th>
    </tr>
 
    <tr>
@@ -550,12 +762,12 @@ ___
    </a>
    </td> 
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/9L7HESPibVA" target='_blank'>
     <img src="resources/Interview-2.png" alt="Segunda entrevista del primer segmento objetivo">
    </a>
    </td>
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/nJlLy_sWxCM" target='_blank'>
     <img src="resources/Interview-3.png" alt="Tercera entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -567,12 +779,15 @@ ___
     <b>🗣️Entrevistado:</b> name
    </td>
    <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Jose Enrique Vargas Javier <br>
+    <b>🗣️Entrevistado:</b> Isabel Valenzuela
+      <p> Isabel Valenzuela es gerente de una empresa que vende productos agroquímicos. Usa Excel para gestionar inventario, ventas y seguimiento de clientes. Con esta información envía promociones y hace seguimiento personalizado. Dedica unas 5 horas semanales a generar reportes manualmente. Entre sus principales dificultades está contar el inventario real uno por uno y las diferencias con el registro digital. Resalta la importancia de detectar productos que están por agotarse, ya que deben pedirse con anticipación. También considera esencial poder clasificar a sus clientes por tipo de trato, diferenciando entre minoristas y mayoristas. Cree que una aplicación web para consultar inventario desde cualquier dispositivo le ahorraría tiempo. Está dispuesta a pagar por una solución así, aunque le preocupa la curva de aprendizaje al cambiar de sistema.</p>
    </td>
       <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b>  Christofer William Costa Morales <br>
+    <b>🗣️Entrevistado:</b> Maria Morales Mendez
+      <p>Maria Morales es dueña de una empresa que vende productos naturales o bajo en químicos. Usa Excel y un sistema llamado Bsale para gestionar inventario, ventas y seguimiento de clientes. Con esta información mapean de manera manual a los clientes más frecuentes y les envian ofertas o promociones. Dedica unas 2 horas diarias a generar un registro del inventario manualmente y otras 2 para el registro de sus ventas. Sus principales dificultades está en tener que mantener el control de inventario de manera manual e ingresar esos datos indivualmente en un excel, de manera diaria y, luego, debe de actualizar esos datos en sus redes sociales y sitio web. Ella le resulta importante el monitoreo del inventario en tiempo real, ya que este le ayudaria a ahorrarse tiempo y le permitiria estar más libre para hacer otras actividades. Tambien, le interesa mucho la automatización de los reportes y que estos los muestren en gráficos para poder saber qué productos deberia invertir más o dejar de lado para evitar costos innecesarios.
+     </p>
    </td>
    </tr>
    </table>
@@ -582,8 +797,8 @@ ___
    <table style="width:100%" align='center'>
    <tr>
    <th>📌Estudiante</th>
-   <th>📌Titulo</th>
-   <th>📌Titulo</th>
+   <th>📌Cliente</th>
+   <th>📌Cliente</th>
    </tr>
 
    <tr>
@@ -593,7 +808,7 @@ ___
    </a>
    </td> 
    <td align='center'>
-   <a href="" target='_blank'>
+   <a href="https://youtu.be/3iKexM4Z7i8" target='_blank'>
     <img src="resources/Interview-2.png" alt="Segunda entrevista del primer segmento objetivo">
    </a>
    </td>
@@ -608,7 +823,7 @@ ___
    <td>
     <b>📝Entrevistador:</b> Luis Alva <br>
     <b>🗣️Entrevistado:</b> Angie Yalan
-        <p>
+      <p>
            Angie es una consumidora concurrente que suele revisar los catalogos en linea antes de comprar, valorando principalmente la claridad y el valor de la informacion proporcionada. Considera importante
            ver el stock disponible antes de realizar la compra para evitar problemas. Valora la digitalizacion del proceso de compra, ya que prefiere hacerlo de manera remota y sin la necesidad de
            una llamada o enlace telefonico. Normalmente los problemas mas comunes que enfrenta son no saber el precio de los productos de su interes y la falta de respuesta rapida por parte del negocio
@@ -616,8 +831,11 @@ ___
        </p>
    </td>
    <td>
-    <b>📝Entrevistador:</b> name <br>
-    <b>🗣️Entrevistado:</b> name
+    <b>📝Entrevistador:</b> Rogger Faryd <br>
+    <b>🗣️Entrevistado:</b> Jahaziel
+     <p>
+    Jahaziel revisa catálogos en línea antes de comprar, valorando precios claros, disponibilidad actualizada y buenas fotos. Prefiere un proceso de compra digital sin necesidad de llamadas y le parece útil ver stock en tiempo real. Mencionó que los problemas comunes son las respuestas lentas en redes sociales. Le gustaría leer reseñas y estaría dispuesto a compartir catálogos que le gusten, prefiriendo productos organizados por categorías y marcas.
+    </p>
    </td>
       <td>
     <b>📝Entrevistador:</b> Christofer William Costa Morales <br>
@@ -1247,36 +1465,403 @@ Rel(AutomotiveProductSalesManagementSystem.WebApplication.StatisticsComponent, A
 
  ## 4.7. Software Object-Oriented Desing
   ### 4.7.1. Class Diagram
-  ![diagrama](resources/ClassDiagram.drawio.svg)
+  ~~~mermaid
+  classDiagram
+    %% ========= DOMAIN =========
+    %% Entidades
+    class Producto {
+        +UUID id
+        +string nombre
+        +Descripcion descripcion
+        +CantidadStock stock
+        +Precio precio
+        +Categoria categoria
+        +actualizarStock(CantidadStock cantidad)
+    }
 
+    class Categoria {
+        +UUID id
+        +string nombre
+        +string descripcion
+    }
+
+    %% Value Objects
+    class Descripcion {
+        -string valor
+        +string obtenerValor()
+    }
+
+    class CantidadStock {
+        -int valor
+        +int obtenerValor()
+        +esMayorQue(CantidadStock): bool
+        +sumar(CantidadStock): CantidadStock
+        +restar(CantidadStock): CantidadStock
+    }
+
+    class Precio {
+        -float valor
+        +float obtenerValor()
+        +conDescuento(float porcentaje): Precio
+    }
+
+    %% Agregado
+    class Inventario {
+        +UUID id
+        +List~Producto~ productos
+        +agregarProducto(Producto p)
+        +removerProducto(UUID id)
+        +buscarProducto(UUID id): Producto
+        +actualizarStock(UUID productoId, CantidadStock nuevaCantidad)
+    }
+
+    %% Repositorio (interfaz)
+    class IInventarioRepositorio {
+        +Inventario obtenerPorId(UUID id)
+        +void guardar(Inventario inventario)
+    }
+
+    %% Servicio de Dominio
+    class ServicioDeStock {
+        +void ajustarStock(UUID productoId, CantidadStock cantidad)
+    }
+
+    %% ========= APPLICATION =========
+    class ServicioAplicacionInventario {
+        +DTOInventario obtenerInventario(UUID id)
+        +void agregarProducto(DTOProducto producto)
+        +void ajustarStock(UUID productoId, int cantidad)
+    }
+
+    class DTOProducto {
+        +UUID id
+        +string nombre
+        +string descripcion
+        +float precio
+        +string categoria
+        +int stock
+    }
+
+    class DTOInventario {
+        +UUID id
+        +List~DTOProducto~ productos
+    }
+
+    %% ========= INFRASTRUCTURE =========
+    class InventarioRepositorioSQL {
+        +Inventario obtenerPorId(UUID id)
+        +void guardar(Inventario inventario)
+    }
+
+    %% ========= RELACIONES =========
+    Producto --> Descripcion
+    Producto --> CantidadStock
+    Producto --> Precio
+    Producto --> Categoria
+    Inventario --> Producto
+    ServicioDeStock --> Inventario
+    ServicioDeStock --> IInventarioRepositorio
+
+    ServicioAplicacionInventario --> ServicioDeStock
+    ServicioAplicacionInventario --> IInventarioRepositorio
+    ServicioAplicacionInventario --> DTOProducto
+    ServicioAplicacionInventario --> DTOInventario
+
+    InventarioRepositorioSQL ..|> IInventarioRepositorio
+
+  ~~~
   ### 4.7.2. Class Dictionary
 
-  >[!CAUTION]
-  > Reemplazar esto es un ejemplo 
-
-  ~~~mermaid
-  ---
-  title: Bank example
-  ---
-  classDiagram
-      class Example
-      Example : +String owner
-      Example : +Bigdecimal balance
-      Example : +deposit(amount)
-      Example : +withdrawal(amount)
-  ~~~
+<table>
+<thead>
+<tr>
+<th>Class</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><code>Producto</code></td><td>Entidad que representa un producto, con información como nombre, descripción, stock, precio y categoría.</td></tr>
+<tr><td><code>Categoria</code></td><td>Entidad que agrupa productos bajo un nombre y descripción específica.</td></tr>
+<tr><td><code>Descripcion</code></td><td>Value Object que encapsula la descripción de un producto.</td></tr>
+<tr><td><code>CantidadStock</code></td><td>Value Object que gestiona la cantidad de stock de un producto y sus operaciones.</td></tr>
+<tr><td><code>Precio</code></td><td>Value Object que representa el precio de un producto y permite aplicar descuentos.</td></tr>
+<tr><td><code>Inventario</code></td><td>Agregado que gestiona un conjunto de productos, permitiendo agregarlos, eliminarlos y actualizar su stock.</td></tr>
+<tr><td><code>IInventarioRepositorio</code></td><td>Interfaz que define las operaciones de persistencia para el Inventario.</td></tr>
+<tr><td><code>ServicioDeStock</code></td><td>Servicio de dominio que ajusta el stock de productos dentro del Inventario.</td></tr>
+<tr><td><code>ServicioAplicacionInventario</code></td><td>Servicio de aplicación que orquesta operaciones de alto nivel sobre el Inventario.</td></tr>
+<tr><td><code>DTOProducto</code></td><td>Data Transfer Object que representa la estructura de un producto para la capa de aplicación.</td></tr>
+<tr><td><code>DTOInventario</code></td><td>Data Transfer Object que representa un Inventario completo en la capa de aplicación.</td></tr>
+<tr><td><code>InventarioRepositorioSQL</code></td><td>Implementación concreta de repositorio usando SQL para persistir el Inventario.</td></tr>
+</tbody>
+</table>
 
  ## 4.8. Database Desing
   ### 4.8.1. Database Diagram
 
-![Database Diagram](resources/database_diagram.png)
+  ```mermaid
+erDiagram
+    Organizations ||--o{ Locations : "owns"
+    Organizations ||--o{ Users : "groups"
+    Organizations ||--o{ Plans : "subscribed to"
+    Clients ||--o{ Sales : "makes"
+    Products ||--o{ Sales : "sold in"
+    Products ||--o{ Product_Locations : "stored in"
+    Locations ||--o{ Product_Locations : "contains"
+    Categories ||--o{ Products : "classifies"
+    Products ||--o{ Lots : "tracked in"
+    Purchases ||--o{ Lots : "sources"
+    Products ||--o{ Product_Prices : "priced in"
+    Suppliers ||--o{ Purchase_Orders : "receives"
+    Users ||--o{ Purchase_Orders : "creates"
+    Locations ||--o{ Purchase_Orders : "destined to"
+    Purchase_Orders ||--o{ Purchase_Order_Items : "includes"
+    Products ||--o{ Purchase_Order_Items : "ordered in"
+    Products ||--o{ Sales : "sold in"
+    Lots ||--o{ Sales : "tracked in"
+    Users ||--o{ Sales : "records"
+    Locations ||--o{ Sales : "occurs at"
+    Users ||--o{ Activities : "generates"
+    Users ||--o{ Reports : "creates"
+    Suppliers ||--o{ Purchases : "supplies"
+    Products ||--o{ Purchases : "purchased in"
+    Purchase_Orders ||--o{ Purchases : "fulfilled by"
+    Users ||--o{ Purchases : "records"
+    Locations ||--o{ Purchases : "destined to"
+    Products ||--o{ Product_Suppliers : "supplied by"
+    Suppliers ||--o{ Product_Suppliers : "supplies"
+    Products ||--o{ Inventory_Adjustments : "adjusted in"
+    Locations ||--o{ Inventory_Adjustments : "adjusted at"
+    Users ||--o{ Inventory_Adjustments : "performs"
+    Users ||--o{ Audit_Logs : "logs"
+
+    Organizations {
+        int organization_id PK
+        string name
+        string contact_email UK
+        int plan_id FK
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Plans {
+        int plan_id PK
+        string name
+        string description
+        enum features "basic, premium"
+        decimal price
+        timestamp created_at
+    }
+
+    Clients {
+        int client_id PK
+        string first_name
+        string last_name
+        string phone
+        string email UK
+        date registration_date
+        string dni UK
+        enum status
+        string company
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Products {
+        int product_id PK
+        string name
+        string image_url
+        int category_id FK
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Locations {
+        int location_id PK
+        int organization_id FK
+        string name
+        string address
+        string city
+        string country
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Product_Locations {
+        int product_id PK,FK
+        int location_id PK,FK
+        int stock
+        timestamp updated_at
+    }
+
+    Categories {
+        int category_id PK
+        string name
+        string description
+        timestamp created_at
+    }
+
+    Lots {
+        int lot_id PK
+        int product_id FK
+        int purchase_id FK
+        string lot_number UK
+        date purchase_date
+        date expiration_date
+        timestamp created_at
+    }
+
+    Product_Prices {
+        int price_id PK
+        int product_id FK
+        decimal price
+        decimal discount
+        date effective_date
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Purchase_Orders {
+        int order_id PK
+        int supplier_id FK
+        int user_id FK
+        int location_id FK
+        date order_date
+        enum status "pending, approved, shipped, canceled"
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Purchase_Order_Items {
+        int order_id PK,FK
+        int product_id PK,FK
+        int quantity
+        decimal unit_price
+        timestamp created_at
+    }
+
+    Sales {
+        int sale_id PK
+        date sale_date
+        int product_id FK
+        int lot_id FK
+        int quantity
+        enum status
+        int customer_id FK
+        int user_id FK
+        int location_id FK
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Users {
+        int user_id PK
+        int organization_id FK
+        string username UK
+        string email UK
+        string password_hash
+        string first_name
+        string last_name
+        string profile_image_url
+        enum role "admin, user"
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Activities {
+        int activity_id PK
+        int user_id FK
+        enum activity_type
+        string description
+        timestamp activity_date
+    }
+
+    Reports {
+        int report_id PK
+        int user_id FK
+        enum report_type
+        timestamp generated_date
+        string file_url
+        json parameters
+        timestamp created_at
+    }
+
+    Suppliers {
+        int supplier_id PK
+        string name
+        string contact_name
+        string phone
+        string email
+        string address
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Product_Suppliers {
+        int product_id PK,FK
+        int supplier_id PK,FK
+        decimal supply_price
+        timestamp created_at
+    }
+
+    Purchases {
+        int purchase_id PK
+        int supplier_id FK
+        int product_id FK
+        int order_id FK
+        int quantity
+        date purchase_date
+        enum status
+        int user_id FK
+        int location_id FK
+        timestamp created_at
+        timestamp updated_at
+    }
+
+    Inventory_Adjustments {
+        int adjustment_id PK
+        int product_id FK
+        int location_id FK
+        int quantity
+        string reason
+        int user_id FK
+        date adjustment_date
+        timestamp created_at
+    }
+
+    Audit_Logs {
+        int audit_id PK
+        int user_id FK
+        string entity_type
+        int entity_id
+        string action
+        json details
+        timestamp audit_date
+    }
+```
 
 # Capítulo V: Product Implementation, Validation & Deployment
  ## 5.1. Software Configuration Management
-
-
+ Durante el desarrollo del proyecto se implementó una gestión de configuración de software básica pero funcional, utilizando herramientas estándar para el control de versiones, documentación y colaboración en equipo. Esto aseguró que el código fuente se mantuviera organizado, accesible y sincronizado entre todos los miembros del equipo, facilitando la integración continua de cambios.
 
   ### 5.1.1. Software Development Environment Configuration
+    Para el entorno de desarrollo, cada miembro del equipo configuró su máquina con las siguientes herramientas:
+  
+  - Editor de código: Visual Studio Code
+   
+  - Control de versiones: Git
+   
+  - Repositorio remoto: GitHub
+   
+  - Framework web: Astro
+   
+  - Estilizado: CSS
+   
+  - Gestor de paquetes: npm
+
+  - Despliegue: GitHub Pages para la landing page
+
+Adicionalmente, se definieron extensiones recomendadas para VSCode como ESLint, Prettier y GitLens, para asegurar una experiencia de desarrollo coherente y productiva entre los miembros.
+
   ### 5.1.2. Source Code Management
 
 El proyecto adoptará el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma principal.<br> A continuación, se explicará cómo se implementará GitFlow como flujo de trabajo de versiones, junto con los enlaces a los repositorios de GitHub correspondientes para cada producto: Landing Page, Web Services y Frontend Web Applications.<br>
@@ -1319,6 +1904,20 @@ git commit -m "<type>[optional scope]: <title>" -m "<description>"
 ```
 
   ### 5.1.3. Source Code Style Guide & Conventions
+    Para mantener la calidad y legibilidad del código, el equipo adoptó una guía de estilo basada en las siguientes convenciones:
+  
+  - Lenguaje principal: HTML, CSS
+  
+  - Formato: Estándares de Prettier con ajustes personalizados en .prettierrc
+  
+  - Nombres de variables: camelCase para variables y funciones, PascalCase para componentes
+  
+  - Comentarios: Se fomenta el uso de comentarios claros en bloques complejos de código
+  
+  - Commits: Convención tipo: descripción, por ejemplo feat: crear componente de beneficios o fix: corregir validación del formulario
+
+ Estas convenciones se comunicaron desde el inicio y se reforzaron mediante revisiones de código en los pull requests.
+
   ### 5.1.4. Software Deployment Configuration
 
 #### Despliegue de la Landing Page:
@@ -1371,26 +1970,358 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
    #### 5.2.x.7. Software Deployment Evidence for Sprint Review
    #### 5.2.x.8. Team Collaboration Insights during Sprint
  ~~~
-   
+ ### 5.2.1 Sprint 1
+  #### 5.2.1.1 Sprint Planning 1
+   A traves de una reunion en la plataforma Meet, se planteo el siguiente Sprint 1. Se discution los objetivos, etapa de tiempo y tareas a realizar.
    <div>
     <table>
       <thead>
         <tr>
-          <th colspan=3>Sprints</th>
+          <th>#️⃣ Número</th>
+          <th>Sprint 1</th>
         </tr>
         <tr>
-          <th>#️⃣ Número</th>
-          <th>💬 Resumen</th>
-          <th>🔗 Link </th>
+          <th colspan=2>Sprint Planning Background</th>
         </tr>
       </thead>
       <tr align='center'>
-        <td> 1 </td>
-        <td> Resume </td>
-        <td> <a href='/sprints/Sprint-1.md'>🔗</a> </td>
+        <td> Date </td>
+        <td> 2025-04-18 </td>
+      </tr>
+      <tr>
+        <td>Time</td>
+        <td> 10:00PM - 11:00PM </td>
+      </tr>
+      <tr>
+        <td>Location</td>
+        <td> Meet </td>
+      </tr>
+      <tr>
+        <td>Prepared by</td>
+        <td> Miranda Ayasta, Rogger Fary </td>
+      </tr>
+      <tr>
+        <td>Attendees</td>
+        <td> Tasayco Osorio, Raúl Hiroshi <br> Miranda Ayasta, Rogger Faryd <br> Alva Abanto, Luis Andres <br> Vargas Javier, Jose Enrique</td>
+      </tr>
+      <tr>
+        <td>Sprint n-1 Review Summary</td>
+        <td>No hubo sprint anterior</td>
+      </tr>
+      <tr>
+        <td>Sprint n-1 Retrospective Summary</td>
+        <td>No hubo sprint anterior</td>
+      </tr>
+      <tr>
+        <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+      </tr>
+      <tr>
+        <td>Sprint 1 Goal</td>
+        <td> Crear la landing page:<br>Our focus is on creating a clear, responsive, and functional landing page that effectively communicates the benefits of our platform.
+          We believe it delivers a professional first impression and builds trust with potential customers and visitors, making it easier for them to register or request a demo.
+          This will be confirmed when users visit the page is deployed on github through github pages </td>
+      </tr>
+      <tr>
+        <td>Sprint 1 velocity</td>
+        <td> 10 </td>
+      </tr>
+      <tr>
+        <td>Sum of Story Points</td>
+        <td> 10 </td>
       </tr>
     </table>
    </div>
+
+   #### 5.2.1.2 Aspect Leaders and Collaborators
+
+   <table>
+    <tr>
+      <th>Team member</th>
+      <th>Github username</th>
+      <th>Beneficios</th>
+      <th>Planes</th>
+      <th>Testimonios</th>
+      <th>Responsive</th>
+      <th>Soporte</th>
+    </tr>
+    <tr>
+      <td>Tasayco Osorio, Raúl Hiroshi</td>
+      <td>raulupc</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Miranda Ayasta, Rogger Faryd</td>
+      <td>r0ggdev</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Alva Abanto, Luis Andres</td>
+      <td>luis-alva0</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Vargas Javier, Jose Enrique</td>
+      <td>KenRi7</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Costa Morales, Christofer William</td>
+      <td>miniChorri</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    </table>
+
+ #### 5.2.1.3 Sprint 1 Backlog
+   <table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item / Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned to</strong></td>
+    <td><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Visualización clara de beneficios</td>
+    <td>Task 1</td>
+    <td>Redactar contenido</td>
+    <td>Escribir el texto principal que explica los beneficios clave de la plataforma.</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US15</td>
+    <td>Visualización clara de beneficios</td>
+    <td>Task 2</td>
+    <td>Diseño de sección beneficios</td>
+    <td>Diseñar visualmente la sección de beneficios en la landing page (desktop y móvil).</td>
+    <td>3</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US16</td>
+    <td>Llamado a la acción claro</td>
+    <td>Task 3</td>
+    <td>Diseñar botón CTA</td>
+    <td>Crear el botón de "Regístrate gratis" o "Pide una demo" y asegurar su visibilidad.</td>
+    <td>1</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US16</td>
+    <td>Llamado a la acción claro</td>
+    <td>Task 4</td>
+    <td>Implementar CTA persistente</td>
+    <td>Agregar botón fijo que acompañe al usuario durante el scroll.</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Testimonios o casos de éxito</td>
+    <td>Task 5</td>
+    <td>Reunir testimonios</td>
+    <td>Recopilar frases de usuarios reales y sus datos para mostrar credibilidad.</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Testimonios o casos de éxito</td>
+    <td>Task 6</td>
+    <td>Diseño visual de testimonios</td>
+    <td>Diseñar los testimonios en formato visual atractivo (cards o sliders).</td>
+    <td>3</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Formulario de contacto funcional</td>
+    <td>Task 7</td>
+    <td>Diseño de formulario</td>
+    <td>Diseñar e implementar el formulario de contacto en la landing page.</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Formulario de contacto funcional</td>
+    <td>Task 8</td>
+    <td>Validación de campos</td>
+    <td>Agregar validaciones de campos requeridos y formato de correo electrónico.</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+</table>
+
+  #### 5.2.1.5. Execution Evidence for Sprint Review
+   Durante el Sprint 1, se completaron todas las tareas planificadas del backlog, enfocadas en la creación de la landing page. Se redactaron los textos, se diseñaron secciones visuales (beneficios, testimonios y CTA), y se implementó el formulario de contacto con validaciones. Todo el avance quedó registrado en GitHub, donde se pueden verificar los commits, branches y pull requests correspondientes. Además, se presentó una demo del sitio durante el Sprint Review para validar funcionalidad y diseño.
+ 
+   #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+   En este sprint, la documentación se centró en describir la estructura y funcionalidad de la landing page. Se utilizaron archivos Markdown en el repositorio para documentar los componentes desarrollados, los flujos de interacción del formulario de contacto, y detalles técnicos como validaciones aplicadas. Esta documentación fue clave para alinear al equipo de cara a los próximos sprints donde se implementarán servicios backend.
+
+   #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+   Se realizó el despliegue exitoso de la landing page mediante GitHub Pages. Esta versión incluye todo lo trabajado en el sprint: sección de beneficios, testimonios, formulario de contacto y botones de llamada a la acción. El enlace fue compartido durante la revisión para facilitar la validación del equipo y obtener retroalimentación directa. Esto permitió identificar pequeños ajustes visuales que serán considerados en el próximo sprint.
+
+   #### 5.2.1.8. Team Collaboration Insights during Sprint
+   El equipo trabajó de manera organizada y colaborativa, con una buena distribución de tareas según habilidades. Se mantuvo una comunicación fluida por Meet y Discord, y se usaron herramientas como GitHub y Trello para hacer seguimiento al progreso. Cada integrante asumió responsabilidades claras y también apoyó a otros cuando fue necesario. Destacó la actitud inclusiva y el liderazgo compartido, permitiendo avanzar de forma eficiente y cumplir los objetivos del sprint.
+
+### 5.2.2 Sprint 2
+
+ #### 5.2.2.1 Sprint Planning 2
+  A traves de una reunion en la plataforma Meet, se planteo el siguiente Sprint 2. Se discution los objetivos, etapa de tiempo y tareas a realizar.
+  
+  <div>
+   <table>
+     <thead>
+       <tr>
+         <th>#️⃣ Número</th>
+         <th>Sprint 2</th>
+       </tr>
+       <tr>
+         <th colspan=2>Sprint Planning Background</th>
+       </tr>
+     </thead>
+     <tr align ='center'>
+       <td> Date </td>
+       <td> 2025-05-01 </td>
+     </tr>
+     <tr>
+       <td>Time</td>
+       <td> 10:00PM - 11:00PM </td>
+     </tr>
+     <tr>
+       <td>Location</td>
+       <td> Presencial (En salon) </td>
+     </tr>
+     <tr>
+       <td>Prepared by</td>
+       <td> Miranda Ayasta, Rogger Faryd </td>
+     </tr>
+     <tr>
+       <td>Attendees</td>
+       <td> Tasayco Osorio, Raúl Hiroshi <br> Miranda Ayasta, Rogger Faryd <br> Alva Abanto, Luis Andres <br> Vargas Javier, Jose Enrique</td>
+     </tr>
+     <tr>
+       <td>Sprint n-1 Review Summary</td>
+       <td> En el Sprint 1, se creo y deployo el landing page estatico en Github Pages</td>
+     </tr>
+     <tr>
+       <td>Sprint n-1 Retrospective Summary</td>
+       <td>En la anterior entrega se ocasionaron percances y atrasos de fecha lo cual causo falta en el landing page y en el informe. Se implemento otro sistema de segmentacion por figma para evitar esto.</td>
+     </tr>
+      <tr>
+        <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+      </tr>
+      <tr>
+        <td>Sprint 2 Goal</td>
+        <td> Crear el prototipo de la aplicacion web </td>
+      </tr>
+      <tr>
+        <td>Sprint 2 velocity</td>
+        <td> 23 horas </td>
+      </tr>
+      <tr>
+        <td>Sum of Story Points</td>
+        <td> 21 Story Points</td>
+      </tr>
+
+   </table>
+
+ #### 5.2.2.2. Aspect Leaders and Collaborators
+   <table>
+    <tr>
+      <th>Team member</th>
+      <th>Github username</th>
+      <th>Login</th>
+      <th>Product Catalog</th>
+      <th>Client List</th>
+      <th>Sales List</th>
+    </tr>
+    <tr>
+      <td>Tasayco Osorio, Raúl Hiroshi</td>
+      <td>raulupc</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Miranda Ayasta, Rogger Faryd</td>
+      <td>r0ggdev</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Alva Abanto, Luis Andres</td>
+      <td>luis-alva0</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+
+  </tr>
+   <tr>
+      <td>Costa Morales, Christofer William</td>
+      <td>miniChorri</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+
+  </tr>
+  <tr>
+      <td>Vargas Javier, Jose Enrique</td>
+      <td>KenRi7</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+
+  </tr>
+  </table>
 
 
  ## 5.3. Validation Interviews
