@@ -2337,6 +2337,342 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
   </tr>
   </table>
 
+#### 5.2.2.3. Sprint Backlog 2
+    <table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
+  </tr>
+  <tr>
+      <td colspan="2"><strong>User Story</strong></td>
+      <td colspan="6"><strong>Work-item / Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned to</strong></td>
+    <td><strong>Status</strong></td>
+</tr>
+
+<tr>
+    <td>US01</td>
+    <td>Registro de productos</td>
+    <td>T01</td>
+    <td>Creación de la vista de registro de productos</td>
+    <td>Implementar la vista de registro con los campos requeridos.</td>
+    <td>3hrs</td>
+    <td></td>
+    <td>InProgress</td>
+</tr>
+
+<tr>
+    <td>US03</td>
+    <td>Acceso multiplataforma</td>
+    <td>T02</td>
+    <td>Implementar diseño responsive</td>
+    <td>Asegurar que las vistas del sistema se adapten correctamente a distintos dispositivos.</td>
+    <td>3 Horas</td>
+    <td></td>
+    <td>In Process</td>
+</tr>
+
+<tr>
+    <td>US04</td>
+    <td>Registro de ventas con cliente</td>
+    <td>T03</td>
+    <td>Creación de formulario de ventas</td>
+    <td>Crear la interfaz para registrar ventas y seleccionar clientes.</td>
+    <td>3 Horas</td>
+    <td>Raúl Tasayco</td>
+    <td>In Process</td>
+</tr>
+
+<tr>
+    <td>US05</td>
+    <td>Reportes visuales</td>
+    <td>T04</td>
+    <td>Maquetar la vista de reportes</td>
+    <td>Crear la estructura básica de la sección de reportes.</td>
+    <td>3 Horas</td>
+    <td>Raúl Tasayco</td>
+    <td>In Process</td>
+</tr>
+<tr>
+    <td>US12</td>
+    <td>Catálogos digitales</td>
+    <td>T05</td>
+    <td>Crear vista de catálogo web</td>
+    <td>Desarrollar la vista del catálogo de productos con precios.</td>
+    <td>3 Horas</td>
+    <td>Luis Andres Alva Abanto</td>
+    <td>Done</td>
+</tr>
+
+<tr>
+    <td>US07</td>
+    <td>Historial de compras de clientes</td>
+    <td>T06</td>
+    <td>Crear vista de historial de venta por cliente</td>
+    <td>Desarrollar en la vista de la informacion de cada cliente, el historial de venta que ha tenido cada uno.</td>
+    <td>3 Horas</td>
+    <td>Raúl Tasayco</td>
+    <td>In Process</td>
+</tr>
+<tr>
+    <td>US11</td>
+    <td>Gestión de usuarios</td>
+    <td>T07</td>
+    <td>Crear y administrar cuenta</td>
+    <td>Desarrollar la vista de cuentas del equipo con diferentes niveles de acceso.</td>
+    <td>2 Horas</td>
+    <td>Jose Enrique Vargas Javier</td>
+    <td>In Process</td>
+</tr>
+<tr>
+    <td>US16</td>
+    <td>Llamado a la  acción</td>
+    <td>T08</td>
+    <td>Crear boton para registrarme</td>
+    <td>Registrarme o agendar una demo para tomar acción</td>
+    <td>1 Hora</td>
+    <td>Jose Enrique Vargas Javier</td>
+    <td>In Process</td>
+</tr>
+<tr>
+    <td>US18</td>
+    <td>Formulario de contacto</td>
+    <td>T10</td>
+    <td>Crear formulario de contacto</td>
+    <td>Maquetar formulario en la landing page para capturar datos de contacto.</td>
+    <td>1 Hora</td>
+    <td>Jose Enrique Vargas Javier</td>
+    <td>In Process</td>
+</tr>
+</table>
+
+
+
+
+### 5.2.3 Sprint 3
+#### 5.2.3.1 Sprint Planning 3
+  A través de una reunión en la plataforma Meet, se planteó el Sprint 3. Se discutieron los objetivos, duración y tareas a realizar.
+
+<div> <table> <thead> <tr> <th>#️⃣ Número</th> <th>Sprint 3</th> </tr> <tr> <th colspan=2>Sprint Planning Background</th> </tr> </thead> <tr align='center'> <td> Date </td> <td> 2025-05-22 </td> </tr> <tr> <td>Time</td> <td> 10:00PM - 11:00PM </td> </tr> <tr> <td>Location</td> <td> Presencial (En salón) </td> </tr> <tr> <td>Prepared by</td> <td> Tasayco Osorio, Raúl Hiroshi </td> </tr> <tr> <td>Attendees</td> <td> Tasayco Osorio, Raúl Hiroshi <br> Miranda Ayasta, Rogger Faryd <br> Alva Abanto, Luis Andres <br> Vargas Javier, Jose Enrique</td> </tr> <tr> <td>Sprint n-1 Review Summary</td> <td>En el Sprint 2, se desarrolló e integró el frontend funcional de la aplicación web, conectándose a una fake API y mostrando vistas clave como catálogo, ventas, clientes e historial.</td> </tr> <tr> <td>Sprint n-1 Retrospective Summary</td> <td>Durante el Sprint 2 se identificaron oportunidades de mejora en la asignación de tareas y en la integración de componentes. Se acordó mejorar la sincronización entre ramas de GitHub y revisar los merges antes del deploy final.</td> </tr> <tr> <td colspan="2"><b>Sprint Goal & User Stories</b></td> </tr> <tr> <td>Sprint 3 Goal</td> <td>Crear e implementar el backend de la aplicación web, incluyendo endpoints funcionales y lógica de negocio para productos, ventas, clientes, stock, alertas y reportes.</td> </tr> <tr> <td>Sprint 3 velocity</td> <td>21 horas</td> </tr> <tr> <td>Sum of Story Points</td> <td>19 Story Points</td> </tr> </table> </div>
+
+#### 5.2.3.2 Aspect Leaders and Collaborators
+<table>
+    <tr>
+      <th>Team member</th>
+      <th>Github username</th>
+      <th>Login</th>
+      <th>Product Catalog</th>
+      <th>Client List</th>
+      <th>Sales List</th>
+    </tr>
+    <tr>
+      <td>Tasayco Osorio, Raúl Hiroshi</td>
+      <td>raulupc</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Miranda Ayasta, Rogger Faryd</td>
+      <td>r0ggdev</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Alva Abanto, Luis Andres</td>
+      <td>luis-alva0</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+
+  </tr>
+   <tr>
+      <td>Costa Morales, Christofer William</td>
+      <td>miniChorri</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+
+  </tr>
+  <tr>
+      <td>Vargas Javier, Jose Enrique</td>
+      <td>KenRi7</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+
+  </tr>
+  </table>
+
+#### 5.2.3.3 Sprint 3 Backlog
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item / Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned to</strong></td>
+    <td><strong>Status</strong></td>
+  </tr>
+
+  <tr>
+    <td>US01</td>
+    <td>Registro de productos</td>
+    <td>T01</td>
+    <td>Implementar POST /api/products</td>
+    <td>Crear endpoint para registrar productos en la base de datos.</td>
+    <td>3</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>Alerta de stock bajo</td>
+    <td>T02</td>
+    <td>Lógica de alerta por umbral de stock</td>
+    <td>Programar verificación de stock y generación de alerta.</td>
+    <td>3</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Registro de ventas con cliente</td>
+    <td>T03</td>
+    <td>POST /api/sales</td>
+    <td>Implementar endpoint para registrar ventas con datos del cliente.</td>
+    <td>2</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Historial de compras</td>
+    <td>T04</td>
+    <td>GET /api/customers/{id}/purchases</td>
+    <td>Crear endpoint para consultar historial de compras por cliente.</td>
+    <td>2</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US09</td>
+    <td>Segmentación de clientes</td>
+    <td>T05</td>
+    <td>Actualizar modelo de cliente</td>
+    <td>Incluir campo de tipo de cliente (minorista/mayorista) y lógica asociada.</td>
+    <td>2</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Inventario en tiempo real</td>
+    <td>T06</td>
+    <td>GET /api/stock</td>
+    <td>Implementar endpoint para mostrar stock actualizado automáticamente.</td>
+    <td>2</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Pagos digitales</td>
+    <td>T07</td>
+    <td>Simulación y registro de pagos</td>
+    <td>Implementar lógica de pagos con método (efectivo, Yape, Plin, etc.).</td>
+    <td>2</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Panel de indicadores</td>
+    <td>T08</td>
+    <td>Visualización de KPIs</td>
+    <td>Implementar backend para indicadores como ventas del día y metas mensuales.</td>
+    <td>2</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>TS01</td>
+    <td>API Registro de Productos</td>
+    <td>T09</td>
+    <td>POST /api/products (TS)</td>
+    <td>Validación de campos obligatorios en creación de producto.</td>
+    <td>1</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>API Consulta de Productos</td>
+    <td>T10</td>
+    <td>GET /api/products</td>
+    <td>Obtener listado completo de productos registrados.</td>
+    <td>1</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>API Registro de Ventas</td>
+    <td>T11</td>
+    <td>POST /api/sales (TS)</td>
+    <td>Registrar ventas con validación de datos.</td>
+    <td>1</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>TS04</td>
+    <td>API Historial de Compras</td>
+    <td>T12</td>
+    <td>GET /api/customers/{id}/purchases (TS)</td>
+    <td>Mostrar historial del cliente con fechas y productos.</td>
+    <td>1</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td>API Consulta de Stock</td>
+    <td>T13</td>
+    <td>GET /api/stock (TS)</td>
+    <td>Retornar cantidad actual de stock por producto.</td>
+    <td>1</td>
+    <td></td>
+    <td>To Do</td>
+  </tr>
+</table>
+
+
 
  ## 5.3. Validation Interviews
   ### 5.3.1. Diseño de Entrevistas
