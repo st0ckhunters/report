@@ -2338,7 +2338,7 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
   </table>
 
 #### 5.2.2.3. Sprint Backlog 2
-    <table>
+  <table>
   <tr>
     <td><strong>Sprint #</strong></td>
     <td colspan="7"><strong>Sprint 2</strong></td>
@@ -2518,6 +2518,9 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
 
   </tr>
   </table>
+
+
+
 
 #### 5.2.3.3 Sprint 3 Backlog
 <table>
