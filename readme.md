@@ -1879,7 +1879,7 @@ Adicionalmente, se definieron extensiones recomendadas para VSCode como ESLint, 
   ### 5.1.2. Source Code Management
 
 El proyecto adoptará el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma principal.<br> A continuación, se explicará cómo se implementará GitFlow como flujo de trabajo de versiones, junto con los enlaces a los repositorios de GitHub correspondientes para cada producto: Landing Page, Web Services y Frontend Web Applications.<br>
-Repositorio de GitHub: Enlace para [acceder a la organización en GitHub](https://github.com/st0ckhunters "Organización de GitHub"), Enlace para acceder al repositorio de la [Landing Page](), Enlace para acceder al repositorio del [Frontend Web Application]().<br>
+Repositorio de GitHub: Enlace para [acceder a la organización en GitHub](https://github.com/st0ckhunters "Organización de GitHub"), Enlace para acceder al repositorio de la [Landing Page](https://github.com/st0ckhunters/landingPage "Landing Page"), Enlace para acceder al repositorio del [Frontend Web Application](https://github.com/st0ckhunters/Frontend-web-application "Frontend Web Application").<br>
 Flujo de trabajo GitFlow: El flujo de trabajo que se utilizará para el desarrollo del proyecto es el propuesto por Vincent Driessen en "A successful Git branching model".<br>
 
 ![GitFlow](resources/GitFlow.png "Git Flow Image")
@@ -1949,7 +1949,7 @@ Para desplegar la landing page, es necesario cumplir con ciertos requisitos, tal
 
   6. Esperar a que GitHub realice las verificaciones necesarias. Una vez completado el proceso, se proporcionará un enlace que llevará a la landing page desplegada.
 
-  * Enlace para acceder a la [landing page]()
+  * Enlace para acceder a la [landing page](https://github.com/st0ckhunters/landingPage "landing page")
 
 ### Despliegue de la aplicación web Front End:
 
@@ -2686,4 +2686,30 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
 
 # Conclusiones
  ## Conclusiones y recomendaciones
+ Durante los dos primeros sprints, el equipo logró sentar una buena base tanto en lo técnico como en la forma de trabajar juntos. En el Sprint 1, nos enfocamos en organizar el proyecto, armar el equipo y diseñar los primeros elementos visuales, como una página inicial estática. También empezamos a usar herramientas importantes como GitHub para controlar las versiones y Figma para hacer prototipos, además de definir detalles técnicos como el diagrama de clases y preparar el entorno de desarrollo.
+
+  En el Sprint 2, dimos un gran paso al construir el primer prototipo funcional de la aplicación. Pudimos implementar funciones básicas como el catálogo de productos, la gestión de clientes y ventas, y formularios interactivos para contacto y login. Usamos una fake API en Render para simular datos y así facilitar que frontend y backend trabajaran mejor juntos, lo que ayudó a hacer pruebas y a integrar todo de forma más eficiente.
+
+  Además, mejoramos la forma en que organizamos el trabajo: distribuimos mejor las tareas usando Figma, asignamos roles claros dentro del equipo y seguimos un flujo de trabajo con git flow para mantener todo ordenado en desarrollo, pruebas y producción. También logramos desplegar el frontend en GitHub Pages y solucionamos problemas relacionados con las rutas y el router.
+
+  En cuanto a la colaboración, la comunicación dentro del equipo fue mejorando, y pudimos resolver algunas dificultades que tuvimos con los tiempos de entrega al inicio. Ahora el equipo está más organizado, cada quien sabe bien qué hacer y se nota que trabajamos con más autonomía y eficiencia.
+
+  Aunque todavía quedan cosas por terminar y detalles por mejorar, estos dos primeros sprints nos dejaron claro que tenemos una buena visión del proyecto, que nos coordinamos bien y que seguimos un proceso ordenado para ir avanzando paso a paso. Todo esto nos prepara bien para los próximos retos y para seguir mejorando la aplicación.
+
 **## Video About-the-Team**
+
+# Bibliografía
+
+- Blue Ridge Global. (s.f.). *10 Eye-Popping Statistics About Retail Inventory Planning*. Recuperado de [https://blueridgeglobal.com/es/blog/10-eye-popping-statistics-about-retail-inventory-planning/](https://blueridgeglobal.com/es/blog/10-eye-popping-statistics-about-retail-inventory-planning/)
+
+- UpKaizen. (s.f.). *Del papel a los píxeles: los beneficios y desafíos de digitalizar su inventario*. Recuperado de [https://upkaizen.com/es/del-papel-a-los-pixeles-los-beneficios-y-desafios-de-digitalizar-su-inventario/](https://upkaizen.com/es/del-papel-a-los-pixeles-los-beneficios-y-desafios-de-digitalizar-su-inventario/)
+
+- MasterBase. (s.f.). *Cómo la automatización de procesos revoluciona la gestión de inventarios*. Recuperado de [https://masterbase.com/es/como-la-automatizacion-de-procesos-revoluciona-la-gestion-de-inventarios/](https://masterbase.com/es/como-la-automatizacion-de-procesos-revoluciona-la-gestion-de-inventarios/)
+
+- MRPeasy. (s.f.). *¿Qué es la gestión automatizada de inventarios?*. Recuperado de [https://www.mrpeasy.com/blog/es/gestion-automatizada-de-inventarios/](https://www.mrpeasy.com/blog/es/gestion-automatizada-de-inventarios/)
+
+# Anexos 
+
+**Entrevistas Stock Hunters**
+
+[![Interview Playlist](https://img.shields.io/badge/Entrevistas-playlist-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-9ocGPgSml3bQemJ1ESEUNw4v_bBCcbC)
