@@ -24,10 +24,9 @@
 string[] Integrantes() {
     return new string[] {
         "🧑‍💻 Miranda Ayasta, Rogger Faryd - U202319239",
-        "👩‍💻 Costa Morales, Christofer William -U202315968",        
         "👩‍💻 Tasayco Osorio, Raul Hiroshi - U202319415",
-        "👩‍💻 Alva Abanto, Luis Andres - u202310877",
         "👩‍💻 Vargas Javier, Jose Enrique - U20221F693",
+        "👩‍💻 Costa Morales, Christofer William -U202315968",        
     };
 }
 ~~~
@@ -52,7 +51,7 @@ Abril del 2025 🗓️
   <tr>
     <td>TB1</td>
     <td>2025-04-20</td>
-    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li><li>Jose Enrique Vargas Javier</li></ul></td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Jose Enrique Vargas Javier</li><li>Christofer William Costa Morales</li></ul></td>
     <td> Se han incluído los siguientes capítulos:
         <ul>
           <li>Capítulo I: Introducción</li>
@@ -66,7 +65,7 @@ Abril del 2025 🗓️
   <tr>
     <td>TP</td>
     <td>2025-05-13</td>
-    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li></ul></td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li>  <li> Rogger Faryd Miranda Ayasta </li><li>Jose Enrique Vargas Javier</li><li>Christofer William Costa Morales</li></ul></td>
     <td> Se han incluído los siguientes capítulos y secciones:
         <ul>
           <li>Capitulo V: Product Implementation, Validation & Deployment, desde el punto 5.2.2. hasta 5.2.2.8.</li>
@@ -85,7 +84,7 @@ Abril del 2025 🗓️
    <tr>
     <td>TB2</td>
     <td>2025-06-18</td>
-    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li> <li>Luis Andres Alva Abanto</li> <li> Rogger Faryd Miranda Ayasta </li><li>Christofer William Costa Morales</li></ul></td>
+    <td> <ul> <li>Raul Hiroshi Tasayco Osorio</li>  <li> Rogger Faryd Miranda Ayasta </li><li>Jose Enrique Vargas Javier</li><li>Christofer William Costa Morales</li></ul></td>
     <td> Se han incluído los siguientes capítulos y secciones:
         <ul>
           <li>Capitulo V: Product Implementation, Validation & Deployment, desde el punto 5.2.3. hasta 5.4.</li>
@@ -116,9 +115,7 @@ A continuación se presentaran los commit realizados por los contribuidores para
 
 ![alt text](resources/Insights.png)
 
-Cabe recalcar que no toma en cuenta los merge commits y algunos de los commits de nuestro integrante, Christofer Costa, no se guardaron con su cuenta de github y aparecen con otro nombre, por lo que no se registran en los insights:
 
-![alt text](resources/Commit_Christofer.png)
 
 <div>
 
@@ -229,143 +226,121 @@ Cabe recalcar que no toma en cuenta los merge commits y algunos de los commits d
 ## Student Outcome
 ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 <div>
-
-<table>
-  <thead>
-    <tr>
-      <th>Criterio específico</th>
-      <th>Nombre</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Criterio 1 -->
-    <tr>
-      <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-      <td>Raúl Tasayco</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br><br>
-        <strong>ℹ️ TP:</strong><br><br>
-        <strong>ℹ️ TB2:</strong><br><br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-      <td rowspan="5">Me comunico oralmente de manera clara y estructurada, aportando al análisis técnico y estratégico del proyecto.</td>
-    </tr>
-    <tr>
-      <td>Luis Alva</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Realicé entrevistas para recolectar información clave y diseñé la arquitectura de software basada en Domain Driven Design, elaborando diagramas de contexto, contenedores y componentes.<br>
-        <strong>ℹ️ TP:</strong><br>
-        <br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <tr>
-      <td>Rogger Faryd</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Mantuve comunicación constante con el equipo, avancé en el diseño en Figma, participé en la elaboración de la landing page, y preparé preguntas para entrevistas y diagramas de clases.<br>
-        <strong>ℹ️ TP:</strong><br>
-        Distribuí tareas y roles, avancé en el desarrollo de endpoints, parte visual de la web y detalles de la landing page.<br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <tr>
-      <td>Christofer William</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Realicé needfinding, escenarios to-be, impact mapping e Information Architecture, y recolecté información gracias a la comunicación con los posibles clientes.<br>
-        <strong>ℹ️ TP:</strong><br>
-        <br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <tr>
-      <td>Enrique Vargas</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Participé activamente en el diseño de la página web mediante Figma y mantuve comunicación constante para coordinar avances y coherencia del proyecto.<br>
-        <strong>ℹ️ TP:</strong><br>
-        Me encargué de completar la parte visual del proyecto y de su despliegue en la web.<br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <!-- Criterio 2 -->
-    <tr>
-      <td rowspan="6">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
-      <td>Raúl Tasayco</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br><br>
-        <strong>ℹ️ TP:</strong><br><br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-      <td rowspan="6">Redacto con claridad, adaptando mi comunicación escrita a públicos técnicos y no técnicos.</td>
-    </tr>
-    <tr>
-      <td>Luis Alva</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Diseñé preguntas para entrevistas que sustentan decisiones de diseño y expresé ideas técnicas para el desarrollo basado en la investigación.<br>
-        <strong>ℹ️ TP:</strong><br>
-        <br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <tr>
-      <td>Rogger Faryd</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Redacté contenido para la landing page y documentación técnica, adaptando el estilo según el público (usuarios o equipo técnico).<br>
-        <strong>ℹ️ TP:</strong><br>
-        Desarrollé páginas de login, registro y reportes para la web.<br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <tr>
-      <td>Christofer William</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Documenté procesos con accesibilidad y claridad para que cualquier persona pueda entender el proyecto.<br>
-        <strong>ℹ️ TP:</strong><br>
-        <br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-    <tr>
-      <td>Enrique Vargas</td>
-      <td>
-        <strong>ℹ️ TB1:</strong><br>
-        Elaboré guías de estilo visual y web, wireframes, diagramas de flujo y prototipos interactivos en Figma.<br>
-        <strong>ℹ️ TP:</strong><br>
-        Desarrollé user stories y componentes para la página principal.<br>
-        <strong>ℹ️ TB2:</strong><br>
-        <br>
-        <strong>ℹ️ TF:</strong><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+  <table>
+    <thead>
+      <tr>
+        <th>Criterio específico</th>
+        <th>Nombre</th>
+        <th>Acciones realizadas</th>
+        <th>Conclusiones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Criterio 1 -->
+      <tr>
+        <td rowspan="4">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+        <td>Raúl Tasayco</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Realicé el apartado de Solution Profile, Antecedentes, los gráficos de Lean UX, tanto Lean UX Problem Statement, Lean UX Assumptions, hasta el 1.2.2.4., finalmente terminé con la sección de Segmentos objetivos definiendo a los competidores que tendríamos, el análisis competitivo y las estrategias que tendremos frente a otros competidores.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Desarrollo de la arquitectura, mejoras en los diagramas y ayuda en el apartado de Software Configuration Management.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Continué optimizando el frontend con Angular, implementando mejoras en el routeo y componentes, y colaboré en la integración de nuevas funcionalidades basadas en las necesidades identificadas.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+        <td rowspan="4">Me comunico oralmente de manera clara y estructurada, aportando al análisis técnico y estratégico del proyecto.</td>
+      </tr>
+      <tr>
+        <td>Rogger Faryd</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Mantuve comunicación constante con el equipo, avancé en el diseño en Figma, participé en la elaboración de la landing page, y preparé preguntas para entrevistas y diagramas de clases.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Distribuí tareas y roles, avancé en el desarrollo de endpoints, parte visual de la web y detalles de la landing page.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Finalicé el desarrollo de la landing page y trabajé en la optimización de los endpoints para mejorar la experiencia del usuario.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+      </tr>
+      <tr>
+        <td>Christofer William</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Realicé needfinding, escenarios to-be, impact mapping e Information Architecture, y recolecté información gracias a la comunicación con los posibles clientes.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Realicé needfinding, escenarios to-be, impact mapping e Information Architecture, y recolecté información gracias a la comunicación con los posibles clientes.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Colaboré en la documentación técnica y en la validación de los escenarios to-be con los datos recolectados.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+      </tr>
+      <tr>
+        <td>Enrique Vargas</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Participé activamente en el diseño de la página web mediante Figma y mantuve comunicación constante para coordinar avances y coherencia del proyecto.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Me encargué de completar la parte visual del proyecto y de su despliegue en la web.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Refiné los prototipos interactivos en Figma y apoyé en la integración visual con el frontend desarrollado.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+      </tr>
+      <!-- Criterio 2 -->
+      <tr>
+        <td rowspan="4">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+        <td>Raúl Tasayco</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Me comuniqué de manera activa con el grupo y con el team leader demostrando mi compromiso por el trabajo y el curso, además de cumplir con mis plazos de entrega.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Me comuniqué de manera activa con el grupo y con el team leader demostrando mi compromiso por el trabajo y el curso, además de cumplir con mis plazos de entrega.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Me comuniqué con el grupo en todo momento en el cual establecimos las metas para esta entrega, cumplí y traté de ayudar en lo máximo posible.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+        <td rowspan="4">Redacto con claridad, adaptando mi comunicación escrita a públicos técnicos y no técnicos.</td>
+      </tr>
+      <tr>
+        <td>Rogger Faryd</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Redacté contenido para la landing page y documentación técnica, adaptando el estilo según el público (usuarios o equipo técnico).<br>
+          <strong>ℹ️ TP:</strong><br>
+          Desarrollé páginas de login, registro y reportes para la web.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Continué redactando documentación técnica y ajusté el contenido de la landing page para mayor claridad.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+      </tr>
+      <tr>
+        <td>Christofer William</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Documenté procesos con accesibilidad y claridad para que cualquier persona pueda entender el proyecto.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Documenté procesos con accesibilidad y claridad para que cualquier persona pueda entender el proyecto.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Actualicé la documentación con nuevos hallazgos y aseguré que fuera comprensible para todos los involucrados.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+      </tr>
+      <tr>
+        <td>Enrique Vargas</td>
+        <td>
+          <strong>ℹ️ TB1:</strong><br>
+          Elaboré guías de estilo visual y web, wireframes, diagramas de flujo y prototipos interactivos en Figma.<br>
+          <strong>ℹ️ TP:</strong><br>
+          Desarrollé user stories y componentes para la página principal.<br>
+          <strong>ℹ️ TB2:</strong><br>
+          Completé los wireframes y colaboré en la documentación visual del proyecto.<br>
+          <strong>ℹ️ TF:</strong><br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
 
 <!--* contenido -->
 
@@ -407,27 +382,6 @@ Stockhunters es una startup que transforma la gestión de inventarios mediante s
    <!--TODO: integrante 2 -->
 
 
-**> 🧑‍💻 **
-   <div align='center'>
-
-  <img src="https://files.catbox.moe/dnmt63.png" alt="Luis Andres Alva Abanto" width="100" align='right'>
-
-   ~~~txt
-  ✅ Estudiante de Ingeniería de Software en UPC
-   💻 Me gusta el desarrollo ágil aplicando patrones de diseño
-   y arquitectura escalable. Actualmente estoy aprendiendo 
-   Java y C#. 
-   😊 Me destaco por mi capacidad para trabajar en equipo
-    y el compromiso con el proyecto. 
-
-   ➡️ C++       
-   ➡️ C#        
-   ➡️ Python    
-   ➡️ JavaScript
-   ➡️ HTML & CSS
-   ~~~
-
-   </div>
 
    <!--TODO: integrante 3 -->
 
