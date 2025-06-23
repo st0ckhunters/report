@@ -2682,10 +2682,17 @@ Para el avance del backend:
   Entrevistador: Christofer Costa Morales
   Entrevistado: Juan Josemaria Costa Morales
   Link de la entrevista: [Entrevista de Validacion](https://youtu.be/EGmaobECRkg)
-  Fecha: 2025-06-12
+  Fecha: 2025-06-22
 
   ![alt text](resources/validation_interview1.png)
 
+ Entrevista Ns - Administradores:
+  Entrevistador: Christofer Costa Morales
+  Entrevistado: Maria Morales Mendez
+  Link de la entrevista: [Entrevista de Validacion](https://youtu.be/lHmjtVN87IQ)
+  Fecha: 2025-06-22
+
+ ![alt text](resources/validation_interview_2.png)
 
 
   ### 5.3.3. Evaluaciones según heurísticas
