@@ -2679,12 +2679,14 @@ Para el avance del backend:
   ### 5.3.2. Registro de Entrevistas
 
  Entrevista N1 - Cliente:
-  Entrevistador: Jorge Suin Yum Gonzales
-  Entrevistado: Chul Hwan Yum
+  Entrevistador: Christofer Costa Morales
+  Entrevistado: Juan Josemaria Costa Morales
   Link de la entrevista: [Entrevista de Validacion](https://youtu.be/EGmaobECRkg)
-  Fecha: 2025-06-122
+  Fecha: 2025-06-12
 
   ![alt text](resources/validation_interview1.png)
+
+
 
   ### 5.3.3. Evaluaciones según heurísticas
    **Sitio o App a evaluar:** Stock Hunters - Aplicación Web de Gestión de Inventarios y Ventas
