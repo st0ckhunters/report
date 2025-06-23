@@ -2633,9 +2633,93 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
 
  ## 5.3. Validation Interviews
   ### 5.3.1. Diseño de Entrevistas
+    Para la validación de la usabilidad de la aplicación web "Stock Hunters", se diseñó un conjunto de entrevistas con usuarios potenciales. Estas entrevistas tienen como objetivo evaluar la experiencia del usuario al interactuar con las diferentes funcionalidades de la aplicación, así como identificar posibles áreas de mejora.
+
+  1. ¿Como calificarias el diseño visual de la aplicación?
+  2. ¿El mensaje principal de la pagina fue claro para ti?
+  3. ¿Que tan facil fue navegar por la landing page?
+  4. ¿Encontraste toda la que esperabas sobre el producto?
+  5. ¿Que tan intuitiva te parecio la interfaz de StockHunter?
+  6. ¿Qué tan útil te parece StockHunter para resolver tus problemas con el inventario?
+
   ### 5.3.2. Registro de Entrevistas
+
+
+
   ### 5.3.3. Evaluaciones según heurísticas
- 
+   **Sitio o App a evaluar:** Stock Hunters - Aplicación Web de Gestión de Inventarios y Ventas
+  **Tareas a evaluar:**
+  El alcance de esta evaluacion incluye la revision de la usabilidad de las siguientes tareas:
+  - Registro de productos
+  - Registro de ventas
+  - Consulta de productos
+  - Consulta de ventas
+  - Consulta de clientes
+  - Consulta de stock
+  - Consulta de alertas de stock bajo
+  - Consulta de reportes de ventas
+  - Consulta de reportes de clientes
+  - Gestion de ventas
+  - Gestión de clientes
+  - Gestión de productos
+  - Gestión de stock
+  - Analisis de ventas semanal
+  - Analisis de ventas mensual
+
+No estan incluidas en esta version de la evaluacion las siguientes tareas:
+1. Landing Page
+   
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+|***Nivel***|***Descripción***|
+| :-: | :-: |
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+#### ❗ **Recordatorio**  
+**TABLA DE RESUMEN:**
+
+Los datos de la tabla son **ejemplificativos**. Verifique la información antes de enviar.  
+|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
+| :- | :- | :- | :- |
+|1|Poca legibilidad del título de horarios disponibles en teléfonos móviles|2|Inclusive Design: Proporciona experiencias comparables|
+|2|Sobreposición del calendario a la barra de navegación|3|Usability: Usabilidad y control del usuario|
+|3|Desbordamiento de la información en la visualización de reseñas |2|Inclusive Design: Proporciona experiencias comparables|
+|4|Fallo en visualización de horarios de asesores para reserva|3|Inclusive Design: Proporciona experiencias comparables|
+|5|Botones de formularios de registro con diferentes diseños|2|Usability: Consistencia y estándares|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** El evento de clic en la lista de clientes no ejecuta la acción esperada
+
+**Severidad:** 3
+
+**Heurística violada:** Control y libertad del usuario / Visibilidad del estado del sistema
+
+**Problema:** Al interactuar con un elemento de la lista de clientes, el sistema no responde ni despliega la vista detallada del cliente correspondiente. Esta falta de retroalimentación impide al usuario acceder a información crítica y genera incertidumbre respecto al estado de la acción ejecutada. Además, la lista no presenta un orden lógico, dificultando la búsqueda eficiente de registros.
+
+**Imagen:**
+<img src="resources/heuristica1.png" width="60%">
+
+**Recomendación:** Revisar el controlador del evento de clic y asegurar que se vincule correctamente al componente de detalle. Establecer un criterio de ordenamiento predeterminado (por ejemplo, alfabético por nombre) y permitir ordenamiento dinámico si es necesario.
+
+**PROBLEMA #2:** El botón de “Añadir productos” no activa el formulario correspondiente
+
+**Severidad:** 3
+
+**Heurística violada:** Consistencia y estándares / Visibilidad del estado del sistema
+
+**Problema:** El botón destinado a añadir productos no despliega el formulario necesario, lo que impide que el usuario complete una tarea fundamental del sistema.
+
+**Imagen:**
+
+![alt text](resources/heuristica2.png)
+
+**Recomendación:** Verificar la vinculación del botón con el manejador de eventos y el correcto renderizado del formulario. Incluir retroalimentación visual para mejorar la percepción de acción por parte del usuario.
+
+-----
  ## 5.4. Video About-the-Product
 
 # Conclusiones
