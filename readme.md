@@ -2667,7 +2667,7 @@ Para el avance del backend:
 
  ## 5.3. Validation Interviews
   ### 5.3.1. Diseño de Entrevistas
-    Para la validación de la usabilidad de la aplicación web "Stock Hunters", se diseñó un conjunto de entrevistas con usuarios potenciales. Estas entrevistas tienen como objetivo evaluar la experiencia del usuario al interactuar con las diferentes funcionalidades de la aplicación, así como identificar posibles áreas de mejora.
+  Para la validación de la usabilidad de la aplicación web "Stock Hunters", se diseñó un conjunto de entrevistas con usuarios potenciales. Estas entrevistas tienen como objetivo evaluar la experiencia del usuario al interactuar con las diferentes funcionalidades de la aplicación, así como identificar posibles áreas de mejora.
 
   1. ¿Como calificarias el diseño visual de la aplicación?
   2. ¿El mensaje principal de la pagina fue claro para ti?
