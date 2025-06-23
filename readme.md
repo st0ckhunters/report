@@ -111,10 +111,26 @@ Abril del 2025 🗓️
 ## Project Report Collaboration Insights
 Enlace al trabajo de github: https://github.com/st0ckhunters/report.git
 
+Enlace del frontend: https://github.com/st0ckhunters/Frontend-web-application.git
+
+Enlace al landing page: https://github.com/st0ckhunters/landingPage.git
+
 A continuación se presentaran los commit realizados por los contribuidores para el avance del TB1:
 
 ![alt text](resources/Insights.png)
 
+A continuación se presentaran los commit realizados por los contribuidores para el avance del TB2:
+
+![alt text](resources/insigth_backend_tb2.png)
+
+
+
+![alt text](resources/insigth_frontend_tb2.png)
+
+
+![alt text](resources/insigth_landing_page_tb2.png)
+
+![alt text](resources/insigth_report_tb2.png)
 
 
 <div>
@@ -2629,7 +2645,25 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
   </tr>
 </table>
 
+#### 5.2.3.4 Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, se mantuvo un control de la versiones siguiendo el proceso de git flow para cada avance y mejora. Aqui se detallan el flujo y los contribuidores:
+
+Para las mejoras en el reporte:
+
+![alt text](resources/insigth_report_tb2.png)
+
+Para las mejoras en el frontend:
+
+![alt text](resources/insigth_frontend_tb2.png)
+
+Para las mejoras en el landing page:
+
+![alt text](resources/insigth_landing_page_tb2.png)
+
+Para el avance del backend:
+
+![alt text](resources/insigth_backend_tb2.png)
 
  ## 5.3. Validation Interviews
   ### 5.3.1. Diseño de Entrevistas
@@ -2644,7 +2678,13 @@ Para desplegar la aplicación web Front End, es necesario cumplir con ciertos re
 
   ### 5.3.2. Registro de Entrevistas
 
+ Entrevista N1 - Cliente:
+  Entrevistador: Jorge Suin Yum Gonzales
+  Entrevistado: Chul Hwan Yum
+  Link de la entrevista: [Entrevista de Validacion](https://youtu.be/EGmaobECRkg)
+  Fecha: 2025-06-122
 
+  ![alt text](resources/validation_interview1.png)
 
   ### 5.3.3. Evaluaciones según heurísticas
    **Sitio o App a evaluar:** Stock Hunters - Aplicación Web de Gestión de Inventarios y Ventas
