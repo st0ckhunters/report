@@ -2686,7 +2686,7 @@ Para el avance del backend:
 
   ![alt text](resources/validation_interview1.png)
 
- Entrevista Ns - Administradores:
+ Entrevista N2 - Administradores:
   Entrevistador: Christofer Costa Morales
   Entrevistado: Maria Morales Mendez
   Link de la entrevista: [Entrevista de Validacion](https://youtu.be/lHmjtVN87IQ)
@@ -2694,6 +2694,13 @@ Para el avance del backend:
 
  ![alt text](resources/validation_interview_2.png)
 
+ Entrevista N3 - Administradores:
+  Entrevistador: Jose Enrique Vargas Javier
+  Entrevistado: Alonso Palacios
+  Link de la entrevista: [Entrevista de Validacion](https://youtu.be/hi3VY7GXyf0?si=ignfVIS6Y6_d8Ffm)
+  Fecha: 2025-06-22
+
+ ![alt text](resources/entrevista_a.JPG)
 
   ### 5.3.3. Evaluaciones según heurísticas
    **Sitio o App a evaluar:** Stock Hunters - Aplicación Web de Gestión de Inventarios y Ventas
